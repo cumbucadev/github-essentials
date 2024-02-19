@@ -1,8 +1,12 @@
 # Table of contents
 
+## blah
+
+* [Page 2](README.md)
+
 ## Dia 1: Introdução
 
-* [Introdução](README.md)
+* [Introdução](<README (1).md>)
 
 ## Dia 2: Controle de Versão Básico com Git
 
