@@ -1,8 +1,6 @@
 # Table of contents
 
-## blah
-
-* [Page 2](README.md)
+* [README.md](README.md)
 
 ## Dia 1: Introdução
 
