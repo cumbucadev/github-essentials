@@ -4,7 +4,7 @@
 
 ## Dia 1: Introdução
 
-* [Introdução](<README (1).md>)
+* [Introdução](dia-1-introducao/introducao.md)
 
 ## Dia 2: Controle de Versão Básico com Git
 
