@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/Cabeçalho.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Introdução
 
 Seja bem vindo ao nosso curso de GitHub Essentials: um curso pensado especialmente para quem nunca teve contato com esta ferramenta tão poderosa. Este curso é composto de alguns fundamentos básicos e muita prática, para que você possa aprender entendendo o que está fazendo e aos poucos ir ganhando ainda mais confiança na colaboração e gestão de projetos.&#x20;

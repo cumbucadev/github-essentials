@@ -17,5 +17,5 @@ layout:
     visible: true
 ---
 
-# README.md
+# Template
 

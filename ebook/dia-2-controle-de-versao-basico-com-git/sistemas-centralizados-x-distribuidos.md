@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Cabeçalho.png
+cover: ../.gitbook/assets/Cabeçalho.png
 coverY: 0
 layout:
   cover:
@@ -17,5 +17,5 @@ layout:
     visible: true
 ---
 
-# README.md
+# Sistemas Centralizados x Distribuídos
 
