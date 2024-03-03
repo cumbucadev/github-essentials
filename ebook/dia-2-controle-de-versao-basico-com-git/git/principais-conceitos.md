@@ -12,5 +12,12 @@ layout:
     visible: true
 ---
 
-# 🛠️ Git
+# 🛠️ Principais Conceitos
 
+
+
+
+
+
+
+{% embed url="https://www.atlassian.com/br/git/tutorials/what-is-git" %}

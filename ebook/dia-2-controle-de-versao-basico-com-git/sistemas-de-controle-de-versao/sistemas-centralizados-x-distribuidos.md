@@ -21,9 +21,21 @@ layout:
 
 A primeira solução de Sistemas de Controle de Versão criada foi com uma arquitetura centralizada, com um único repositório central onde todo o histórico de alterações e versões do código era armazenado.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Os usuários fazem check-in (envio de alterações) e check-out (obtenção de uma cópia atualizada) do código desse repositório central.
-
-
 
 1. **Repositório Centralizado**: É o ponto central onde todo o código-fonte e histórico de versões são armazenados. Todos os desenvolvedores trabalham diretamente com este repositório para obter versões atualizadas do código e para enviar suas alterações.
 2. **Checkout e Check-in**: Os desenvolvedores "checam" (checkout) uma cópia do código do repositório central para trabalhar localmente em suas máquinas. Após fazerem suas alterações, eles "checam" (check-in) suas modificações de volta para o repositório central.
@@ -33,7 +45,7 @@ Os usuários fazem check-in (envio de alterações) e check-out (obtenção de u
 
 
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -43,7 +55,9 @@ Embora os sistemas centralizados tenham sido amplamente utilizados no passado, m
 
 
 
-### **Sistemas Distribuídos**
+### **Sistemas Distribuídos**&#x20;
+
+Também chamados de DVCS ()
 
 Esses sistemas não dependem de um repositório central. Cada cópia do repositório contém todo o histórico de alterações, o que significa que os desenvolvedores podem trabalhar localmente e, em seguida, sincronizar suas alterações com os outros repositórios. Exemplos populares incluem Git, Mercurial e Bazaar.
 
@@ -61,7 +75,7 @@ Aqui estão algumas características-chave dos sistemas descentralizados de cont
 
 
 
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -78,8 +92,6 @@ O Git é o sistema de controle de versão descentralizado mais popular e amplame
 As diferenças principais entre os sistemas centralizados e descentralizados de controle de versão de código estão relacionadas à arquitetura, à forma como lidam com ramificação e mesclagem, à disponibilidade offline e à gestão de repositórios. Aqui estão as diferenças principais:
 
 
-
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 1. **Arquitetura**:
    * Centralizado: Em um sistema centralizado, há um único repositório central que armazena todas as versões do código. Os desenvolvedores interagem diretamente com esse repositório central.
@@ -119,5 +131,5 @@ Em resumo, os fluxos de trabalho em sistemas centralizados tendem a ser mais lin
 
 {% embed url="https://faun.pub/centralized-vs-distributed-version-control-systems-a135091299f0" %}
 
-
+{% embed url="https://www.linkedin.com/pulse/centralized-version-control-systems-cvcs-distributed-dvcs-marathe" %}
 
