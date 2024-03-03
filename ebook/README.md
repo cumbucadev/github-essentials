@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Cabeçalho.png
+cover: .gitbook/assets/Cabeçalho (1).svg
 coverY: 0
 layout:
   cover:
