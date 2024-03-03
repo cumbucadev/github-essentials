@@ -20,6 +20,8 @@ layout:
 
 # Sistemas de Controle de Versão
 
+### Motivação
+
 Você consegue se lembrar ou imaginar como era pedir para alguém revisar um documento antes do surgimento de plataformas de edição de textos colaborativa, como Google Docs e Microsoft Word online?
 
 <div align="center" data-full-width="true">
@@ -36,11 +38,11 @@ Ou você lembra como era quando se precisava escrever um documento em conjunto c
 
 <figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Um dos artifícios mais utilizados era cada pessoa escrever de uma cor diferente para facilmente identificar o quê foi incluído por quem e ficar reenviando os arquivos ao longo da escrita.
+Um dos artifícios mais utilizados era cada pessoa escrever de uma cor diferente para facilmente identificar o quê foi incluído por quem e ficar reenviando os arquivos ao longo da escrita. Um pouco rudimentar, não acha?
 
 
 
-Ferramentas como o Google docs surgiram para facilitar estes tipos de tarefas. Com ele, fica muito fácil colaborar e revisar documentos em tempo real com muitas pessoas.
+Ferramentas como o Google docs surgiram para facilitar estes tipos de tarefas. Com elas, fica muito fácil colaborar e revisar documentos em tempo real com muitas pessoas.
 
 
 
@@ -52,30 +54,34 @@ Essas plataformas, mantêm um histórico detalhado de revisões, permitindo que 
 
 
 
-Exatamente os mesmo problemas citados para escrita de documentos de texto ocorrem para escrita de documentos de código.
+Exatamente os mesmo problemas citados para escrita de documentos de texto ocorriam na escrita de documentos de código antes da existência dos sistemas de controle de versão (_Version Control Systems_ - VCS).
 
+### O quê são
 
+Sistemas de controle de versão são ferramentas utilizadas no desenvolvimento de software para gerenciar e controlar as mudanças no código-fonte e na documentação de um projeto ao longo do tempo. Eles permitem que várias pessoas trabalhem simultaneamente no mesmo projeto, facilitando a colaboração, rastreamento de alterações, identificação de problemas e reversão de modificações, entre outras funcionalidades.
 
-por que
+Sistemas de controle de versão são essenciais para o desenvolvimento de software em equipe, pois ajudam a manter a integridade do código-fonte, facilitam a colaboração e aumentam a eficiência do desenvolvimento.
 
-o quê é
-
-funcionalidades
-
-
-
-Sistemas de controle de versão (Version Control Systems - VCS) são ferramentas utilizadas no desenvolvimento de software para gerenciar e controlar as mudanças no código-fonte e na documentação de um projeto ao longo do tempo. Eles permitem que várias pessoas trabalhem simultaneamente no mesmo projeto, facilitando a colaboração, rastreamento de alterações, identificação de problemas e reversão de modificações, entre outras funcionalidades.
-
-
+### Funcionalidades
 
 As principais funcionalidades oferecidas por sistemas de controle de versão incluem:
 
-* **Rastreamento de alterações**: Registra quem fez o que, quando e por quê em relação ao código e à documentação.
-* **Ramificação e mesclagem**: Permite que os desenvolvedores criem ramificações (cópias separadas do código) para desenvolver novos recursos ou corrigir bugs sem interferir no código principal. Posteriormente, as ramificações podem ser mescladas de volta ao código principal.
-* **Reversão de alterações**: Permite reverter para versões anteriores do código, útil para corrigir bugs ou desfazer alterações problemáticas.
-* **Colaboração**: Facilita o trabalho em equipe, permitindo que vários desenvolvedores contribuam para o mesmo projeto simultaneamente.
-* **Auditoria e rastreamento**: Fornece um histórico detalhado de todas as alterações feitas no código, facilitando a auditoria e a investigação de problemas.
+#### Rastreamento de alterações
 
-Esses sistemas são essenciais para o desenvolvimento de software em equipe, pois ajudam a manter a integridade do código-fonte, facilitam a colaboração e aumentam a eficiência do desenvolvimento.
+Registra quem fez o que, quando e por quê em relação ao código e à documentação.
 
-\
+#### **Ramificação e mesclagem**
+
+Permite que os desenvolvedores criem ramificações (cópias separadas do código) para desenvolver novos recursos ou corrigir bugs sem interferir no código principal. Posteriormente, as ramificações podem ser mescladas de volta ao código principal.
+
+#### **Reversão de alterações**&#x20;
+
+Permite reverter para versões anteriores do código, útil para corrigir bugs ou desfazer alterações problemáticas.
+
+#### **Colaboração**
+
+Facilita o trabalho em equipe, permitindo que vários desenvolvedores contribuam para o mesmo projeto simultaneamente.
+
+#### **Auditoria e rastreamento**
+
+Fornece um histórico detalhado de todas as alterações feitas no código, facilitando a auditoria e a investigação de problemas.
