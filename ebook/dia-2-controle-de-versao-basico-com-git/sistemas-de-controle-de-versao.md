@@ -1,11 +1,6 @@
 ---
 description: O quê são, para que servem e quais são suas principais funcionalidades.
-cover: ../.gitbook/assets/Cabeçalho (1).svg
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
