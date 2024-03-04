@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# 🛠️ Sistemas de Controle de Versão
+# Sistemas de Controle de Versão
 
 ### Motivação
 

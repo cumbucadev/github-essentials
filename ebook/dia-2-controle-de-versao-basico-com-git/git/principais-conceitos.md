@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 🛠️ Principais Conceitos
+# Principais Conceitos
 
 
 

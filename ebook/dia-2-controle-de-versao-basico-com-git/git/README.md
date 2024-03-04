@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# 🛠️ Git
+# Git
 
 
 

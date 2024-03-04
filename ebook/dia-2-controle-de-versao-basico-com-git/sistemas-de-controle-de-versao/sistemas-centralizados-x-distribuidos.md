@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# 🛠️ Sistemas Centralizados x Distribuídos
+# Sistemas Centralizados x Distribuídos
 
 ### **Sistemas Centralizados**
 

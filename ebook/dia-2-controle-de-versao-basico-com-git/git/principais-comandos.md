@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# 🛠️ Principais Comandos
+# Principais Comandos
 
 
 
