@@ -17,6 +17,8 @@ layout:
 
 # Sistemas Centralizados x Distribuídos
 
+O Git, sistema de controle de versão que iremos utilizar nesse curso, é um sistema de controle de versão distribuído (_Distributed Version Control System_ - DVCS). Para entender a motivação da criação de sua arquitetura e funcionamento, vale a pena entendermos primeiro como era feito antes dele.
+
 ### **Sistemas Centralizados**
 
 A primeira solução de Sistemas de Controle de Versão criada foi com uma arquitetura centralizada, com um único repositório central onde todo o histórico de alterações e versões do código era armazenado.
