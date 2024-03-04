@@ -14,10 +14,16 @@ layout:
 
 # Principais Conceitos
 
+### Repositório
 
 
 
+### Branch
 
 
 
-{% embed url="https://www.atlassian.com/br/git/tutorials/what-is-git" %}
+### Merge
+
+
+
+### Fork

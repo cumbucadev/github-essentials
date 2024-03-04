@@ -12,3 +12,4 @@
 * [Git](dia-2-controle-de-versao-basico-com-git/git/README.md)
   * [Principais Conceitos](dia-2-controle-de-versao-basico-com-git/git/principais-conceitos.md)
   * [Principais Comandos](dia-2-controle-de-versao-basico-com-git/git/principais-comandos.md)
+  * [Fluxo de Trabalho](dia-2-controle-de-versao-basico-com-git/git/fluxo-de-trabalho.md)
