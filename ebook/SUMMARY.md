@@ -3,6 +3,8 @@
 ## Dia 1: Introdução
 
 * [Introdução](README.md)
+  * [🥥 Cumbuca Dev](dia-1-introducao/introducao/cumbuca-dev.md)
+  * [🐧 LINUXTips](dia-1-introducao/introducao/linuxtips.md)
 
 ## Dia 2: Controle de Versão Básico com Git
 
