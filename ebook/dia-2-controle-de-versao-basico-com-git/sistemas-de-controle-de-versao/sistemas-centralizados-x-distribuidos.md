@@ -96,6 +96,18 @@ Também chamados de DVCS ()
 
 
 
+
+
+
+
+
+
+***
+
+
+
+
+
 Esses sistemas não dependem de um repositório central. Cada cópia do repositório contém todo o histórico de alterações, o que significa que os desenvolvedores podem trabalhar localmente e, em seguida, sincronizar suas alterações com os outros repositórios. Exemplos populares incluem Git, Mercurial e Bazaar.
 
 
@@ -124,7 +136,7 @@ O Git é o sistema de controle de versão descentralizado mais popular e amplame
 
 
 
-### Diferenças
+**Diferenças**
 
 As diferenças principais entre os sistemas centralizados e descentralizados de controle de versão de código estão relacionadas à arquitetura, à forma como lidam com ramificação e mesclagem, à disponibilidade offline e à gestão de repositórios. Aqui estão as diferenças principais:
 
@@ -147,7 +159,7 @@ Em resumo, os sistemas descentralizados de controle de versão, como o Git, ofer
 
 
 
-### Fluxos de Trabalho
+**Fluxos de Trabalho**
 
 As diferenças nos fluxos de trabalho entre sistemas centralizados e descentralizados de controle de versão geralmente refletem suas arquiteturas e funcionalidades específicas. Aqui estão algumas diferenças comuns nos fluxos de trabalho:
 
