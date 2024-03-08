@@ -23,7 +23,7 @@ O Git, sistema de controle de versão que iremos utilizar nesse curso, é um sis
 
 A primeira solução para Sistemas de Controle de Versão consistiu em uma arquitetura **centralizada**, com um único repositório central onde todo o histórico de alterações e versões do código era armazenado.
 
-Pense nesse repositório central como uma pasta gigante que contém todos os documentos do seu projeto. Não só as versões atuais, mas também todas as versões anteriores e informações sobre cada uma delas. É como se fosse uma pasta que guarda toda a linha do tempo do seu projeto.
+Pense nesse repositório central como uma pasta gigante que contém todos os documentos do seu projeto. Não só a versão mais recente, mas também todas as versões anteriores e informações sobre cada uma delas. É como se fosse uma pasta que guarda toda a linha do tempo do seu projeto.
 
 > _<mark style="color:purple;">**imagem**</mark>_
 
@@ -63,40 +63,38 @@ E para piorar, X e Y modificaram o mesmo arquivo! E agora?
 
 > <mark style="color:purple;">**imagem**</mark>
 
-Bom, é aí que uma das funcionalidades mais importantes de um sistema de controle de versão entra em jogo: o Controle de Concorrência. O sistema gerencia as mudanças feitas por múltiplos desenvolvedores em um mesmo documento, ajudando a evitar conflitos e a garantir que todas as alterações sejam integradas da melhor maneira possível.
+Bom, é aí que entra em jogo umas das principais funcionalidades de um sistema de controle de versão: o auxílio no Gerenciamento de Conflitos. O sistema lida com as mudanças feitas por diferentes colaboradores no mesmo arquivo, evitando conflitos e garantindo uma integração suave das alterações. Isso é feito por meio de um processo chamado 'mesclagem', que combina o trabalho de todos de forma harmoniosa e mantém a consistência do projeto.
 
-\
+Dessa forma, X consegue tranquilamente enviar suas modificações sem comprometer em nada as mudanças feitas por Y.
 
+> <mark style="color:purple;">**imagem**</mark>
 
-
-
-
-
-
-
-Os usuários fazem check-in (envio de alterações) e check-out (obtenção de uma cópia atualizada) do código desse repositório central.
+#### Bleh (não sei que nome dar para seção)
 
 1. **Repositório Centralizado**: É o ponto central onde todo o código-fonte e histórico de versões são armazenados. Todos os desenvolvedores trabalham diretamente com este repositório para obter versões atualizadas do código e para enviar suas alterações.
 2. **Checkout e Check-in**: Os desenvolvedores "checam" (checkout) uma cópia do código do repositório central para trabalhar localmente em suas máquinas. Após fazerem suas alterações, eles "checam" (check-in) suas modificações de volta para o repositório central.
-3. **Controle de Concorrência**: Os sistemas centralizados gerenciam as mudanças concorrentes feitas por múltiplos desenvolvedores. Se dois desenvolvedores tentarem modificar o mesmo arquivo ao mesmo tempo, o sistema de controle de versão pode detectar e gerenciar essas conflitos.
+3. **Auxílio no Gerenciamento de Conflitos**: Os sistemas centralizados gerenciam as mudanças concorrentes feitas por múltiplos desenvolvedores. Se dois desenvolvedores tentarem modificar o mesmo arquivo ao mesmo tempo, o sistema de controle de versão pode detectar e gerenciar essas conflitos.
 4. **Histórico de Versões**: Um aspecto fundamental dos sistemas de controle de versão é a capacidade de acompanhar o histórico de alterações em um arquivo ao longo do tempo. Isso permite que os desenvolvedores voltem a versões anteriores do código, se necessário.
-5. **Ramos (Branches)**: Muitos sistemas centralizados permitem que os desenvolvedores criem ramos (branches) para trabalhar em funcionalidades ou correções de bugs separadas do código principal. Os ramos podem ser mesclados (merged) de volta ao ramo principal quando estiverem prontos.
 
 
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
 
-
-
-Exemplos de sistemas centralizados de controle de versão incluem o Subversion (SVN) e o Microsoft Team Foundation Version Control (TFVC).
-
-Embora os sistemas centralizados tenham sido amplamente utilizados no passado, muitas equipes estão migrando para sistemas de controle de versão distribuídos, como o Git, devido à sua flexibilidade, desempenho e recursos avançados de ramificação e mesclagem.
-
-
+Exemplos de sistemas centralizados de controle de versão incluem o Subversion (SVN) e o Microsoft Team Foundation Version Control (TFVC). Embora os sistemas centralizados tenham sido amplamente utilizados no passado, muitas equipes estão migrando para sistemas de controle de versão distribuídos, como o Git, devido à sua flexibilidade, desempenho e recursos avançados que iremos começar a desvendar aos poucos daqui para frente.
 
 ### **Sistemas Distribuídos**&#x20;
 
 Também chamados de DVCS ()
+
+
+
+
+
+
+
+
+
+
 
 Esses sistemas não dependem de um repositório central. Cada cópia do repositório contém todo o histórico de alterações, o que significa que os desenvolvedores podem trabalhar localmente e, em seguida, sincronizar suas alterações com os outros repositórios. Exemplos populares incluem Git, Mercurial e Bazaar.
 
