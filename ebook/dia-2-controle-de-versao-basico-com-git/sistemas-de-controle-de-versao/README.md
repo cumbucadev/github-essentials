@@ -61,10 +61,6 @@ Sistemas de controle de versão são essenciais para o desenvolvimento de softwa
 
 As principais funcionalidades oferecidas por sistemas de controle de versão incluem:
 
-#### Rastreamento de alterações
-
-Registra quem fez o que, quando e por quê em relação ao código e à documentação.
-
 #### **Ramificação e mesclagem**
 
 Permite que os desenvolvedores criem ramificações (cópias separadas do código) para desenvolver novos recursos ou corrigir bugs sem interferir no código principal. Posteriormente, as ramificações podem ser mescladas de volta ao código principal.
@@ -77,6 +73,8 @@ Permite reverter para versões anteriores do código, útil para corrigir bugs o
 
 Facilita o trabalho em equipe, permitindo que vários desenvolvedores contribuam para o mesmo projeto simultaneamente.
 
-#### **Auditoria e rastreamento**
+#### **Auditoria e** Rastreamento de alterações
 
-Fornece um histórico detalhado de todas as alterações feitas no código, facilitando a auditoria e a investigação de problemas.
+Registra quem fez o que, quando e por quê em relação ao código e à documentação.
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>

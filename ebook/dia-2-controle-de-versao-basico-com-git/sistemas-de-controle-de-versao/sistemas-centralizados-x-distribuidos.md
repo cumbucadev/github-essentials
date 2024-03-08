@@ -17,21 +17,47 @@ layout:
 
 # Sistemas Centralizados x Distribuídos
 
-O Git, sistema de controle de versão que iremos utilizar nesse curso, é um sistema de controle de versão distribuído (_Distributed Version Control System_ - DVCS). Para entender a motivação da criação de sua arquitetura e funcionamento, vale a pena entendermos primeiro como era feito antes dele.
+O Git, sistema de controle de versão que iremos utilizar nesse curso, é um sistema distribuído (_Distributed Version Control System_ - DVCS). Para entender a motivação de como foi criada de sua arquitetura e funcionamento, vale a pena entender primeiro como era feito antes dele.
 
 ### **Sistemas Centralizados**
 
-A primeira solução de Sistemas de Controle de Versão criada foi com uma arquitetura centralizada, com um único repositório central onde todo o histórico de alterações e versões do código era armazenado.
+A primeira solução para Sistemas de Controle de Versão consistiu em uma arquitetura **centralizada**, com um único repositório central onde todo o histórico de alterações e versões do código era armazenado.
 
 
 
+Você pode imaginar esse repositório central como uma pasta contendo todos os documentos do seu projeto, mas não apenas as versões atuais, como também todas as versões anteriores e informações sobre cada uma das versões. Quais foram as modificações, quem fez qual alteração e quando ela ocorreu. É uma pasta que guarda toda a linha do tempo do seu projeto.
 
+> _<mark style="color:purple;">**imagem**</mark>_
 
+Certo, mas tendo uma pasta central com todas essas informações, você pode estar se perguntando como  múltiplas pessoas conseguem trabalhar ao mesmo tempo. Primeiramente, o repositório central normalmente está em um outro computador (servidor), pois assim mais pessoas podem acessá-lo. Caso contrário, todas as pessoas iriam precisar ter acesso ao seu computador local.
 
+> _<mark style="color:purple;">**imagem**</mark>_
 
+Cada pessoa que irá trabalhar com o projeto, precisa fazer uma cópia da versão mais atual dele para seu computador local, fazer suas mudanças, e enviar de volta para o repositório central que está no servidor.
 
+> _<mark style="color:purple;">**imagem**</mark>_
 
+Vamos entender como seria o fluxo de trabalho com um exemplo.
 
+#### Exemplo de Fluxo de Trabalho
+
+Duas pessoas, X e Y, querem criar um blog. A pessoa X cria uma estrutura inicial do blog em sua máquina e envia essa versão para o repositório central.
+
+> <mark style="color:purple;">**imagem**</mark>
+
+A pessoa Y se anima e quer também participar, criando o seu primeiro blog post. Para isso, Y precisa ter acesso à versão criada por X, que já está no repositório central no momento. Y precisa fazer um "checkout", que nada mais é que fazer uma cópia da última versão do projeto que está no repositório central para a sua máquina local.
+
+> <mark style="color:purple;">**imagem**</mark>
+
+Agora, Y tem acesso, em seu computador, ao projeto em sua versão mais atual. Y faz cria seu primeiro blog post e agora precisa enviar as mudanças para o repositório central, afim de que X também possa ver o seu belo trabalho. Y precisa fazer um check-in do seu código, ou seja, enviar uma cópia da sua versão para o repositório central
+
+> <mark style="color:purple;">**imagem**</mark>
+
+Tudo pronto! Agora, temos também no repositório central a versão mais recente do blog, com o post de Y. A versão inicial de X também estará lá, escondida para o caso de alguém precisar consultá-la, ver diferenças...
+
+> <mark style="color:purple;">**imagem**</mark>
+
+Ok, tudo lindo. Mas e se X também estivesse muito animadinho e não conseguiu esperar por Y. Ao mesmo tempo, X escreve o seu blog post.&#x20;
 
 
 
