@@ -23,17 +23,15 @@ O Git, sistema de controle de versão que iremos utilizar nesse curso, é um sis
 
 A primeira solução para Sistemas de Controle de Versão consistiu em uma arquitetura **centralizada**, com um único repositório central onde todo o histórico de alterações e versões do código era armazenado.
 
-
-
-Você pode imaginar esse repositório central como uma pasta contendo todos os documentos do seu projeto, mas não apenas as versões atuais, como também todas as versões anteriores e informações sobre cada uma das versões. Quais foram as modificações, quem fez qual alteração e quando ela ocorreu. É uma pasta que guarda toda a linha do tempo do seu projeto.
+Pense nesse repositório central como uma pasta gigante que contém todos os documentos do seu projeto. Não só as versões atuais, mas também todas as versões anteriores e informações sobre cada uma delas. É como se fosse uma pasta que guarda toda a linha do tempo do seu projeto.
 
 > _<mark style="color:purple;">**imagem**</mark>_
 
-Certo, mas tendo uma pasta central com todas essas informações, você pode estar se perguntando como  múltiplas pessoas conseguem trabalhar ao mesmo tempo. Primeiramente, o repositório central normalmente está em um outro computador (servidor), pois assim mais pessoas podem acessá-lo. Caso contrário, todas as pessoas iriam precisar ter acesso ao seu computador local.
+Agora, você pode estar se perguntando como várias pessoas poderiam trabalhar nesse projeto ao mesmo tempo. Bem, o repositório central normalmente fica em um outro computador (servidor), para que mais pessoas possam acessá-lo. Caso contrário, todos teriam que compartilhar o mesmo computador.
 
 > _<mark style="color:purple;">**imagem**</mark>_
 
-Cada pessoa que irá trabalhar com o projeto, precisa fazer uma cópia da versão mais atual dele para seu computador local, fazer suas mudanças, e enviar de volta para o repositório central que está no servidor.
+Cada pessoa que quer trabalhar no projeto precisa fazer uma cópia da versão mais recente para seu próprio computador, fazer suas mudanças e, em seguida, enviar de volta para o repositório central que está no servidor.
 
 > _<mark style="color:purple;">**imagem**</mark>_
 
@@ -41,23 +39,36 @@ Vamos entender como seria o fluxo de trabalho com um exemplo.
 
 #### Exemplo de Fluxo de Trabalho
 
-Duas pessoas, X e Y, querem criar um blog. A pessoa X cria uma estrutura inicial do blog em sua máquina e envia essa versão para o repositório central.
+Duas pessoas, X e Y, querem criar um blog. A pessoa X cria uma estrutura inicial do blog em seu computador e envia essa versão para o repositório central.
 
 > <mark style="color:purple;">**imagem**</mark>
 
-A pessoa Y se anima e quer também participar, criando o seu primeiro blog post. Para isso, Y precisa ter acesso à versão criada por X, que já está no repositório central no momento. Y precisa fazer um "checkout", que nada mais é que fazer uma cópia da última versão do projeto que está no repositório central para a sua máquina local.
+A pessoa Y se anima e quer também participar, criando o seu primeiro blog post. Para isso, Y precisa ter acesso à versão criada por X, que já está no repositório central no momento. Y precisa fazer um "_**checkout**_", que nada mais é que fazer uma cópia da última versão do projeto que está no repositório central para a sua máquina local.
 
 > <mark style="color:purple;">**imagem**</mark>
 
-Agora, Y tem acesso, em seu computador, ao projeto em sua versão mais atual. Y faz cria seu primeiro blog post e agora precisa enviar as mudanças para o repositório central, afim de que X também possa ver o seu belo trabalho. Y precisa fazer um check-in do seu código, ou seja, enviar uma cópia da sua versão para o repositório central
+Agora, Y tem acesso, em seu computador, ao projeto em sua versão mais atual. Y escreve seu primeiro blog post e precisa enviar as mudanças de volta para o repositório central, para que X também possa ver o seu belo trabalho. Y faz um "_**check-in**_" do seu código, ou seja, enviar uma cópia da sua versão para o repositório central
 
 > <mark style="color:purple;">**imagem**</mark>
 
-Tudo pronto! Agora, temos também no repositório central a versão mais recente do blog, com o post de Y. A versão inicial de X também estará lá, escondida para o caso de alguém precisar consultá-la, ver diferenças...
+Tudo pronto! Temos no repositório central a versão mais recente do blog, com o post de Y. A versão inicial de X também está lá, guardada caso alguém precise consultá-la, ver diferenças, e assim por diante.
 
 > <mark style="color:purple;">**imagem**</mark>
 
-Ok, tudo lindo. Mas e se X também estivesse muito animadinho e não conseguiu esperar por Y. Ao mesmo tempo, X escreve o seu blog post.&#x20;
+Mas, e se X também estiver empolgado e não conseguir esperar por Y? Ao mesmo tempo que Y, X começa a escrever seu próprio post. Quando X tenta enviar seu código para o repositório central, percebe que Y já enviou antes a sua versão.
+
+> <mark style="color:purple;">**imagem**</mark>
+
+E para piorar, X e Y modificaram o mesmo arquivo! E agora?
+
+> <mark style="color:purple;">**imagem**</mark>
+
+Bom, é aí que uma das funcionalidades mais importantes de um sistema de controle de versão entra em jogo: o Controle de Concorrência. O sistema gerencia as mudanças feitas por múltiplos desenvolvedores em um mesmo documento, ajudando a evitar conflitos e a garantir que todas as alterações sejam integradas da melhor maneira possível.
+
+\
+
+
+
 
 
 
@@ -156,8 +167,4 @@ As diferenças nos fluxos de trabalho entre sistemas centralizados e descentrali
 Em resumo, os fluxos de trabalho em sistemas centralizados tendem a ser mais lineares e dependem fortemente do servidor central, enquanto os sistemas descentralizados oferecem maior flexibilidade, autonomia e recursos avançados de ramificação e mesclagem, permitindo uma colaboração mais eficaz e adaptável.
 
 
-
-{% embed url="https://faun.pub/centralized-vs-distributed-version-control-systems-a135091299f0" %}
-
-{% embed url="https://www.linkedin.com/pulse/centralized-version-control-systems-cvcs-distributed-dvcs-marathe" %}
 
