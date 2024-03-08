@@ -7,8 +7,9 @@
 
 ## Dia 2: Controle de Versão Básico com Git
 
-* [Sistemas de Controle de Versão](dia-2-controle-de-versao-basico-com-git/sistemas-de-controle-de-versao/README.md)
-  * [Sistemas Centralizados x Distribuídos](dia-2-controle-de-versao-basico-com-git/sistemas-de-controle-de-versao/sistemas-centralizados-x-distribuidos.md)
+* [Sistemas de Controle de Versão (VCS)](dia-2-controle-de-versao-basico-com-git/sistemas-de-controle-de-versao-vcs/README.md)
+  * [VCS Centralizados](dia-2-controle-de-versao-basico-com-git/sistemas-de-controle-de-versao-vcs/vcs-centralizados.md)
+  * [VCS Distribuídos (DVCS)](dia-2-controle-de-versao-basico-com-git/sistemas-de-controle-de-versao-vcs/vcs-distribuidos-dvcs.md)
 * [Git](dia-2-controle-de-versao-basico-com-git/git/README.md)
   * [Principais Conceitos](dia-2-controle-de-versao-basico-com-git/git/principais-conceitos.md)
   * [Principais Comandos](dia-2-controle-de-versao-basico-com-git/git/principais-comandos.md)
