@@ -31,7 +31,7 @@ E quando você precisava voltar para uma versão anterior? O processo era bastan
 
 Ou você lembra como era quando se precisava escrever um documento em conjunto com uma ou mais pessoas?
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Como os maias e incas trabalhavam antigamente</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Como os Maias e Incas trabalhavam antigamente (risos!)</p></figcaption></figure>
 
 Um dos artifícios mais utilizados era cada pessoa escrever de uma cor diferente para facilmente identificar o quê foi incluído por quem e ficar reenviando os arquivos ao longo da escrita. Um pouco rudimentar, não acha?
 
