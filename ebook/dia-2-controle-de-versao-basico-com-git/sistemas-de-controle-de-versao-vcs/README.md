@@ -45,9 +45,7 @@ Ferramentas como o Google docs surgiram para facilitar estes tipos de tarefas. C
 
 Essas plataformas, mantêm um histórico detalhado de revisões, permitindo que os usuários vejam quem fez quais alterações e quando. Isso é útil para rastrear o progresso do trabalho, identificar quem fez determinadas edições e reverter para versões anteriores, se necessário.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/Histórico de Versão GDocs.png" alt=""><figcaption></figcaption></figure>
 
 Exatamente os mesmo problemas citados para escrita de documentos de texto ocorriam na escrita de documentos de código antes da existência dos sistemas de controle de versão (_Version Control Systems_ - VCS).
 

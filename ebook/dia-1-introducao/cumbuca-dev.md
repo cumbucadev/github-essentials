@@ -1,4 +1,4 @@
-# 🥥 Cumbuca Dev
+# Cumbuca Dev
 
 Antes de começarmos, precisamos nos apresentar, certo?
 

@@ -2,7 +2,7 @@
 description: Descrição do conteúdo do curso para cada dia
 ---
 
-# 🗺️ Mapa do Curso
+# Mapa do Curso
 
 ### Primeira Metade
 
