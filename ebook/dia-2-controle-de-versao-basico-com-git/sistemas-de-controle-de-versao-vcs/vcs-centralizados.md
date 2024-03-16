@@ -31,7 +31,7 @@ Agora, você pode estar se perguntando como várias pessoas poderiam trabalhar n
 
 Cada pessoa que quer trabalhar no projeto precisa fazer uma cópia da versão mais recente para seu próprio computador, fazer suas mudanças e, em seguida, enviar de volta para o repositório central que está no servidor.
 
-> _<mark style="color:purple;">**imagem**</mark>_
+<figure><img src="../../.gitbook/assets/PASTINHASDASDAA (2).png" alt=""><figcaption></figcaption></figure>
 
 Vamos entender como seria o fluxo de trabalho com um exemplo.
 
