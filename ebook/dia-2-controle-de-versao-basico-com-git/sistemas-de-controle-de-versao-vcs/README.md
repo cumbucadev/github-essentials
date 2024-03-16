@@ -39,9 +39,7 @@ Um dos artifícios mais utilizados era cada pessoa escrever de uma cor diferente
 
 Ferramentas como o Google docs surgiram para facilitar estes tipos de tarefas. Com elas, fica muito fácil colaborar e revisar documentos em tempo real com muitas pessoas.
 
-
-
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-16 at 16.58.32.png" alt=""><figcaption></figcaption></figure>
 
 Essas plataformas, mantêm um histórico detalhado de revisões, permitindo que os usuários vejam quem fez quais alterações e quando. Isso é útil para rastrear o progresso do trabalho, identificar quem fez determinadas edições e reverter para versões anteriores, se necessário.
 
