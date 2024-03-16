@@ -25,9 +25,9 @@ A primeira solução para Sistemas de Controle de Versão consistiu em uma arqui
 
 Pense nesse repositório central como uma pasta gigante que contém todos os documentos do seu projeto. Não só a versão mais recente, mas também todas as versões anteriores e informações sobre cada uma delas. É como se fosse uma pasta que guarda toda a linha do tempo do seu projeto.
 
-Agora, você pode estar se perguntando como várias pessoas poderiam trabalhar nesse projeto ao mesmo tempo. Bem, o repositório central normalmente fica em um outro computador (servidor), para que mais pessoas possam acessá-lo. Caso contrário, todos teriam que compartilhar o mesmo computador.
+<figure><img src="../../.gitbook/assets/PAS TINHA.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/PASTINHA (1).png" alt=""><figcaption></figcaption></figure>
+Agora, você pode estar se perguntando como várias pessoas poderiam trabalhar nesse projeto ao mesmo tempo. Bem, o repositório central normalmente fica em um outro computador (servidor), para que mais pessoas possam acessá-lo. Caso contrário, todos teriam que compartilhar o mesmo computador.
 
 Cada pessoa que quer trabalhar no projeto precisa fazer uma cópia da versão mais recente para seu próprio computador, fazer suas mudanças e, em seguida, enviar de volta para o repositório central que está no servidor.
 
