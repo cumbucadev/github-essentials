@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# Sistemas de Controle de Versão
+# Sistemas de Controle de Versão (VCS)
 
 ### Motivação
 
@@ -61,10 +61,6 @@ Sistemas de controle de versão são essenciais para o desenvolvimento de softwa
 
 As principais funcionalidades oferecidas por sistemas de controle de versão incluem:
 
-#### **Ramificação e mesclagem**
-
-Permite que os desenvolvedores criem ramificações (cópias separadas do código) para desenvolver novos recursos ou corrigir bugs sem interferir no código principal. Posteriormente, as ramificações podem ser mescladas de volta ao código principal.
-
 #### **Reversão de alterações**&#x20;
 
 Permite reverter para versões anteriores do código, útil para corrigir bugs ou desfazer alterações problemáticas.
@@ -78,3 +74,8 @@ Facilita o trabalho em equipe, permitindo que vários desenvolvedores contribuam
 Registra quem fez o que, quando e por quê em relação ao código e à documentação.
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+#### **Ramificação e mesclagem**
+
+Permite que os desenvolvedores criem ramificações (cópias separadas do código) para desenvolver novos recursos ou corrigir bugs sem interferir no código principal. Posteriormente, as ramificações podem ser mescladas de volta ao código principal.
+
