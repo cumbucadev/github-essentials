@@ -5,7 +5,7 @@
 * [Introdução](README.md)
   * [Sobre o GitHub](dia-1-introducao/introducao/sobre-o-github.md)
   * [🥥 Cumbuca Dev](dia-1-introducao/introducao/cumbuca-dev.md)
-  * [Mapa do Curso](dia-1-introducao/introducao/mapa-do-curso.md)
+  * [🗺️ Mapa do Curso](dia-1-introducao/introducao/mapa-do-curso.md)
 
 ## Dia 2: Controle de Versão Básico com Git
 
