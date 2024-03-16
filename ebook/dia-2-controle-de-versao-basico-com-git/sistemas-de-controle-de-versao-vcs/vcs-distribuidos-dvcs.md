@@ -19,7 +19,11 @@ layout:
 
 ### **Sistemas Distribuídos**&#x20;
 
-Também chamados de DVCS ()
+Nos Sistemas de Controle de Versão Distribuídos (DVCS - _Distributed Version Control Systems_), cada colaborador faz a cópia do repositório central integralmente, obtendo assim o histórico completo do projeto em seu próprio computador. Diferentemente dos sistemas centralizados, onde apenas a versão mais recente é disponibilizada, neste modelo, cada cópia, conhecida como "clone", contém não apenas os arquivos do projeto, mas também todos os metadados associados ao repositório original.
+
+> _<mark style="color:purple;">**imagem**</mark>_
+
+
 
 
 
