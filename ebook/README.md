@@ -44,7 +44,7 @@ Inclusive, este e-book completo está disponível de forma gratuita e na íntegr
 Estamos muito felizes com sua presença aqui e prontos para te guiar nessa jornada de aprendizado e colaboração em um ecossistema vasto de compartilhamento. Bora iniciar nossos estudos?\
 
 
-&#x20;&#x20;
+<figure><img src=".gitbook/assets/GH Essentials.png" alt=""><figcaption><p>Logo GitHub Essentials</p></figcaption></figure>
 
 
 
