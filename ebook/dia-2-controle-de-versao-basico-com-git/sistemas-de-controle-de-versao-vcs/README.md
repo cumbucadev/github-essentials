@@ -69,8 +69,6 @@ Facilita o trabalho em equipe, permitindo que vários desenvolvedores contribuam
 
 Registra quem fez o que, quando e por quê em relação ao código e à documentação.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
-
 #### **Ramificação e mesclagem**
 
 Permite que os desenvolvedores criem ramificações (cópias separadas do código) para desenvolver novos recursos ou corrigir bugs sem interferir no código principal. Posteriormente, as ramificações podem ser mescladas de volta ao código principal.
