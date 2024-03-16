@@ -29,9 +29,11 @@ Pense nesse repositório central como uma pasta gigante que contém todos os doc
 
 Agora, você pode estar se perguntando como várias pessoas poderiam trabalhar nesse projeto ao mesmo tempo. Bem, o repositório central normalmente fica em um outro computador (servidor), para que mais pessoas possam acessá-lo. Caso contrário, todos teriam que compartilhar o mesmo computador.
 
+<figure><img src="../../.gitbook/assets/PASTINHASDASDAA (2).png" alt=""><figcaption></figcaption></figure>
+
 Cada pessoa que quer trabalhar no projeto precisa fazer uma cópia da versão mais recente para seu próprio computador, fazer suas mudanças e, em seguida, enviar de volta para o repositório central que está no servidor.
 
-<figure><img src="../../.gitbook/assets/PASTINHASDASDAA (2).png" alt=""><figcaption></figcaption></figure>
+IMAGEM
 
 Vamos entender como seria o fluxo de trabalho com um exemplo.
 
