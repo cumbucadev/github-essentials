@@ -22,7 +22,7 @@ Desanimada e brocochô, a Maria até pensou em desistir de tudo e continuar nos 
 
 Esse tipo de abordagem foi um divisor de águas para a Maria e , a partir deste momento, tudo começou a mudar. Os conteúdos que a Maria aprendia, além de conseguir fixar com mais qualidade e facilidade de aprendizagem, ela conseguiu se conectar ainda mais com a possibilidade de migrar totalmente para a área de T.I. Foi então que começaram a pensar: se conseguimos mudar a vida de uma pessoa, **porquê não ajudar a mudar a realidade de tantas outras que precisam?**
 
-<figure><img src="../../.gitbook/assets/logo-light-transparent.png" alt=""><figcaption><p>Logo Cumbuca Dev</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/logo-light-transparent.png" alt=""><figcaption><p>Logo Cumbuca Dev</p></figcaption></figure>
 
 Assim nasceu a Cumbuca Dev: uma organização que se dedica apaixonadamente a promover a diversidade e a igualdade na área de Tecnologia da Informação (TI). Através de programas educacionais abrangentes, capacitamos e apoiamos ativamente grupos minoritários, visando não apenas sua inclusão, mas também o desenvolvimento de líderes em potencial dentro de cada setor.&#x20;
 

@@ -10,6 +10,6 @@ Através do GitHub, os desenvolvedores têm a oportunidade não apenas de acessa
 
 <div align="center" data-full-width="false">
 
-<figure><img src="../../.gitbook/assets/Githuberson.png" alt=""><figcaption><p>GitHub e Cumbuca Dev</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Githuberson.png" alt=""><figcaption><p>GitHub e Cumbuca Dev</p></figcaption></figure>
 
 </div>

@@ -6,7 +6,7 @@ description: Descrição do conteúdo do curso para cada dia
 
 ### Primeira Metade
 
-<figure><img src="../../.gitbook/assets/Mapa do Curso - Dia 1 ao 5.png" alt=""><figcaption><p>Mapa do Curso - Dia 1 ao 5</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Mapa do Curso - Dia 1 ao 5.png" alt=""><figcaption><p>Mapa do Curso - Dia 1 ao 5</p></figcaption></figure>
 
 #### Dia 1 - Introdução
 
@@ -47,7 +47,7 @@ description: Descrição do conteúdo do curso para cada dia
 
 ### Segunda Metade
 
-<figure><img src="../../.gitbook/assets/Mapa do Curso - Dia 6 ao 10.png" alt=""><figcaption><p>Mapa do Curso - Dia 6 ao 10</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Mapa do Curso - Dia 6 ao 10.png" alt=""><figcaption><p>Mapa do Curso - Dia 6 ao 10</p></figcaption></figure>
 
 \- Day 6 - Markdown&#x20;
 
