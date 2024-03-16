@@ -17,20 +17,10 @@ description: Descrição do conteúdo do curso para cada dia
 
 #### Dia 2 - Controle de Versão Básico com Git
 
-Parte 1
-
-* O que é? o que resolve?
-* A importância de se saber pelo menos o básico de git&#x20;
+* Sistema de Controle de Versão
+* Fluxo de trabalho
 * Ferramentas Associadas&#x20;
-* O que é um controle de versionamento?
-* Controle de versão distribuído
-
-#### Parte 2
-
-* Instalar Git
-* Principais comandos
-* Extensões
-* Indicação: Jogo “Oh my git” para entender sobre a linha do tempo (demo)
+* Instalação Git, principais comandos e extensões
 
 #### Dia 3 - Prazer, Github &#x20;
 
