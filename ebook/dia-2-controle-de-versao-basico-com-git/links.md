@@ -14,4 +14,4 @@
 
 {% embed url="https://en.wikipedia.org/wiki/Git" %}
 
-{% embed url="https://www.simplilearn.com/tutorials/git-tutorial" %}
+{% embed url="https://about.gitlab.com/topics/version-control/what-is-centralized-version-control-system/" %}
