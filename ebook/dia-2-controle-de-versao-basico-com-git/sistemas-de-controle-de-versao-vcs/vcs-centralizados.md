@@ -19,21 +19,21 @@ layout:
 
 O Git, sistema de controle de versão que iremos utilizar nesse curso, é um sistema distribuído (_Distributed Version Control System_ - DVCS). Para entender a motivação de como foi criada de sua arquitetura e funcionamento, vale a pena entender primeiro como era feito antes dele.
 
-### **O quê são (não sei nome melhor)**
+### **Entendendo os Sistemas de Controle Centralizados**
 
 A primeira solução para Sistemas de Controle de Versão consistiu em uma arquitetura **centralizada**, com um único repositório central onde todo o histórico de alterações e versões do código era armazenado.
 
 Pense nesse repositório central como uma pasta gigante que contém todos os documentos do seu projeto. Não só a versão mais recente, mas também todas as versões anteriores e informações sobre cada uma delas. É como se fosse uma pasta que guarda toda a linha do tempo do seu projeto.
 
-<figure><img src="../../.gitbook/assets/PAS TINHA.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/PAS TINHA.png" alt=""><figcaption><p>Grande pasta que contém os arquivos e suas versões</p></figcaption></figure>
 
 Agora, você pode estar se perguntando como várias pessoas poderiam trabalhar nesse projeto ao mesmo tempo. Bem, o repositório central normalmente fica em um outro computador (servidor), para que mais pessoas possam acessá-lo. Caso contrário, todos teriam que compartilhar o mesmo computador.
 
-<figure><img src="../../.gitbook/assets/PASTINHASDASDAA (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pasta alterada (2).png" alt=""><figcaption><p>Servidor: onde a "Grande Pasta" fica localizada</p></figcaption></figure>
 
 Cada pessoa que quer trabalhar no projeto precisa fazer uma cópia da versão mais recente para seu próprio computador, fazer suas mudanças e, em seguida, enviar de volta para o repositório central que está no servidor.
 
-IMAGEM
+<figure><img src="../../.gitbook/assets/cópia última versao.png" alt=""><figcaption><p>Usuário 2 fazendo a cópia atualizada do Repositório Central do Servidor</p></figcaption></figure>
 
 Vamos entender como seria o fluxo de trabalho com um exemplo.
 
@@ -69,7 +69,7 @@ Dessa forma, X consegue tranquilamente enviar suas modificações sem compromete
 
 > <mark style="color:purple;">**imagem**</mark>
 
-### Bleh (não sei que nome dar para seção)
+### &#x20;:bulb: Conceitos Básicos de Controle de Versão Centralizado: &#x20;
 
 1. **Repositório Centralizado**: É o ponto central onde todo o código-fonte e histórico de versões são armazenados. Todos os desenvolvedores trabalham diretamente com este repositório para obter versões atualizadas do código e para enviar suas alterações.
 2. **Checkout e Check-in**: Os desenvolvedores "checam" (checkout) uma cópia do código do repositório central para trabalhar localmente em suas máquinas. Após fazerem suas alterações, eles "checam" (check-in) suas modificações de volta para o repositório central.
