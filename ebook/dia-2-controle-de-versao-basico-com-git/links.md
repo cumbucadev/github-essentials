@@ -14,4 +14,8 @@
 
 {% embed url="https://en.wikipedia.org/wiki/Git" %}
 
+{% embed url="https://about.gitlab.com/topics/version-control/" %}
+
 {% embed url="https://about.gitlab.com/topics/version-control/what-is-centralized-version-control-system/" %}
+
+{% embed url="https://about.gitlab.com/topics/version-control/benefits-distributed-version-control-system/" %}
