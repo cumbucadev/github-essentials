@@ -19,7 +19,7 @@ layout:
 
 O Git, sistema de controle de versão que iremos utilizar nesse curso, é um sistema distribuído (_Distributed Version Control System_ - DVCS). Para entender a motivação de como foi criada de sua arquitetura e funcionamento, vale a pena entender primeiro como era feito antes dele.
 
-### **Entendendo os Sistemas de Controle Centralizados**
+### **Entendendo os Sistemas de Controle de Versão Centralizados**
 
 A primeira solução para Sistemas de Controle de Versão consistiu em uma arquitetura **centralizada**, com um único repositório central onde todo o histórico de alterações e versões do código era armazenado.
 
@@ -33,7 +33,7 @@ Agora, você pode estar se perguntando como várias pessoas poderiam trabalhar n
 
 Cada pessoa que quer trabalhar no projeto precisa fazer uma cópia da versão mais recente para seu próprio computador, fazer suas mudanças e, em seguida, enviar de volta para o repositório central que está no servidor.
 
-<figure><img src="../../.gitbook/assets/cópia última versao.png" alt=""><figcaption><p>Usuário 2 fazendo a cópia atualizada do Repositório Central do Servidor</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/TRES SETINHAS.png" alt=""><figcaption><p>Usuário 2 fazendo a cópia atualizada do Repositório Central do Servidor</p></figcaption></figure>
 
 Vamos entender como seria o fluxo de trabalho com um exemplo.
 
@@ -72,13 +72,11 @@ Dessa forma, X consegue tranquilamente enviar suas modificações sem compromete
 ### &#x20;:bulb: Conceitos Básicos de Controle de Versão Centralizado: &#x20;
 
 1. **Repositório Centralizado**: É o ponto central onde todo o código-fonte e histórico de versões são armazenados. Todos os desenvolvedores trabalham diretamente com este repositório para obter versões atualizadas do código e para enviar suas alterações.
-2. **Checkout e Check-in**: Os desenvolvedores "checam" (checkout) uma cópia do código do repositório central para trabalhar localmente em suas máquinas. Após fazerem suas alterações, eles "checam" (check-in) suas modificações de volta para o repositório central.
+2. **PUSH e PULL**: Os desenvolvedores fazem um PULL - "puxam" para si uma cópia do código do repositório central para trabalhar localmente em suas máquinas. Após fazerem suas alterações, eles dão PUSH e mandam suas modificações de volta para o repositório central.
 3. **Auxílio no Gerenciamento de Conflitos**: Os sistemas centralizados gerenciam as mudanças concorrentes feitas por múltiplos desenvolvedores. Se dois desenvolvedores tentarem modificar o mesmo arquivo ao mesmo tempo, o sistema de controle de versão pode detectar e gerenciar essas conflitos.
 4. **Histórico de Versões**: Um aspecto fundamental dos sistemas de controle de versão é a capacidade de acompanhar o histórico de alterações em um arquivo ao longo do tempo. Isso permite que os desenvolvedores voltem a versões anteriores do código, se necessário.
 
-
-
-<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/VCS CORRETOIS).png" alt=""><figcaption><p>Mapa do funcionamento de um Sistema de Controle de Versão Centralizado</p></figcaption></figure>
 
 Exemplos de sistemas centralizados de controle de versão incluem o Subversion (SVN) e o Microsoft Team Foundation Version Control (TFVC). Embora os sistemas centralizados tenham sido amplamente utilizados no passado, muitas equipes estão migrando para sistemas de controle de versão distribuídos, como o Git, devido à sua flexibilidade, desempenho e recursos avançados que iremos começar a desvendar aos poucos daqui para frente.
 
