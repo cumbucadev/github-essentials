@@ -19,41 +19,27 @@ layout:
 
 ### **Sistemas Distribuídos**&#x20;
 
-Nos Sistemas de Controle de Versão Distribuídos (DVCS - _Distributed Version Control Systems_), cada colaborador faz a cópia do repositório central integralmente, obtendo assim o histórico completo do projeto em seu próprio computador. Diferentemente dos sistemas centralizados, onde apenas a versão mais recente é disponibilizada, neste modelo, cada cópia, conhecida como "clone", contém não apenas os arquivos do projeto, mas também todos os metadados associados ao repositório original.
+Nos Sistemas de Controle de Versão Distribuídos (DVCS - _Distributed Version Control Systems_), cada colaborador faz a cópia do repositório central integralmente, obtendo assim o histórico completo do projeto em seu próprio computador.&#x20;
 
-> _<mark style="color:purple;">**imagem**</mark>_
+<figure><img src="../../.gitbook/assets/ebook images.png" alt=""><figcaption><p>Relembrando: Repositório Central = "Grande Pasta" que contém os arquivos, versões e metadados</p></figcaption></figure>
 
-
-
-
+Diferentemente dos sistemas centralizados, onde apenas a versão mais recente é disponibilizada, neste modelo, cada cópia, conhecida como "clone", contém não apenas os arquivos do projeto, mas também todos os metadados associados ao repositório original.
 
 
 
+<figure><img src="../../.gitbook/assets/15.png" alt=""><figcaption><p>Cada "Clone" faz uma cópia integral de todos os arquivos existentes</p></figcaption></figure>
 
 
 
-
-
-
-
-
-
-
-
-
-***
-
-
-
-
-
-Esses sistemas não dependem de um repositório central. Cada cópia do repositório contém todo o histórico de alterações, o que significa que os desenvolvedores podem trabalhar localmente e, em seguida, sincronizar suas alterações com os outros repositórios. Exemplos populares incluem Git, Mercurial e Bazaar.
+Esses sistemas não dependem de um repositório central. Cada cópia do repositório contém todo o histórico de alterações, o que significa que os desenvolvedores podem trabalhar localmente e, em seguida, sincronizar suas alterações com os outros repositórios.&#x20;
 
 
 
 Os sistemas distribuídos de controle de versão de código são uma evolução dos sistemas centralizados e oferecem algumas vantagens distintas.&#x20;
 
-Aqui estão algumas características-chave dos sistemas descentralizados de controle de versão:
+
+
+Estas são algumas **características-chave** dos Sistemas Descentralizados de Controle de Versão:
 
 1. **Modelo de Repositório Distribuído**: Em sistemas descentralizados, cada desenvolvedor possui uma cópia completa do repositório, incluindo todo o histórico de versões. Isso significa que cada desenvolvedor tem acesso a todo o histórico do projeto e pode trabalhar offline, sem depender de uma conexão com o servidor central.
 2. **Branching e Merging Flexíveis**: Os sistemas descentralizados de controle de versão, como o Git, oferecem recursos avançados de branching e merging. Os desenvolvedores podem criar facilmente ramos (branches) para trabalhar em novas funcionalidades ou correções de bugs sem interferir no ramo principal do projeto. Os merges são geralmente mais simples e eficientes, permitindo uma integração contínua e sem problemas das alterações.
@@ -63,11 +49,11 @@ Aqui estão algumas características-chave dos sistemas descentralizados de cont
 
 
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ajuste.png" alt=""><figcaption><p>Mapa do Funcionamento de um Sistema de Controle de Versão Distribuído</p></figcaption></figure>
 
 
 
-Em resumo, os sistemas descentralizados de controle de versão oferecem mais flexibilidade, segurança e eficiência em comparação com os sistemas centralizados. Isso os torna uma escolha popular para projetos de desenvolvimento de software em uma ampla gama de cenários.
+Em resumo, os sistemas descentralizados de controle de versão oferecem mais flexibilidade, segurança e eficiência em comparação com os sistemas centralizados. Isso os torna uma escolha frequente para projetos de desenvolvimento de software em uma ampla gama de cenários.
 
 
 
