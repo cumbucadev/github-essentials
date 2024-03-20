@@ -39,35 +39,47 @@ Vamos entender como seria o fluxo de trabalho com um exemplo.
 
 ### Exemplo de Fluxo de Trabalho
 
-Duas pessoas, X e Y, querem criar um blog. A pessoa X cria uma estrutura inicial do blog em seu computador e envia essa versão para o repositório central.
+Duas pessoas, X e Y, querem criar um blog. A pessoa X cria uma estrutura inicial do blog em seu computador e envia ("PUSH") essa versão para o repositório central.
 
-> <mark style="color:purple;">**imagem**</mark>
+<figure><img src="../../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
-A pessoa Y se anima e quer também participar, criando o seu primeiro blog post. Para isso, Y precisa ter acesso à versão criada por X, que já está no repositório central no momento. Y precisa fazer um "_**checkout**_", que nada mais é que fazer uma cópia da última versão do projeto que está no repositório central para a sua máquina local.
+A pessoa Y se anima e quer também participar, criando o seu primeiro blog post. Para isso, Y precisa ter acesso à versão criada por X, que já está no repositório central no momento. Y precisa fazer um "_**PULL**_", que nada mais é que fazer uma cópia da última versão do projeto que está no repositório central para a sua máquina local.
 
-> <mark style="color:purple;">**imagem**</mark>
 
-Agora, Y tem acesso, em seu computador, ao projeto em sua versão mais atual. Y escreve seu primeiro blog post e precisa enviar as mudanças de volta para o repositório central, para que X também possa ver o seu belo trabalho. Y faz um "_**check-in**_" do seu código, ou seja, enviar uma cópia da sua versão para o repositório central
 
-> <mark style="color:purple;">**imagem**</mark>
+<figure><img src="../../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
+
+Agora, Y tem acesso, em seu computador, ao projeto em sua versão mais atual. Y escreve seu primeiro blog post e precisa enviar as mudanças de volta para o repositório central, para que X também possa ver o seu belo trabalho. Y faz um "_**PUSH**_" do seu código, ou seja, enviar uma cópia da sua versão para o repositório central
+
+
+
+<figure><img src="../../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
 
 Tudo pronto! Temos no repositório central a versão mais recente do blog, com o post de Y. A versão inicial de X também está lá, guardada caso alguém precise consultá-la, ver diferenças, e assim por diante.
 
-> <mark style="color:purple;">**imagem**</mark>
+
+
+<figure><img src="../../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
 
 Mas, e se X também estiver empolgado e não conseguir esperar por Y? Ao mesmo tempo que Y, X começa a escrever seu próprio post. Quando X tenta enviar seu código para o repositório central, percebe que Y já enviou antes a sua versão.
 
-> <mark style="color:purple;">**imagem**</mark>
+
+
+<figure><img src="../../.gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
 
 E para piorar, X e Y modificaram o mesmo arquivo! E agora?
 
-> <mark style="color:purple;">**imagem**</mark>
+
+
+<figure><img src="../../.gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
 
 Bom, é aí que entra em jogo umas das principais funcionalidades de um sistema de controle de versão: o auxílio no Gerenciamento de Conflitos. O sistema lida com as mudanças feitas por diferentes colaboradores no mesmo arquivo, evitando conflitos e garantindo uma integração suave das alterações. Isso é feito por meio de um processo chamado 'mesclagem', que combina o trabalho de todos de forma harmoniosa e mantém a consistência do projeto.
 
 Dessa forma, X consegue tranquilamente enviar suas modificações sem comprometer em nada as mudanças feitas por Y.
 
-> <mark style="color:purple;">**imagem**</mark>
+
+
+<figure><img src="../../.gitbook/assets/12.png" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;:bulb: Conceitos Básicos de Controle de Versão Centralizado: &#x20;
 
