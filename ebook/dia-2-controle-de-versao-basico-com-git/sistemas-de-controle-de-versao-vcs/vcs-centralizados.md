@@ -17,7 +17,7 @@ layout:
 
 # VCS Centralizados
 
-O Git, sistema de controle de versão que iremos utilizar nesse curso, é um sistema distribuído (_Distributed Version Control System_ - DVCS). Para entender a motivação de como foi criada de sua arquitetura e funcionamento, vale a pena entender primeiro como era feito antes dele.
+O Git, sistema de controle de versão que iremos utilizar nesse curso, é um sistema distribuído (_Distributed Version Control System_ - DVCS). Para entender a motivação de como o Git foi construído e de como ele funciona, vale a pena conhecer primeiro como era feito antes dele.
 
 ### **Entendendo os Sistemas de Controle de Versão Centralizados**
 
@@ -31,7 +31,7 @@ Agora, você pode estar se perguntando como várias pessoas poderiam trabalhar n
 
 <figure><img src="../../.gitbook/assets/pasta alterada (2).png" alt=""><figcaption><p>Servidor: onde a "Grande Pasta" fica localizada</p></figcaption></figure>
 
-Cada pessoa que quer trabalhar no projeto precisa fazer uma cópia da versão mais recente para seu próprio computador, fazer suas mudanças e, em seguida, enviar de volta para o repositório central que está no servidor.
+Cada pessoa que irá trabalhar no projeto precisa fazer uma cópia da versão mais recente para seu próprio computador, fazer suas mudanças e, em seguida, enviar de volta para o repositório central que está no servidor.
 
 <figure><img src="../../.gitbook/assets/TRES SETINHAS.png" alt=""><figcaption><p>Usuário 2 fazendo a cópia atualizada do Repositório Central do Servidor</p></figcaption></figure>
 
@@ -39,35 +39,35 @@ Vamos entender como seria o fluxo de trabalho com um exemplo.
 
 ### Exemplo de Fluxo de Trabalho
 
-Duas pessoas, X e Y, querem criar um blog. A pessoa X cria uma estrutura inicial do blog em seu computador e envia ("PUSH") essa versão para o repositório central.
+Uma pessoa **A** e uma pessoa **B** decidem criar um blog. A pessoa **A** cria uma estrutura inicial do blog em seu computador e envia ("_**PUSH**_") essa versão para o repositório central.
 
 <figure><img src="../../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
-A pessoa Y se anima e quer também participar, criando o seu primeiro blog post. Para isso, Y precisa ter acesso à versão criada por X, que já está no repositório central no momento. Y precisa fazer um "_**PULL**_", que nada mais é que fazer uma cópia da última versão do projeto que está no repositório central para a sua máquina local.
+A pessoa **B** se anima com o projeto e também quer contribuir, criando o seu primeiro blog post. Para isso, **B** precisa ter acesso à versão criada por **A**, que já está no repositório central no momento. **B** precisa fazer um "_**PULL**_", que nada mais é que fazer uma cópia da última versão do projeto que está no repositório central para a sua máquina local.
 
 
 
 <figure><img src="../../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
 
-Agora, Y tem acesso, em seu computador, ao projeto em sua versão mais atual. Y escreve seu primeiro blog post e precisa enviar as mudanças de volta para o repositório central, para que X também possa ver o seu belo trabalho. Y faz um "_**PUSH**_" do seu código, ou seja, enviar uma cópia da sua versão para o repositório central
+Agora, **B** tem acesso, em seu computador, ao projeto em sua versão mais atual. **B** escreve seu primeiro blog post e precisa enviar as mudanças de volta para o repositório central, para que **A** também possa ver o seu belo trabalho. **B** faz um "_**PUSH**_" do seu código, ou seja, envia uma cópia da sua versão para o repositório central
 
 
 
 <figure><img src="../../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
 
-Tudo pronto! Temos no repositório central a versão mais recente do blog, com o post de Y. A versão inicial de X também está lá, guardada caso alguém precise consultá-la, ver diferenças, e assim por diante.
+Tudo pronto! Temos no repositório central a versão mais recente do blog, a qual contém o post de **B**. A versão inicial de **A** também está lá, guardada caso alguém precise consultá-la para comparar diferenças, ou até mesmo para reverter alguma alteração.
 
 
 
 <figure><img src="../../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
 
-Mas, e se X também estiver empolgado e não conseguir esperar por Y? Ao mesmo tempo que Y, X começa a escrever seu próprio post. Quando X tenta enviar seu código para o repositório central, percebe que Y já enviou antes a sua versão.
+Mas, e se **A** também estiver empolgado e não conseguir esperar por **B**? Ao mesmo tempo que **B**, **A** começa a escrever seu próprio post. Quando **A** tenta enviar seu código para o repositório central, percebe que **B** já enviou antes a sua versão.
 
 
 
 <figure><img src="../../.gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
 
-E para piorar, X e Y modificaram o mesmo arquivo! E agora?
+E para piorar, **A** e **B** modificaram o mesmo arquivo! E agora?
 
 
 
@@ -75,7 +75,7 @@ E para piorar, X e Y modificaram o mesmo arquivo! E agora?
 
 Bom, é aí que entra em jogo umas das principais funcionalidades de um sistema de controle de versão: o auxílio no Gerenciamento de Conflitos. O sistema lida com as mudanças feitas por diferentes colaboradores no mesmo arquivo, evitando conflitos e garantindo uma integração suave das alterações. Isso é feito por meio de um processo chamado 'mesclagem', que combina o trabalho de todos de forma harmoniosa e mantém a consistência do projeto.
 
-Dessa forma, X consegue tranquilamente enviar suas modificações sem comprometer em nada as mudanças feitas por Y.
+Dessa forma, **A** consegue tranquilamente enviar suas modificações sem comprometer em nada as mudanças feitas por **B**.
 
 
 
@@ -91,4 +91,3 @@ Dessa forma, X consegue tranquilamente enviar suas modificações sem compromete
 <figure><img src="../../.gitbook/assets/VCS CORRETOIS).png" alt=""><figcaption><p>Mapa do funcionamento de um Sistema de Controle de Versão Centralizado</p></figcaption></figure>
 
 Exemplos de sistemas centralizados de controle de versão incluem o Subversion (SVN) e o Microsoft Team Foundation Version Control (TFVC). Embora os sistemas centralizados tenham sido amplamente utilizados no passado, muitas equipes estão migrando para sistemas de controle de versão distribuídos, como o Git, devido à sua flexibilidade, desempenho e recursos avançados que iremos começar a desvendar aos poucos daqui para frente.
-

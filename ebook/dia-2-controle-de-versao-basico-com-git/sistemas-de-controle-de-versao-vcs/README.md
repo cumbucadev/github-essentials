@@ -35,13 +35,11 @@ Ou você lembra como era quando se precisava escrever um documento em conjunto c
 
 Um dos artifícios mais utilizados era cada pessoa escrever de uma cor diferente para facilmente identificar o quê foi incluído por quem e ficar reenviando os arquivos ao longo da escrita. Um pouco rudimentar, não acha?
 
-
-
 Ferramentas como o Google docs surgiram para facilitar estes tipos de tarefas. Com elas, fica muito fácil colaborar e revisar documentos em tempo real com muitas pessoas.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-03-16 at 16.58.32.png" alt=""><figcaption></figcaption></figure>
 
-Essas plataformas, mantêm um histórico detalhado de revisões, permitindo que os usuários vejam quem fez quais alterações e quando. Isso é útil para rastrear o progresso do trabalho, identificar quem fez determinadas edições e reverter para versões anteriores, se necessário.
+Essas plataformas mantêm um histórico detalhado de revisões, permitindo que os usuários vejam quem fez quais alterações e quando. Isso é útil para rastrear o progresso do trabalho, identificar quem fez determinadas edições e reverter para versões anteriores, se necessário.
 
 <figure><img src="../../.gitbook/assets/Histórico de Versão GDocs.png" alt=""><figcaption></figcaption></figure>
 
@@ -49,7 +47,9 @@ Exatamente os mesmo problemas citados para escrita de documentos de texto ocorri
 
 ### O quê são
 
-Sistemas de controle de versão são ferramentas utilizadas no desenvolvimento de software para gerenciar e controlar as mudanças no código-fonte e na documentação de um projeto ao longo do tempo. Eles permitem que várias pessoas trabalhem simultaneamente no mesmo projeto, facilitando a colaboração, rastreamento de alterações, identificação de problemas e reversão de modificações, entre outras funcionalidades.
+Sistemas de controle de versão são ferramentas que rastreiam alterações em qualquer conjunto de arquivos de computador. É comumente utilizado no desenvolvimento de software para gerenciar e controlar as mudanças no código-fonte e na documentação de um projeto ao longo do tempo.&#x20;
+
+Eles permitem que várias pessoas trabalhem simultaneamente no mesmo projeto, facilitando a colaboração, rastreamento de alterações, identificação de problemas e reversão de modificações, entre outras funcionalidades.
 
 Sistemas de controle de versão são essenciais para o desenvolvimento de software em equipe, pois ajudam a manter a integridade do código-fonte, facilitam a colaboração e aumentam a eficiência do desenvolvimento.
 
@@ -57,19 +57,8 @@ Sistemas de controle de versão são essenciais para o desenvolvimento de softwa
 
 As principais funcionalidades oferecidas por sistemas de controle de versão incluem:
 
-#### **Reversão de alterações**&#x20;
-
-Permite reverter para versões anteriores do código, útil para corrigir bugs ou desfazer alterações problemáticas.
-
-#### **Colaboração**
-
-Facilita o trabalho em equipe, permitindo que vários desenvolvedores contribuam para o mesmo projeto simultaneamente.
-
-#### **Auditoria e** Rastreamento de alterações
-
-Registra quem fez o que, quando e por quê em relação ao código e à documentação.
-
-#### **Ramificação e mesclagem**
-
-Permite que os desenvolvedores criem ramificações (cópias separadas do código) para desenvolver novos recursos ou corrigir bugs sem interferir no código principal. Posteriormente, as ramificações podem ser mescladas de volta ao código principal.
+* **Reversão de alterações:** Permite reverter para versões anteriores do código, útil para corrigir bugs ou desfazer alterações problemáticas.
+* **Colaboração:** Facilita o trabalho em equipe, permitindo que vários desenvolvedores contribuam para o mesmo projeto simultaneamente.
+* **Auditoria e Rastreamento de alterações:** Registra quem fez o que, quando e por quê em relação ao código e à documentação.
+* **Ramificação e mesclagem:** Permite que os desenvolvedores criem ramificações (cópias separadas do código) para desenvolver novos recursos ou corrigir bugs sem interferir no código principal. Posteriormente, as ramificações podem ser mescladas de volta ao código principal.
 
