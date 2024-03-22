@@ -29,33 +29,31 @@ Diferentemente dos sistemas centralizados, onde apenas a versão mais recente é
 
 <figure><img src="../../.gitbook/assets/15.png" alt=""><figcaption><p>Cada "Clone" faz uma cópia integral de todos os arquivos existentes</p></figcaption></figure>
 
-A estrutura distribuída foi criada para endereçar a maior parte dos problemas presentes nos sistemas centralizados.
+A estrutura distribuída foi criada para endereçar a maior parte dos problemas percebidos nos sistemas centralizados.
 
-
+### Motivação: endereçar problemas dos sistemas centralizados
 
 **Um único ponto de falha coloca em risco os dados**
 
-Caso algo acontecer com o servidor e o repositório central for pedido, no caso dos sistemas centralizados, isso resultaria em uma perda definitiva do código.&#x20;
+No sistema centralizado, caso algo venha a acontecer com o servidor e o repositório central for comprometido, isso resulta em uma perda definitiva do código.
 
-Já no sistema distribuído, como cada desenvolvedor possui uma cópia completa do repositório em seus computadores, os desenvolvedores ainda têm acesso a todo o histórico e podem restaurar o projeto a partir de suas cópias locais.
-
-
+Já no sistema distribuído, como cada pessoa colaboradora possui uma cópia completa do repositório em seu computador, tendo acesso a todo o histórico, é possível restaurar o projeto a partir de suas cópias locais.
 
 **Necessidade de conexão com o servidor**
 
-Em um sistema centralizado, as pessoas precisam de acesso contínuo ao servidor central para realizar operações de controle de versão. Caso o servidor venha a cair, por exemplo, ninguém mais consegue trabalhar.
+As pessoas dependem do acesso contínuo ao servidor central para realizar operações de controle de versão no sistema centralizado. Se o servidor ficar inacessível, por exemplo, todas as atividades de trabalho ficam interrompidas.
 
-Já nos sistemas distribuído, não há a dependência de conexão o servidor. Isso significa que a maior parte do desenvolvimento pode ser realizada _offline_. Apenas as operações de enviar (push) e receber (pull) modificações que ficam restringidas a necessidade de uma conexão.
+No sistema distribuído, entretanto, não há essa dependência de conexão com o servidor. Isso significa que a maior parte do desenvolvimento pode ser realizada _offline_. Apenas as operações de enviar (_**push**_) e receber (_**pull**_) modificações que ficam restringidas a necessidade de uma conexão.
 
-Os colaboradores possuem todo i histórico de execução do projeto em seus próprios computadores, o que significa que podem fazer alterações diretamente em seus repositórios.&#x20;
-
-Desta forma, permite que os membros da equipe fazem as suas modificações como um único conjunto de alterações. Deixando para enviar essas alterações quando tiver uma conexão novamente
+As pessoas colaboradoras têm acesso ao histórico completo do projeto em seus próprios computadores, permitindo que façam alterações diretamente em seus repositórios locais. Isso possibilita que realizem suas modificações como um conjunto de alterações, adiando o envio para quando estiverem online novamente.
 
 **Conexão lenta atrasa o desenvolvimento**
 
-// todo
+Em sistemas centralizados, os usuários enfrentam dificuldades ao realizar mudanças devido à comunicação necessária com o servidor remoto, o que torna o processo mais lento, especialmente em conexões de rede lentas.&#x20;
 
-**Poucos momentos estáveis para enviar (push) mudanças**
+Por outro lado, em sistemas distribuídos, os usuários podem fazer alterações de forma ágil e autônoma em seus repositórios locais, permitindo trabalhar sem depender constantemente do servidor remoto, realizando suas modificações como um conjunto de alterações, adiando o envio para quando estiverem online novamente.
+
+**Poucos momentos estáveis para enviar mudanças (push)**
 
 // todo
 
