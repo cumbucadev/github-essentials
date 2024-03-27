@@ -2,6 +2,8 @@
 
 {% embed url="https://pt.wikipedia.org/wiki/Sistema_de_controle_de_vers%C3%B5es" %}
 
+{% embed url="https://www.perforce.com/blog/vcs/what-is-version-control" %}
+
 {% embed url="https://faun.pub/centralized-vs-distributed-version-control-systems-a135091299f0" %}
 
 {% embed url="https://www.linkedin.com/pulse/centralized-version-control-systems-cvcs-distributed-dvcs-marathe" %}
