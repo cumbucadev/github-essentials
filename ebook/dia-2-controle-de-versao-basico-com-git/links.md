@@ -21,3 +21,7 @@
 {% embed url="https://about.gitlab.com/topics/version-control/what-is-centralized-version-control-system/" %}
 
 {% embed url="https://about.gitlab.com/topics/version-control/benefits-distributed-version-control-system/" %}
+
+{% embed url="https://github.com/githubtraining" %}
+
+{% embed url="https://github.com/github/training-kit" %}
