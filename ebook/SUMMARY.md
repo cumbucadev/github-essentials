@@ -14,7 +14,7 @@
   * [VCS Distribuídos (DVCS)](dia-2-controle-de-versao-basico-com-git/sistemas-de-controle-de-versao-vcs/vcs-distribuidos-dvcs.md)
 * [Git](dia-2-controle-de-versao-basico-com-git/git/README.md)
   * [Principais Conceitos](dia-2-controle-de-versao-basico-com-git/git/principais-conceitos.md)
-  * [Instalação](dia-2-controle-de-versao-basico-com-git/git/instalacao.md)
+  * [Instalando o Git](dia-2-controle-de-versao-basico-com-git/git/instalando-o-git.md)
   * [Principais Comandos](dia-2-controle-de-versao-basico-com-git/git/principais-comandos.md)
   * [Fluxo de Trabalho](dia-2-controle-de-versao-basico-com-git/git/fluxo-de-trabalho.md)
 * [Links](dia-2-controle-de-versao-basico-com-git/links.md)
