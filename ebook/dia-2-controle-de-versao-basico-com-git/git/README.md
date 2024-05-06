@@ -34,9 +34,7 @@ Desenvolvido em 2005 por [Linus Torvalds](https://pt.wikipedia.org/wiki/Linus\_T
 
 ### Popularidade
 
-
-
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Captura de tela retirada do site oficial <a href="https://git-scm.com/">https://git-scm.com/</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Empresas e Projetos que utilizam Git (fundo1).png" alt=""><figcaption></figcaption></figure>
 
 ###
 
