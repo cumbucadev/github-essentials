@@ -84,7 +84,7 @@ Seção 2:
 * Como abrir um Pull Request, review, merge (exemplo: primeiro repositório criado)
 * Assign
 
-#### Day 10 - Desafio final - Contribuindo em um repositório Open Source &#x20;
+#### Dia 10 - Desafio final - Contribuindo em um repositório Open Source &#x20;
 
 * Criaremos alguns repositórios sem linguagem de programação alguma, para que os participantes possam treinar e colocar em prática tudo o que foi ensinado.
 
