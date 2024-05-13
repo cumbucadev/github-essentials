@@ -55,35 +55,20 @@ Por outro lado, em sistemas distribuídos, os usuários podem fazer alterações
 
 **Poucos momentos estáveis para enviar mudanças (push)**
 
-// todo
+Quando muitos pessoas precisam trabalhar na mesma parte do código, fica complicado decidir quando fazer as alterações. Se as mudanças ainda não estão estáveis, não podem ser enviadas para o local onde todos compartilham o código, então cada desenvolvedor precisa mantê-las guardadas no seu próprio computador até que estejam prontas.
 
+Essa demora em compartilhar as mudanças pode atrasar o projeto e causar conflitos quando diferentes partes do código são mescladas. Isso acontece porque outros membros da equipe não conseguem ver as alterações que só existem no computador das outras pessoas. Quando finalmente as mudanças são enviadas para o local compartilhado, é preciso resolver esses conflitos rapidamente para que todos possam continuar trabalhando juntos.&#x20;
 
+Nos sistemas de controle de versão distribuído é mais fácil criar diferentes versões do código, chamadas de ramificações (branches). Isso porque cada pessoa tem uma cópia completa do histórico do projeto no seu próprio computador. Elas podem experimentar novas ideias rapidamente e pedir opiniões sobre o código antes de unir suas mudanças ao projeto principal.&#x20;
 
-O Git é o sistema de controle de versão descentralizado mais popular e amplamente utilizado, mas também existem outras opções, como Mercurial e Bazaar.
+Com menos pessoas trabalhando na mesma parte do código, os conflitos são menos comuns. Além disso, ter acesso ao histórico completo torna-se mais fácil encontrar erros, ver o que foi modificado e até voltar para uma versão anterior do código, se necessário.
 
+### Visão Geral
 
+Um sistema de controle de versão distribuído descentraliza o processo de gerenciamento de projetos, passando de um único repositório central ou servidor para um modelo onde cada membro da equipe possui uma cópia completa do projeto em seu próprio repositório local. Isso não apenas aprimora o fluxo de trabalho de desenvolvimento por meio de mesclagens e ramificações rápidas, mas também mitiga significativamente os riscos associados a uma falha no banco de dados central, garantindo que cada participante tenha uma cópia de backup do histórico completo.
 
-
-
-
-
-
-
-
-
-***
+Os DVSCs oferecem mais flexibilidade, segurança e eficiência em comparação com os sistemas centralizados. A integração deles no processo de desenvolvimento de software marcou um avanço fundamental na forma como as equipes colaboram e gerenciam seu histórico de controle de versão.
 
 
 
 <figure><img src="../../.gitbook/assets/ajuste.png" alt=""><figcaption><p>Mapa do Funcionamento de um Sistema de Controle de Versão Distribuído</p></figcaption></figure>
-
-
-
-Em resumo, os sistemas descentralizados de controle de versão oferecem mais flexibilidade, segurança e eficiência em comparação com os sistemas centralizados. Isso os torna uma escolha frequente para projetos de desenvolvimento de software em uma ampla gama de cenários.
-
-
-
-As vantagens são:
-
-
-
