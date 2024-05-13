@@ -25,3 +25,5 @@
 {% embed url="https://github.com/githubtraining" %}
 
 {% embed url="https://github.com/github/training-kit" %}
+
+{% embed url="https://githubtraining.github.io/training-manual/#/" %}
