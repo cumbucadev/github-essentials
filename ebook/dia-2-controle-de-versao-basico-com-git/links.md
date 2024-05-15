@@ -27,3 +27,5 @@
 {% embed url="https://github.com/github/training-kit" %}
 
 {% embed url="https://githubtraining.github.io/training-manual/#/" %}
+
+{% embed url="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches" %}
