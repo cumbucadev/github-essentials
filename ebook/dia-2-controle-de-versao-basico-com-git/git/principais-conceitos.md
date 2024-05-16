@@ -20,23 +20,35 @@ layout:
 
 ### Repositório
 
-É a maior unidade de armazenamento, um local de que contém todos os seus códigos, arquivos e o histórico da revisão de cada arquivo - como se fosse uma grande pasta com todos esses arquivos e metadados. Ele pode ser conhecido também como _repo_, e ser local (no seu computador) ou remoto (em um servidor, como o GitHub). Seu uso pode ser individual ou compartilhado com vários outros colaboradores, além de ter a possibilidade de ser privado (empresas, projetos pessoais...) ou público (uma das principais características de qualquer projeto que seja Open Source). Mas não se engane: mesmo quando a visualização do código é aberta ao público, para acessar o repositório principal você precisa ter uma permissão para poder fazer alterações nele, mas falaremos disso mais à frente!
+É a maior unidade de armazenamento, um local de que contém todos os seus códigos, arquivos e o histórico da revisão de cada arquivo - como se fosse uma grande pasta com todos esses arquivos e metadados. Ele pode ser conhecido também como _repo_, e ser local (no seu computador) ou remoto (em um servidor, como o GitHub).&#x20;
 
-IMAGEM REPOSITORIO
+
+
+<figure><img src="../../.gitbook/assets/19.png" alt=""><figcaption><p>Repositório: quando apenas na máquina - local.</p></figcaption></figure>
+
+Seu uso pode ser individual ou compartilhado com vários outros colaboradores, além de ter a possibilidade de ser privado (empresas, projetos pessoais...) ou público (uma das principais características de qualquer projeto que seja Open Source). Mas não se engane: mesmo quando a visualização do código é aberta ao público, para acessar o repositório principal você precisa ter uma permissão para poder fazer alterações nele, mas falaremos disso mais à frente!
+
+
+
+<figure><img src="../../.gitbook/assets/20.png" alt="" width="563"><figcaption><p>Um Repositório Remoto, no GitHub, tem essa aparência!</p></figcaption></figure>
 
 ### Branch
 
 #### :flag\_br:Galho, ramificação
 
-Uma das grandes vantagens de utilizar esse tipo de sistema é a criação das branches, que são - como o próprio nome já explica - "ramificações" do código original. Sempre que você cria um novo repositório, uma Branch Principal é criada, e por padrão, o GitHub dá à essa branch o nome de _main_ (você ainda pode encontrar algumas com o [nome _master_](https://www.zup.com.br/blog/termo-master-na-tecnologia)). A branch main - em seu período inicial - contém todas as informações do repositório atual, com os mesmos arquivos e códigos.
+Uma das grandes vantagens de utilizar esse tipo de sistema é a criação das branches, que são - como o próprio nome já explica - "ramificações" do código original. Sempre que você cria um novo repositório, uma Branch Principal é criada, e por padrão, o Git dá à essa branch o nome de _main_ (você ainda pode encontrar algumas com o [nome _master_](https://www.zup.com.br/blog/termo-master-na-tecnologia)). A branch main - em seu período inicial - contém todas as informações do repositório atual, com os mesmos arquivos e códigos.
 
-INSERIR AQUI IMAGEM - repositório, branch main
+
+
+<figure><img src="../../.gitbook/assets/21.png" alt=""><figcaption><p>Branch <code>main</code> possui todos os arquivos e dados da pasta inicial (principal).</p></figcaption></figure>
 
 Mas as branches não param por aí, pois a maior função delas é serem linhas independentes de desenvolvimento em um repositório, assim podem conter versões paralelas do código sem afetar a branch principal _(main)_. Além disso, as branches ajudam a organizar e gerenciar o fluxo de trabalho de uma equipe de desenvolvimento. Aqui estão algumas das funções mais comuns quando o assunto é branch:
 
 * **Desenvolvimento Paralelo**: As branches permitem que diferentes desenvolvedores trabalhem em diferentes funcionalidades ou correções simultaneamente, sem interferir no trabalho um do outro. Cada desenvolvedor pode ter sua própria branch para implementar e testar suas alterações.
 
-INSERIR IMAGEM DESENVOLV PARALELO
+
+
+<figure><img src="../../.gitbook/assets/22.png" alt=""><figcaption><p>Branch <code>main</code> continua contendo a mesma "pasta inicial", mas o Desenvolvedor Jonas e a Desenvolvedora Claudia possuem branches diferentes, cada um desenvolvendo sua especialidade.</p></figcaption></figure>
 
 * **Isolamento de Funcionalidades ou Correções**: Cada branch representa uma unidade de trabalho isolada. Isso significa que as mudanças feitas em uma branch não afetam diretamente o código em outras branches até que essas mudanças sejam **mescladas** de volta à branch principal.
 
