@@ -1,8 +1,10 @@
+---
+description: >-
+  Os comandos: git add, git status e git commit são usados em conjunto para
+  salvar uma foto do estado atual de um projeto Git.
+---
+
 # git add
-
-Os comandos: <mark style="color:purple;">git</mark> <mark style="color:orange;">add</mark>, <mark style="color:purple;">git</mark> <mark style="color:orange;">status</mark> e <mark style="color:purple;">git</mark> <mark style="color:orange;">commit</mark> são usados em conjunto para salvar uma foto do estado atual de um projeto Git.
-
-
 
 O comando <mark style="color:purple;">git</mark> <mark style="color:orange;">add</mark> é usado para preparar mudanças feitas nos arquivos do seu projeto para serem incluídas no próximo commit.
 

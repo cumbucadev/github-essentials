@@ -21,7 +21,7 @@ Quando você faz um commit, as mudanças são salvas localmente no seu computado
 
 Uma das características mais importantes do Git é que ele salva "snapshots" (fotos) do projeto, não apenas as diferenças entre as versões. Isso significa que cada commit é uma cópia completa do estado do projeto naquele momento.
 
-<figure><img src="../../../../.gitbook/assets/02.svg" alt=""><figcaption><p>Algo melhor que isso, mas nessa linha kkkk<br>fonte: <a href="https://www.atlassian.com/git/tutorials/saving-changes/git-commit">https://www.atlassian.com/git/tutorials/saving-changes/git-commit</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/02.svg" alt=""><figcaption><p>Algo melhor que isso, mas nessa linha kkkk<br>fonte: <a href="https://www.atlassian.com/git/tutorials/saving-changes/git-commit">https://www.atlassian.com/git/tutorials/saving-changes/git-commit</a></p></figcaption></figure>
 
 **Benefícios dos snapshots:**
 
