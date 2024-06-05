@@ -22,7 +22,7 @@ Caso já tenha seguido as instruções da seção [instalando-o-git.md](../insta
 
 > Imagem: captura de tela rodando o comando "git"
 
-#### git
+### git
 
 O comando `git` é o ponto de entrada para **todas** as operações do Git. Ele é utilizado para invocar quaisquer outros comandos disponíveis no Git. Para utilizá-lo, basta digitar no terminal de comando `git` seguido pelo nome do comando que deseja executar e quaisquer argumentos necessários.
 

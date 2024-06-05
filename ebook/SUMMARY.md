@@ -19,6 +19,15 @@
   * [Principais Comandos](dia-2-controle-de-versao-basico-com-git/git/principais-comandos/README.md)
     * [Inicializando um Repositório](dia-2-controle-de-versao-basico-com-git/git/principais-comandos/inicializando-um-repositorio.md)
     * [Configurando um Repositório](dia-2-controle-de-versao-basico-com-git/git/principais-comandos/configurando-um-repositorio.md)
-    * [Salvando Alterações](dia-2-controle-de-versao-basico-com-git/git/principais-comandos/salvando-alteracoes.md)
+    * [Salvando Alterações](dia-2-controle-de-versao-basico-com-git/git/principais-comandos/salvando-alteracoes/README.md)
+      * [git add](dia-2-controle-de-versao-basico-com-git/git/principais-comandos/salvando-alteracoes/git-add.md)
+      * [git status](dia-2-controle-de-versao-basico-com-git/git/principais-comandos/salvando-alteracoes/git-status.md)
+      * [git commit](dia-2-controle-de-versao-basico-com-git/git/principais-comandos/salvando-alteracoes/git-commit.md)
+      * [git log](dia-2-controle-de-versao-basico-com-git/git/principais-comandos/salvando-alteracoes/git-log.md)
+      * [Recaptulando...](dia-2-controle-de-versao-basico-com-git/git/principais-comandos/salvando-alteracoes/recaptulando....md)
   * [Fluxo de Trabalho](dia-2-controle-de-versao-basico-com-git/git/fluxo-de-trabalho.md)
 * [Links](dia-2-controle-de-versao-basico-com-git/links.md)
+
+***
+
+* [Glossário](glossario.md)

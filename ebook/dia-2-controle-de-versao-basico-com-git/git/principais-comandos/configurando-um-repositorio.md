@@ -18,9 +18,9 @@ layout:
 
 # Configurando um Repositório
 
-#### config
+### git config
 
-O comando <mark style="color:purple;">`git`</mark><mark style="color:orange;">`config`</mark> é usado para configurar o Git no seu computador. Neste contexto, entenda configurar como customizar ou personalizar o Git de acordo com suas preferências.
+O comando <mark style="color:purple;">git</mark> <mark style="color:orange;">config</mark> é usado para configurar o Git no seu computador. Neste contexto, entenda configurar como customizar ou personalizar o Git de acordo com suas preferências.
 
 Existem duas maneiras de configurar o Git no seu computador:
 
@@ -32,9 +32,11 @@ Você pode escolher entre aplicar uma configuração globalmente para todos os s
 
 > imagem: configs globais vs locais. Onde o arquivo fica localizado e a que se aplica
 
-O formato base do comando <mark style="color:purple;">`git`</mark><mark style="color:orange;">`config`</mark> é:
+#### Estrutura
 
-<mark style="color:purple;">git</mark> <mark style="color:orange;">config</mark> <mark style="color:blue;">\[opções]</mark> <mark style="color:green;">chave</mark> <mark style="color:green;">valor</mark>
+O formato base do comando <mark style="color:purple;">git</mark> <mark style="color:orange;">config</mark> é:
+
+> <mark style="color:purple;">git</mark> <mark style="color:orange;">config</mark> <mark style="color:blue;">\[opções]</mark> <mark style="color:green;">chave</mark> <mark style="color:green;">valor</mark>
 
 Em que:
 
@@ -43,6 +45,8 @@ Em que:
   Exemplos: user.name, user.email, core.editor.
 * Valor se refere ao valor que você deseja atribuir à chave.\
   Exemplos: "Seu Nome", "seu.email@exemplo.com", "nome-do-editor".
+
+#### Exemplos de configurações
 
 Essas são algumas das propriedades que podem ser configuradas:
 
@@ -70,8 +74,6 @@ Essas são algumas das propriedades que podem ser configuradas:
    Define o nome padrão do branch inicial quando você cria um novo repositório.\
    Exemplo definindo o nome padrão do branch inicial como 'dev' para um projeto específico:\
    <mark style="color:purple;">git</mark> <mark style="color:orange;">config</mark> <mark style="color:blue;">--local</mark> <mark style="color:green;">init.defaultBranch main</mark>
-
-
 
 {% hint style="warning" %}
 Esta é uma explicação simplificada para fins didáticos. Para explorar todas as possibilidades do comando <mark style="color:purple;">`git`</mark><mark style="color:orange;">`config`</mark>, consulte a [documentação oficial](https://git-scm.com/docs/git-config).

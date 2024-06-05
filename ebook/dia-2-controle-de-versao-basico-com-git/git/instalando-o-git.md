@@ -24,7 +24,7 @@ INSERIR IMAGEM TERMINAL GAMELA
 
 :window: Windows: abra o prompt de comando do Windows ou "Git Bash".&#x20;
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>No Windows 11, vai se parecer com este! </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>No Windows 11, vai se parecer com este! </p></figcaption></figure>
 
 
 
@@ -34,7 +34,7 @@ Depois de abrir seu aplicativo de terminal, digite:
 
 A saída irá dizer qual versão do Git está instalada, ou irá alertar que o git é um comando desconhecido. **Se for um comando desconhecido, continue lendo para descobrir como instalar o Git**.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Exemplo: Neste computador, a versão do Git é a 2.34.1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Exemplo: Neste computador, a versão do Git é a 2.34.1</p></figcaption></figure>
 
 No site que contém a [documentação oficial do Git](https://git-scm.com/), sempre vão conter as informações mais importantes para o uso dele.&#x20;
 
@@ -44,7 +44,7 @@ No site que contém a [documentação oficial do Git](https://git-scm.com/), sem
 
 
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Hoje a última versão do Git liberada é a 2.44.0</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Hoje a última versão do Git liberada é a 2.44.0</p></figcaption></figure>
 
 
 

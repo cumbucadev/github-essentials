@@ -22,7 +22,7 @@
 
 {% embed url="https://about.gitlab.com/topics/version-control/benefits-distributed-version-control-system/" %}
 
-{% embed url="https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line" %}
+{% embed url="https://git-scm.com/book/en/v2" %}
 
 {% embed url="https://www.atlassian.com/git" %}
 
