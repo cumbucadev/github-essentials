@@ -1,0 +1,2 @@
+# 🔍 Glossário - Dia 2
+

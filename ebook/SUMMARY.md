@@ -6,6 +6,7 @@
 * [Sobre o GitHub](dia-1-introducao/sobre-o-github.md)
 * [Cumbuca Dev](dia-1-introducao/cumbuca-dev.md)
 * [Mapa do Curso](dia-1-introducao/mapa-do-curso.md)
+* [🔍 Glossário - Dia 1](dia-1-introducao/glossario-dia-1.md)
 
 ## Dia 2: Controle de Versão Básico com Git
 
@@ -26,8 +27,11 @@
       * [git log](dia-2-controle-de-versao-basico-com-git/git/principais-comandos/salvando-alteracoes/git-log.md)
       * [Recaptulando...](dia-2-controle-de-versao-basico-com-git/git/principais-comandos/salvando-alteracoes/recaptulando....md)
   * [Fluxo de Trabalho](dia-2-controle-de-versao-basico-com-git/git/fluxo-de-trabalho.md)
+  * [Extensões](dia-2-controle-de-versao-basico-com-git/git/extensoes.md)
+  * [💡 Indicação: Jogo Oh My Git](dia-2-controle-de-versao-basico-com-git/git/indicacao-jogo-oh-my-git.md)
 * [Links](dia-2-controle-de-versao-basico-com-git/links.md)
+* [🔍 Glossário - Dia 2](dia-2-controle-de-versao-basico-com-git/glossario-dia-2.md)
 
 ***
 
-* [Glossário](glossario.md)
+* [Glossário - GitHub Essentials](glossario-github-essentials.md)
