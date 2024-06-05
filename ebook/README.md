@@ -37,14 +37,14 @@ Geralmente os alunos iniciantes de TI são apresentados à plataforma apenas com
 
 
 
-Inclusive, este e-book completo está disponível de forma gratuita e na íntegra (sempre atualizado conforme nossas correções), aqui, neste[ Respositório](https://github.com/cumbucadev/github-essentials). Não é demais?
+Inclusive, este e-book completo está disponível de forma gratuita e na íntegra (sempre atualizado conforme nossas correções), aqui, neste[ Repositório](https://github.com/cumbucadev/github-essentials). Não é demais?
 
 
 
 Estamos muito felizes com sua presença aqui e prontos para te guiar nessa jornada de aprendizado e colaboração em um ecossistema vasto de compartilhamento. Bora iniciar nossos estudos?\
 
 
-<figure><img src=".gitbook/assets/GH Essentials.png" alt=""><figcaption><p>Logo GitHub Essentials</p></figcaption></figure>
+<figure><img src=".gitbook/assets/GH Essentials.png" alt="Um emblema circular com tons concêntricos de roxo e o texto &#x22;GITHUB ESSENTIALS&#x22; em letras brancas em negrito."><figcaption><p>Logo GitHub Essentials</p></figcaption></figure>
 
 
 

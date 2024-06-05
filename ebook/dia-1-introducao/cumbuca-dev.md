@@ -4,11 +4,15 @@ Antes de começarmos, precisamos nos apresentar, certo?
 
 Suas instrutoras nesse curso serão: Camila Maia e Maria Antônia Maia - caso você não tenha percebido as semelhanças: somos primas e parceiras nesse projeto incrível chamado **Cumbuca Dev**.
 
-\***Aqui eu tinha pensado em colocar seu grande CU-rriculo**\*\*\*
 
 
+{% hint style="info" %}
+Camila Maia é uma engenheira de software com mais de 12 anos de experiência, que se destaca na otimização da experiência do desenvolvedor, criação de ferramentas de desenvolvimento, automação de fluxos de trabalho e arquitetura de sistemas robustos.
 
-\*\* **aqui meu mini cu-rrisco**\*
+Reconhecida pelo GitHub como uma das 26 Mantenedoras de Código Aberto no Brasil e a **primeira brasileira** no programa GitHub Sponsors, Camila destaca-se não apenas por suas habilidades técnicas, mas também por seu talento singular para instruir e comunicar conceitos complexos de forma acessível.
+
+Também contribui ativamente para a comunidade tech, organizando eventos como Pyjamas Conf, EuroPython 2020 e Python Brasil 2020, além de realizar palestras e mentorias em diversas conferências.
+{% endhint %}
 
 
 
@@ -22,7 +26,7 @@ Desanimada e brocochô, a Maria até pensou em desistir de tudo e continuar nos 
 
 Esse tipo de abordagem foi um divisor de águas para a Maria e , a partir deste momento, tudo começou a mudar. Os conteúdos que a Maria aprendia, além de conseguir fixar com mais qualidade e facilidade de aprendizagem, ela conseguiu se conectar ainda mais com a possibilidade de migrar totalmente para a área de T.I. Foi então que começaram a pensar: se conseguimos mudar a vida de uma pessoa, **porquê não ajudar a mudar a realidade de tantas outras que precisam?**
 
-<figure><img src="../.gitbook/assets/logo-light-transparent.png" alt=""><figcaption><p>Logo Cumbuca Dev</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/logo-light-transparent.png" alt="Um logotipo redondo com um círculo roxo com uma borda marrom e um anel branco dentro da borda - como se fosse um coco seco visto de cima. No centro há um banner horizontal branco com texto pixelado onde se lê &#x22;CUMBUCA DEV&#x22; em roxo."><figcaption><p>Logo Cumbuca Dev</p></figcaption></figure>
 
 Assim nasceu a Cumbuca Dev: uma organização que se dedica apaixonadamente a promover a diversidade e a igualdade na área de Tecnologia da Informação (TI). Através de programas educacionais abrangentes, capacitamos e apoiamos ativamente grupos minoritários, visando não apenas sua inclusão, mas também o desenvolvimento de líderes em potencial dentro de cada setor.&#x20;
 
