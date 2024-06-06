@@ -36,8 +36,16 @@
   * [Fluxo de Trabalho](dia-2-controle-de-versao-basico-com-git/git/fluxo-de-trabalho.md)
   * [Extensões](dia-2-controle-de-versao-basico-com-git/git/extensoes.md)
   * [💡 Indicação: Jogo Oh My Git](dia-2-controle-de-versao-basico-com-git/git/indicacao-jogo-oh-my-git.md)
-* [Links](dia-2-controle-de-versao-basico-com-git/links.md)
+* [Links Úteis - Dia 2](dia-2-controle-de-versao-basico-com-git/links-uteis-dia-2.md)
 * [🔍 Glossário - Dia 2](dia-2-controle-de-versao-basico-com-git/glossario-dia-2.md)
+
+## Dia 3: Prazer, GitHub
+
+* [Qual a diferença entre Git e GitHub?](dia-3-prazer-github/qual-a-diferenca-entre-git-e-github.md)
+* [O que podemos encontrar na plataforma?](dia-3-prazer-github/o-que-podemos-encontrar-na-plataforma.md)
+* [GitHub Features: ferramentas para desenvolvimento e manutenção de código](dia-3-prazer-github/github-features-ferramentas-para-desenvolvimento-e-manutencao-de-codigo.md)
+* [Links Úteis - Dia 3](dia-3-prazer-github/links-uteis-dia-3.md)
+* [🔍 Glossário - Dia 3](dia-3-prazer-github/glossario-dia-3.md)
 
 ***
 
