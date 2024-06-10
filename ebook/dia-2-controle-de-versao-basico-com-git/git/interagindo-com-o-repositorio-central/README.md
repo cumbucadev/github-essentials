@@ -10,7 +10,7 @@ Até agora, explicamos como fazer mudanças no repositório local, na sua própr
 
 Essas operações são fundamentais para controlar a versão de seus arquivos localmente, mas elas só afetam o repositório no seu próprio computador.
 
-Nesta seção, vamos explorar como interagir com um repositório remoto central. Isso envolve pegar (pull/fetch) e enviar (push) mudanças entre seu repositório local e o repositório central hospedado em serviços como GitHub, GitLab ou Bitbucket.
+Nesta seção, vamos explorar como interagir com um repositório remoto central **já existente**. Isso envolve pegar (pull/fetch) e enviar (push) mudanças entre seu repositório local e o repositório central hospedado em serviços como GitHub, GitLab ou Bitbucket.
 
 **O que Vamos Aprender:**
 
