@@ -1,10 +1,10 @@
 ---
-description: Descrição do conteúdo do curso para cada dia
+description: Aqui você encontra a descrição do conteúdo do curso para cada dia!
 ---
 
 # Mapa do Curso
 
-### Primeira Metade
+### Primeira Metade: Dia 1 ao Dia 5
 
 <figure><img src="../.gitbook/assets/Mapa do Curso - Dia 1 ao 5.png" alt="Mapa do Curso até o dia 5 - tudo está descrito no texto abaixo"><figcaption><p>Mapa do Curso - Dia 1 ao 5</p></figcaption></figure>
 
@@ -55,7 +55,7 @@ Seção 2:
 * Overview aba CODE
 * Overview aba settings
 
-### Segunda Metade
+### Segunda Metade: Dia 6 ao Dia 10
 
 <figure><img src="../.gitbook/assets/Mapa do Curso - Dia 6 ao 10.png" alt="Mapa do Curso, do dia 6 ao 10 - tudo está descrito no texto abaixo."><figcaption><p>Mapa do Curso - Dia 6 ao 10</p></figcaption></figure>
 

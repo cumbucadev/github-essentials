@@ -1,12 +1,14 @@
-# Cumbuca Dev
+---
+description: Antes de começarmos, precisamos nos apresentar, certo?!
+---
 
-Antes de começarmos, precisamos nos apresentar, certo?
+# Cumbuca Dev
 
 Suas instrutoras nesse curso serão: Camila Maia e Maria Antônia Maia - caso você não tenha percebido as semelhanças: somos primas e parceiras nesse projeto incrível chamado **Cumbuca Dev**.
 
 
 
-{% hint style="info" %}
+{% hint style="success" %}
 Camila Maia é uma engenheira de software com mais de 12 anos de experiência, que se destaca na otimização da experiência do desenvolvedor, criação de ferramentas de desenvolvimento, automação de fluxos de trabalho e arquitetura de sistemas robustos.
 
 Reconhecida pelo GitHub como uma das 26 Mantenedoras de Código Aberto no Brasil e a **primeira brasileira** no programa GitHub Sponsors, Camila destaca-se não apenas por suas habilidades técnicas, mas também por seu talento singular para instruir e comunicar conceitos complexos de forma acessível.
@@ -16,11 +18,11 @@ Também contribui ativamente para a comunidade tech, organizando eventos como Py
 
 
 
-O projeto nasceu de uma demanda pessoal, Camila estava mentorando a Maria para fazer a transição de carreira para o mercado de TI. Acontece que nada era tão simples quanto parecia, e mesmo com algum tempo de estudo a Maria não conseguia enxergar um panorama em que alcançaria alguma vaga real de emprego na área de T.I. Passou em alguns bootcamps, cursos imersivos, programas de iniciação... mas a vaga de emprego sempre ia para pessoas com o mesmo perfil.&#x20;
+O projeto nasceu de uma demanda pessoal, Camila estava mentorando a Maria para fazer a transição de carreira para o mercado de TI. Acontece que nada era tão simples quanto parecia, e mesmo com algum tempo de estudo a Maria não conseguia enxergar um panorama em que alcançaria alguma vaga ~~real~~ de emprego na área de T.I. Passou em alguns bootcamps, cursos imersivos, programas de iniciação... mas a vaga de emprego sempre ia para pessoas com o mesmo perfil.&#x20;
 
 
 
-Desanimada e brocochô, a Maria até pensou em desistir de tudo e continuar nos empregos convencionais - que na região além de serem escassos, não permitiam o desenvolvimento e crescimento pessoal. Foi então que a Camila resolveu mostrar como todo esse conteúdo que a Maria havia aprendido não servia só para ocupar espaço na memória, e usou (pausa dramática).... OPEN SOURCE para mostrar para ela que o conhecimento que tinha já poderia ser usado e dessa forma ela poderia aprender como seria trabalhar nesse mercado de trabalho. &#x20;
+Desanimada e brocochô, a Maria até pensou em desistir de tudo e continuar nos empregos convencionais - que na região além de serem escassos, não permitiam o desenvolvimento e crescimento pessoal. Foi então que a Camila resolveu mostrar como todo esse conteúdo que a Maria havia aprendido não servia só para ocupar espaço na memória, e usou (pausa dramática).... <mark style="color:purple;">OPEN SOURCE</mark> para mostrar para ela que o conhecimento que tinha já poderia ser usado e dessa forma ela poderia aprender como seria trabalhar nesse mercado de trabalho. &#x20;
 
 
 
@@ -28,7 +30,7 @@ Esse tipo de abordagem foi um divisor de águas para a Maria e , a partir deste 
 
 <figure><img src="../.gitbook/assets/logo-light-transparent.png" alt="Um logotipo redondo com um círculo roxo com uma borda marrom e um anel branco dentro da borda - como se fosse um coco seco visto de cima. No centro há um banner horizontal branco com texto pixelado onde se lê &#x22;CUMBUCA DEV&#x22; em roxo."><figcaption><p>Logo Cumbuca Dev</p></figcaption></figure>
 
-Assim nasceu a Cumbuca Dev: uma organização que se dedica apaixonadamente a promover a diversidade e a igualdade na área de Tecnologia da Informação (TI). Através de programas educacionais abrangentes, capacitamos e apoiamos ativamente grupos minoritários, visando não apenas sua inclusão, mas também o desenvolvimento de líderes em potencial dentro de cada setor.&#x20;
+Assim nasceu a Cumbuca Dev: uma organização que se dedica **apaixonadamente** a promover a diversidade e a igualdade na área de Tecnologia da Informação (TI). Através de programas educacionais abrangentes, capacitamos e apoiamos ativamente grupos minoritários, visando não apenas sua inclusão, mas também o desenvolvimento de líderes em potencial dentro de cada setor.&#x20;
 
 
 
