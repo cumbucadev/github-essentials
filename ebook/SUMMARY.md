@@ -33,7 +33,6 @@
     * [git fetch](dia-2-controle-de-versao-basico-com-git/git/interagindo-com-o-repositorio-central/git-fetch.md)
     * [git push](dia-2-controle-de-versao-basico-com-git/git/interagindo-com-o-repositorio-central/git-push.md)
     * [git pull](dia-2-controle-de-versao-basico-com-git/git/interagindo-com-o-repositorio-central/git-pull.md)
-  * [Fluxo de Trabalho](dia-2-controle-de-versao-basico-com-git/git/fluxo-de-trabalho.md)
   * [Extensões](dia-2-controle-de-versao-basico-com-git/git/extensoes.md)
   * [💡 Indicação: Jogo Oh My Git](dia-2-controle-de-versao-basico-com-git/git/indicacao-jogo-oh-my-git.md)
 * [Links Úteis - Dia 2](dia-2-controle-de-versao-basico-com-git/links-uteis-dia-2.md)
