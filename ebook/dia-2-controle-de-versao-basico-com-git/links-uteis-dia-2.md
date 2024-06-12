@@ -18,7 +18,7 @@ description: >-
 
 {% embed url="https://git-scm.com/" %}
 
-{% embed url="https://www.atlassian.com/br/git/tutorials/what-is-git" %}
+{% embed url="https://www.atlassian.com/br/git/tutorials" %}
 
 {% embed url="https://kenzie.com.br/blog/o-que-e-git/" %}
 
@@ -31,8 +31,6 @@ description: >-
 {% embed url="https://about.gitlab.com/topics/version-control/benefits-distributed-version-control-system/" %}
 
 {% embed url="https://git-scm.com/book/en/v2" %}
-
-{% embed url="https://www.atlassian.com/git" %}
 
 {% embed url="https://github.com/githubtraining" %}
 
