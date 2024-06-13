@@ -25,6 +25,8 @@ O comando <mark style="color:purple;">git</mark> <mark style="color:orange;">ini
 * Para **converter** um projeto existente, não versionado, em um repositório Git ou;
 * Para **inicializar** um novo repositório vazio.
 
+_Imagens 1 e 2 init_
+
 A maioria dos outros comandos do Git não está disponível fora de um repositório inicializado, então este é geralmente o **primeiro** comando que você executa em um novo projeto.
 
 O quê o comando <mark style="color:purple;">git</mark> <mark style="color:orange;">init</mark> faz por debaixo dos panos é criar uma pasta (diretório) chamada `.git` dentro da pasta de trabalho atual.
