@@ -28,7 +28,7 @@ Existem várias clientes que facilitam a comunicação entre o Git e o usuário.
 
 **Interface de Linha de Comando (Command Line Interface - CLI)**: Neste formato, os usuários interagem com o Git digitando comandos diretamente em um terminal ou prompt de comando. Aqui, os comandos são textuais e exigem que o usuário escreva para executar várias tarefas.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 **Interface Gráfica do Usuário (Graphical User Interface - GUI):** Esta abordagem é mais visual, permitindo que os usuários interajam com o Git clicando em botões, ícones e menus em um aplicativo gráfico. Aqui, as ações são realizadas de forma mais intuitiva, sem a necessidade de digitar comandos.
 
