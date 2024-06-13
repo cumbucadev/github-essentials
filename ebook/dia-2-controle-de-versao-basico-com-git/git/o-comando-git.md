@@ -49,6 +49,8 @@ Se você digitar apenas <mark style="color:purple;">`git`</mark> no terminal, se
 
 Em resumo, toda interação com o Git é feita através do comando <mark style="color:purple;">`git`</mark>. Ele é o seu meio de comunicação com o Git e permite que você execute uma ampla variedade de tarefas de controle de versão em seu projeto.
 
+IMAGEM
+
 {% hint style="warning" %}
 Esta é uma explicação simplificada para fins didáticos. Para explorar todas as possibilidades do comando <mark style="color:purple;">`git`</mark>, consulte a [documentação oficial](https://git-scm.com/docs/git/pt\_BR).
 {% endhint %}
