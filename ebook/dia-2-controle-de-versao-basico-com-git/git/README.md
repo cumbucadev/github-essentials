@@ -40,7 +40,9 @@ O Git é um projeto de código aberto bem mantido, com mais de uma década de su
 
 Desde a sua criação, o Git se tornou extremamente popular e é amplamente usado por desenvolvedores em todo o mundo, tanto em projetos de código aberto quanto comerciais. Plataformas como GitHub, GitLab e Bitbucket, que hospedam os repositórios Git, contribuíram significativamente para essa popularidade, facilitando a colaboração e o compartilhamento de código.
 
-<figure><img src="../../.gitbook/assets/Empresas e Projetos que utilizam Git (fundo1).png" alt="Alt TEXT: Ao centro, na parte superior a frase: Empresas e Projetos que utilizam Git. Abaixo as logos, da esquerda para a direita:  Google, Microsoft, X (Twitter), LinkedIn, Netflix, Perl, PostgreSQL, Android, Linux, Ruby on Rails, Qt, GNOME, Eclipse, KDE e X.Org."><figcaption><p>Algumas das empresas e projetos que utilizam o Git para versionar seus códigos.</p></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/Empresas e Projetos que utilizam Git (1).png" alt="Ao centro, na parte superior a frase: Empresas e Projetos que utilizam Git. Abaixo as logos, da esquerda para a direita: Google, Microsoft, X (Twitter), LinkedIn, Netflix, Perl, PostgreSQL, Android, Linux, Ruby on Rails, Qt, GNOME, Eclipse, KDE e X.Org."><figcaption><p>Algumas das empresas e projetos que utilizam o Git para versionar seus códigos.</p></figcaption></figure>
 
 ### &#x20;:bulb: Porquê Aprender Git?
 
