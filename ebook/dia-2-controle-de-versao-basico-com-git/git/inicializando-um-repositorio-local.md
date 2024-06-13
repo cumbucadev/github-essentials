@@ -29,11 +29,13 @@ A maioria dos outros comandos do Git não está disponível fora de um repositó
 
 O quê o comando <mark style="color:purple;">git</mark> <mark style="color:orange;">init</mark> faz por debaixo dos panos é criar uma pasta (diretório) chamada `.git` dentro da pasta de trabalho atual.
 
-> imagem: ls de um projeto em que tem a pasta .git
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Essa pasta é onde o Git armazenará todos os dados sobre as versões dos arquivos, as alterações feitas e outras informações importantes para o controle de versão.&#x20;
 
 > imagem: pasta .git apontando para várias coisas que ela contém
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Se você excluir essa pasta, o Git perderá a capacidade de acessar e gerenciar todas as informações essenciais do seu repositório. Portanto, é crucial que essa pasta sempre esteja presente para garantir o funcionamento adequado do Git.
 
