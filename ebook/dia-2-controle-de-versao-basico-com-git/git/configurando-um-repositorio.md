@@ -18,7 +18,7 @@ layout:
 
 # Configurando um Repositório
 
-### git config
+## git config
 
 O comando <mark style="color:purple;">git</mark> <mark style="color:orange;">config</mark> é usado para configurar o Git no seu computador. Neste contexto, entenda configurar como customizar ou personalizar o Git de acordo com suas preferências.
 
@@ -32,7 +32,7 @@ Você pode escolher entre aplicar uma configuração globalmente para todos os s
 
 > imagem: configs globais vs locais. Onde o arquivo fica localizado e a que se aplica
 
-#### Estrutura
+### Estrutura
 
 O formato base do comando <mark style="color:purple;">git</mark> <mark style="color:orange;">config</mark> é:
 
@@ -46,7 +46,7 @@ Em que:
 * <mark style="color:green;">**valor**</mark>: se refere ao valor que você deseja atribuir à chave.\
   Exemplos: "Seu Nome", "seu.email@exemplo.com", "nome-do-editor".
 
-#### Exemplos de configurações
+### Exemplos de configurações
 
 Essas são algumas das propriedades que podem ser configuradas:
 

@@ -4,7 +4,7 @@ O comando <mark style="color:purple;">git</mark> <mark style="color:orange;">log
 
 > imagem: print de um git log apontando onde fica cada info
 
-### Estrutura
+## Estrutura
 
 O formato base do comando <mark style="color:purple;">git</mark> <mark style="color:orange;">log</mark> é:
 

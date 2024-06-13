@@ -10,7 +10,7 @@ Esta é a estrutura base do comando <mark style="color:purple;">git</mark> <mark
 
 > <mark style="color:purple;">git</mark> <mark style="color:orange;">push</mark>
 
-### **Exemplos de uso**
+### **Exemplo de uso**
 
 Depois de fazer algumas mudanças, adicionar arquivos e criar commits em seu repositório local, você quer compartilhar essas atualizações com a equipe. Aqui está o fluxo completo:
 

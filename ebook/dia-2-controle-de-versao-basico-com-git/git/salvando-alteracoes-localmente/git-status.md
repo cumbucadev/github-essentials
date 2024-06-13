@@ -1,5 +1,7 @@
 # git status
 
+## Como Funciona
+
 O comando <mark style="color:purple;">git</mark> <mark style="color:orange;">status</mark> serve para mostrar o estado atual dos arquivos de um projeto.&#x20;
 
 Ao executar o comando <mark style="color:purple;">git</mark> <mark style="color:orange;">status</mark>, serão listado os arquivos modificados, preparados e não rastreados.
@@ -28,7 +30,7 @@ Exemplo: Se você criou um novo arquivo chamado `script.js` e não usou <mark st
 
 <figure><img src="../../../.gitbook/assets/image (11).png" alt="git status On branch main Your branch is up to date with &#x27;origin/main&#x27;.  Untracked files:   (use &#x22;git add <file>...&#x22; to include in what will be committed) 	script.js  nothing added to commit but untracked files present (use &#x22;git add&#x22; to track)"><figcaption></figcaption></figure>
 
-#### **Estrutura**
+## **Estrutura**
 
 O formato base do comando <mark style="color:purple;">git</mark> <mark style="color:orange;">status</mark> é:
 

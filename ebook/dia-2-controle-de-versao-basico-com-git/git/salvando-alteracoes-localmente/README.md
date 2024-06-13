@@ -37,8 +37,6 @@ Os arquivos em sua pasta de trabalho podem estar sendo rastreados pelo Git ("_tr
 * **Não rastreados (Untracked):** São arquivos que não estão sendo monitorados pelo Git. Eles existem no diretório de trabalho, mas nunca foram adicionados ao repositório Git. Ou seja, o Git simplesmente não controla o versionamento destes arquivos.
 * **Rastreados (Tracked):** São arquivos que o Git conhece e está rastreando. Isso inclui arquivos que foram adicionados ao repositório e que fazem parte do histórico de commits.
 
-<mark style="background-color:orange;">Quando você clona um repositório de um servidor para a sua máquina local, automaticamente todos os arquivos copiados já estão sendo rastreados pelo Git.</mark>
-
 Ao criar um arquivo novo no seu diretório local, ele ainda não estará sendo rastreado pelo Git. Para isso, você precisa explicitamente adicioná-lo com o comando <mark style="color:purple;">git</mark> <mark style="color:orange;">add</mark>. A partir de então, o Git passará a controlar o versionamento do novo arquivo no projeto.
 
 

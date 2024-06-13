@@ -14,13 +14,17 @@ layout:
 
 # git clone
 
+## Como Funciona
+
 Quando um projeto já foi configurado em um repositório central, utiliza-se o comando <mark style="color:purple;">`git`</mark><mark style="color:orange;">`clone`</mark> para obter uma cópia de desenvolvimento do projeto em seu computador.&#x20;
 
 > imagem: explicando clone
 
 Assim como o <mark style="color:purple;">git</mark> <mark style="color:orange;">init</mark>, clonar é geralmente uma operação única. Uma vez que um desenvolvedor tenha obtido uma cópia de trabalho, todas as operações de controle de versão e colaborações são gerenciadas por meio do seu repositório local.
 
-#### Estrutura
+Quando você clona um repositório de um servidor para a sua máquina local, automaticamente todos os arquivos copiados já estão sendo rastreados pelo Git.
+
+## Estrutura
 
 O formato base do comando <mark style="color:purple;">git</mark>  <mark style="color:orange;">clone</mark> é:
 
@@ -32,7 +36,7 @@ Em que:
 * <mark style="color:green;">**repositório**</mark>: A URL do repositório que você deseja clonar. Pode ser uma URL de um repositório remoto (como do GitHub) ou o caminho de um repositório local.
 * <mark style="color:green;">**\[diretório]**</mark>** (opcional)**: O nome do diretório onde o repositório clonado será armazenado. Se não for especificado, o Git usará o nome do repositório original.
 
-#### Exemplo de uso
+## Exemplo de uso
 
 Vamos analisar um exemplo que demonstra como clonar um repositório Git hospedado em um servidor remoto:
 
@@ -64,7 +68,7 @@ cd meu-projeto
 Esta é uma explicação simplificada para fins didáticos. Para explorar todas as possibilidades do comando <mark style="color:purple;">`git`</mark><mark style="color:orange;">`clone`</mark>, consulte a [documentação oficial](https://git-scm.com/docs/git-clone/pt\_BR).
 {% endhint %}
 
-### git init vs git clone
+## git init vs git clone
 
 Os comandos <mark style="color:purple;">git</mark> <mark style="color:orange;">init</mark> e <mark style="color:purple;">git</mark> <mark style="color:orange;">clone</mark> podem ser facilmente confundidos. Em um nível mais alto, ambos são utilizados para "inicializar um novo repositório git".  No entanto, <mark style="color:purple;">git</mark> <mark style="color:orange;">clone</mark> depende do <mark style="color:purple;">git</mark> <mark style="color:orange;">init</mark>.&#x20;
 

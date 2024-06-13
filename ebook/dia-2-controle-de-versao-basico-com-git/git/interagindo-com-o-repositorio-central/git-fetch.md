@@ -1,5 +1,7 @@
 # git fetch
 
+## Como Funciona
+
 O comando <mark style="color:purple;">git</mark> <mark style="color:orange;">fetch</mark> é uma ferramenta essencial no Git que permite buscar atualizações de um repositório remoto para o seu repositório local, sem integrar essas mudanças automaticamente. Isso significa que você pode ver quais atualizações foram feitas no repositório remoto e decidir quando e como aplicá-las ao seu trabalho local.
 
 Quando você executa <mark style="color:purple;">git</mark> <mark style="color:orange;">fetch</mark>, o Git se conecta ao repositório remoto e baixa todas as atualizações mais recentes. Essas mudanças são armazenadas localmente para você revisar, mas não afetam diretamente os arquivos em que você está trabalhando no momento.
@@ -8,13 +10,13 @@ Quando você executa <mark style="color:purple;">git</mark> <mark style="color:o
 
 Imagine que você e seu colega estão trabalhando no mesmo projeto. Seu colega fez algumas mudanças e as enviou para o repositório remoto. Com o <mark style="color:purple;">git</mark> <mark style="color:orange;">fetch</mark>, você pode ver essas mudanças sem afetar o que você está fazendo. É como pegar uma atualização do que está acontecendo sem misturar isso com o seu código atual.
 
-### Estrutura
+## Estrutura
 
 Esta é a estrutura base do comando <mark style="color:purple;">git</mark> <mark style="color:orange;">fetch</mark> que iremos utilizar neste momento
 
 > <mark style="color:purple;">git</mark> <mark style="color:orange;">fetch</mark>
 
-### **Exemplos de uso**
+## **Exemplo de uso**
 
 1.  **Buscar Atualizações:**
 
@@ -38,7 +40,7 @@ Esta é a estrutura base do comando <mark style="color:purple;">git</mark> <mark
 
     Isso integra as mudanças buscadas com o seu branch atual.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Não se preocupe se a sintaxe dos comandos nos itens 2 e 3 parecer complicada agora. Por enquanto, basta utilizá-los conforme descrito. Mais para frente, você entenderá melhor como e por que eles funcionam. Agora, para fins didáticos, usar esses comandos sem compreender todos os detalhes está perfeitamente bem.
 {% endhint %}
 

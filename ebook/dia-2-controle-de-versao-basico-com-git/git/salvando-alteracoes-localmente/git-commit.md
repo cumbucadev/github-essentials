@@ -1,5 +1,7 @@
 # git commit
 
+## Como Funciona
+
 O comando <mark style="color:purple;">git</mark> <mark style="color:orange;">commit</mark> é utilizado para salvar as alterações feitas no repositório. Pense no git commit como um comando para salvar, mas ele é especial porque pode salvar várias alterações de uma vez, não apenas uma.
 
 O commit funciona como uma câmera que tira uma "foto" (ou "_snapshot_") do seu projeto naquele exato momento. Essa "foto" captura todas as mudanças que foram preparadas (ou "staged") usando o comando <mark style="color:purple;">git</mark> <mark style="color:orange;">add</mark>, além de tudo que já estava presente no repositório anteriormente. Esses "fotos" podem ser consideradas versões "seguras" do projeto — o Git nunca as alterará, a menos que você solicite explicitamente.
@@ -29,13 +31,13 @@ Uma das características mais importantes do Git é que ele salva "snapshots" (f
 2. **Histórico Claro:** Ter snapshots completos facilita entender o estado do projeto em qualquer ponto no tempo.
 3. **Restauração Simples:** Se precisar voltar a um estado anterior, você tem uma imagem completa do projeto, sem precisar recompor todas as mudanças uma por uma.
 
-#### **Estrutura**
+## **Estrutura**
 
 O formato base do comando <mark style="color:purple;">git</mark> <mark style="color:orange;">commit</mark> é:
 
 > <mark style="color:purple;">git</mark> <mark style="color:orange;">commit</mark> <mark style="color:blue;">\[opções]</mark>
 
-#### **Exemplos de uso**
+## **Exemplos de uso**
 
 * Realizar o commit do snapshot preparado
   * <mark style="color:purple;">git</mark> <mark style="color:orange;">commit</mark>&#x20;

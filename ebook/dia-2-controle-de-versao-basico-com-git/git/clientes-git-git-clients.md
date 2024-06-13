@@ -34,7 +34,7 @@ Existem várias clientes que facilitam a comunicação entre o Git e o usuário.
 
 > Imagem: capturas de telas de diferentes clientes GUI com seus repectivos nomes/links
 
-### Git CLI
+## Git CLI
 
 Neste curso, utilizaremos o cliente oficial do Git: a [Git CLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line). A motivação por trás dessa escolha é:
 

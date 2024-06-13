@@ -1,10 +1,12 @@
 # git diff
 
+## Como Funciona
+
 O comando <mark style="color:purple;">git</mark> <mark style="color:orange;">diff</mark> é usado para mostrar as diferenças entre o estado atual do seu repositório e o último commit. Ele é útil para visualizar as alterações feitas nos arquivos antes de criar um novo commit.
 
 No terminal, o output do <mark style="color:purple;">git</mark> <mark style="color:orange;">diff</mark> apresentará as diferenças de forma clara. Cada alteração será mostrada com um prefixo indicando se é uma adição `+`, uma remoção `-`, ou uma modificação `*`.
 
-### Estrutura
+## Estrutura
 
 Esta é a estrutura base do comando <mark style="color:purple;">git</mark> <mark style="color:orange;">diff</mark> que iremos utilizar neste momento
 
@@ -15,9 +17,9 @@ Em que:&#x20;
 * <mark style="color:purple;">**git**</mark>** **<mark style="color:orange;">**diff**</mark>: Este é o comando principal que invoca a ferramenta de diferenciação do Git.
 * <mark style="color:green;">**\[arquivo]**</mark>** (opcional)**: Este é um argumento opcional que especifica o arquivo específico para o qual você deseja ver as diferenças. Se nenhum arquivo for especificado, o <mark style="color:purple;">git</mark> <mark style="color:orange;">diff</mark> mostrará as diferenças de todos os arquivos modificados em relação ao último commit.
 
-### Exemplo de Uso
+## Exemplo de Uso
 
-#### **Exemplo 1:** <mark style="color:purple;">git</mark> <mark style="color:orange;">diff</mark> <mark style="color:green;">arquivo</mark>
+### **Exemplo 1:** <mark style="color:purple;">git</mark> <mark style="color:orange;">diff</mark> <mark style="color:green;">arquivo</mark>
 
 Suponha que o arquivo `index.html` originalmente tinha o seguinte conteúdo:
 
@@ -100,11 +102,11 @@ Em que:
     A linha original `<title>Meu Site</title>` foi removida (indicada pelo sinal `-`).\
     Em seu lugar, foi adicionada a linha `<title>Meu Novo Site</title>` (indicada pelo sinal `+`).
 
-#### Exemplo 2: <mark style="color:purple;">git</mark> <mark style="color:orange;">diff</mark>
+### Exemplo 2: <mark style="color:purple;">git</mark> <mark style="color:orange;">diff</mark>
 
 Para visualizar as diferenças em todos os arquivos modificados, basta utilizar o comando <mark style="color:purple;">git</mark> <mark style="color:orange;">diff</mark> sem nenhum argumento. Dessa forma, o Git apresentará todas as alterações realizadas em todos os arquivos do repositório, oferecendo uma visão abrangente das mudanças efetuadas, sem focar em um arquivo específico, ao contrário do comando <mark style="color:purple;">git</mark> <mark style="color:orange;">diff</mark> <mark style="color:green;">arquivo</mark>.
 
-#### Conteúdo Original dos Arquivos:
+**Conteúdo Original dos Arquivos:**
 
 **index.html:**
 
@@ -129,7 +131,7 @@ body {
 }
 ```
 
-#### Conteúdo Modificado dos Arquivos:
+**Conteúdo Modificado dos Arquivos:**
 
 **index.html:**
 
@@ -255,3 +257,4 @@ Em que:
 {% hint style="warning" %}
 Esta é uma explicação simplificada para fins didáticos. Para explorar todas as possibilidades do comando <mark style="color:purple;">`git`</mark><mark style="color:orange;">`diff`</mark>, consulte a [documentação oficial](https://git-scm.com/docs/git-diff/pt\_BR).
 {% endhint %}
+

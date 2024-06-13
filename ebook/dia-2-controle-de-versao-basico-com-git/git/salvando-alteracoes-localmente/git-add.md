@@ -8,7 +8,7 @@ description: >-
 
 O comando <mark style="color:purple;">git</mark> <mark style="color:orange;">add</mark> é usado para preparar mudanças feitas nos arquivos do seu projeto para serem incluídas no próximo commit.
 
-#### **Como Funciona**
+## **Como Funciona**
 
 1.  **Modificar arquivos**
 
@@ -18,13 +18,13 @@ O comando <mark style="color:purple;">git</mark> <mark style="color:orange;">add
    \
    Exemplo:  Se você editou um arquivo chamado `index.html`, você usaria <mark style="color:purple;">git</mark> <mark style="color:orange;">add</mark> <mark style="color:green;">index.html</mark> para preparar essas alterações.
 
-#### **Estrutura**
+## **Estrutura**
 
 O formato base do comando <mark style="color:purple;">git</mark> <mark style="color:orange;">add</mark> é:
 
 > <mark style="color:purple;">git</mark> <mark style="color:orange;">add</mark> <mark style="color:green;">arquivo</mark>
 
-#### **Exemplos de uso**
+## **Exemplos de uso**
 
 * Adicionar um arquivo específico:
   * <mark style="color:purple;">git</mark> <mark style="color:orange;">add</mark> <mark style="color:green;">index.html</mark>
