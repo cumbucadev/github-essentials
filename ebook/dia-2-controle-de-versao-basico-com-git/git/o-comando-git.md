@@ -16,7 +16,7 @@ layout:
 
 Caso já tenha seguido as instruções da seção [instalando-o-git](instalando-o-git/ "mention"), não é necessário instalar e nem configurar mais nada para ter acesso à Git CLI. Apenas abra o terminal e todos os comandos git já estão disponíveis para você.
 
-> Imagem: captura de tela rodando o comando "git"
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 ## git
 
