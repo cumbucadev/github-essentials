@@ -35,8 +35,6 @@ Essa pasta é onde o Git armazenará todos os dados sobre as versões dos arquiv
 
 > imagem: pasta .git apontando para várias coisas que ela contém
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-
 Se você excluir essa pasta, o Git perderá a capacidade de acessar e gerenciar todas as informações essenciais do seu repositório. Portanto, é crucial que essa pasta sempre esteja presente para garantir o funcionamento adequado do Git.
 
 ### Estrutura
