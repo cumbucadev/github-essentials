@@ -1,4 +1,10 @@
-# Glossário
+---
+description: >-
+  Aqui você encontra o glossário completo, do dia 1 ao 9, com todos os termos
+  importantes para o seu conhecimento!
+---
+
+# Glossário - GitHub Essentials Completo
 
 | Termo                                               | Significado |
 | --------------------------------------------------- | ----------- |
@@ -58,4 +64,3 @@
 
 
 
-\*Parei em Clientes Git (Git Clients). Começar do próximo
