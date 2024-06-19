@@ -20,15 +20,15 @@ Quando você trabalha com Git, a função "salvar" funciona de uma maneira um po
 
 Normalmente, quando salvamos um documento em um editor de texto, estamos apenas atualizando o arquivo com as mudanças feitas. Esse processo é simples e direto: ou você está criando um arquivo novo (geralmente disponível no menu "Salvar Como") ou substituindo o arquivo existente com novas alterações (geralmente disponível no menu "Salvar").
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 No Git, o termo "salvar", em geral, é chamado de "commit". Fazer um commit é como salvar um conjunto de mudanças em seus arquivos e pastas. Não estamos apenas substituindo um arquivo, mas sim registrando **todas** as alterações feitas em vários arquivos de uma vez. É como tirar uma "foto" do estado atual de todo o projeto.
 
 Então, sempre que você ouvir "commit" no Git, pense nisso como um "salvar" mais poderoso e abrangente, que acompanha um grupo de arquivos e suas alterações, em vez de apenas um único arquivo.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p><a href="https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F">https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p><a href="https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F">https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F</a></p></figcaption></figure>
 
 ## Rastrear um arquivo
 
@@ -61,4 +61,4 @@ Resumindo:
 * **Preparado (Staged)**: Mudanças estão na área de preparação e prontas para serem confirmadas.
 * **Confirmado / Salvo (Committed)**: Mudanças foram salvas no repositório do Git.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>inspiração <a href="https://git-scm.com/book/en/v2/images/areas.png">https://git-scm.com/book/en/v2/images/areas.png</a><br><a href="https://nulab.com/static/d13cdc1344230f603d17b31a5cbd1dae/5a190/02.png">https://nulab.com/static/d13cdc1344230f603d17b31a5cbd1dae/5a190/02.png</a><br>* colocar uma área para demonstrar onde tá o git</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>inspiração <a href="https://git-scm.com/book/en/v2/images/areas.png">https://git-scm.com/book/en/v2/images/areas.png</a><br><a href="https://nulab.com/static/d13cdc1344230f603d17b31a5cbd1dae/5a190/02.png">https://nulab.com/static/d13cdc1344230f603d17b31a5cbd1dae/5a190/02.png</a><br>* colocar uma área para demonstrar onde tá o git</p></figcaption></figure>
