@@ -46,7 +46,9 @@ Em que:
 * <mark style="color:green;">**valor**</mark>: se refere ao valor que você deseja atribuir à chave.\
   Exemplos: "Seu Nome", "seu.email@exemplo.com", "nome-do-editor".
 
-### Exemplos de configurações
+### Exemplos de Uso
+
+#### Exemplos de Configurações
 
 Essas são algumas das propriedades que podem ser configuradas:
 
@@ -74,6 +76,47 @@ Essas são algumas das propriedades que podem ser configuradas:
    Define o nome padrão do branch inicial quando você cria um novo repositório.\
    Exemplo definindo o nome padrão do branch inicial como 'dev' para um projeto específico:\
    <mark style="color:purple;">git</mark> <mark style="color:orange;">config</mark> <mark style="color:blue;">--local</mark> <mark style="color:green;">init.defaultBranch main</mark>
+
+#### Exemplo Configurando Dois Emails
+
+Configurar diferentes e-mails no Git pode ser super útil, especialmente quando você tem uma conta pessoal e outra da empresa. Vamos ver como essa configuração global e local pode fazer a diferença no seu dia a dia!
+
+Imagine que você trabalha em vários projetos, tanto pessoais quanto profissionais. Usar a configuração global do Git permite que você configure um e-mail padrão que será usado em todos os repositórios. Isso é ótimo para simplificar as coisas, mas e se você quiser separar suas identidades? É aqui que a configuração local entra em cena, e é super fácil de fazer!
+
+Vamos começar com a configuração global. Digamos que você queira usar seu e-mail pessoal como padrão. Basta abrir o terminal e digitar:
+
+```sh
+git config --global user.email "seu-email@pessoal.com"
+```
+
+Agora, todos os seus commits em qualquer repositório vão usar este e-mail. Mas o que acontece quando você está trabalhando em um projeto da empresa e precisa usar seu e-mail corporativo? Sem problemas! Você pode configurar um e-mail específico apenas para esse projeto.
+
+Aqui está como fazer isso. Vá para o diretório do seu projeto da empresa:
+
+```sh
+cd ~/workspace/projeto-da-empresa
+git config user.email "seu-email@empresa.com"
+```
+
+Pronto! Agora, todos os commits feitos nesse repositório usarão seu e-mail corporativo.&#x20;
+
+Por exemplo este commit será associado ao e-mail "seu-email@empresa.com":
+
+```sh
+cd ~/workspace/projeto-da-empresa
+git commit -m "Implementação da nova funcionalidade"
+```
+
+E este ao e-mail "seu-email@pessoal.com":
+
+```sh
+cd ~/workspace/projeto-pessoal
+git commit -m "Adicionado novo recurso ao blog pessoal"
+```
+
+Assim, você mantém suas identidades digitais separadas e claras, tanto no ambiente pessoal quanto no profissional. Configurar esses e-mails é fácil e faz toda a diferença na organização do seu trabalho.
+
+
 
 {% hint style="warning" %}
 Esta é uma explicação simplificada para fins didáticos. Para explorar todas as possibilidades do comando <mark style="color:purple;">`git`</mark><mark style="color:orange;">`config`</mark>, consulte a [documentação oficial](https://git-scm.com/docs/git-config).
