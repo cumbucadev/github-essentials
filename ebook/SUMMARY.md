@@ -5,7 +5,7 @@
 * [Introdução](README.md)
 * [Sobre o GitHub](dia-1-introducao/sobre-o-github.md)
 * [Cumbuca Dev](dia-1-introducao/cumbuca-dev.md)
-* [Open Source](dia-1-introducao/open-source.md)
+* [O maravilhoso mundo do Open Source](dia-1-introducao/o-maravilhoso-mundo-do-open-source.md)
 * [Mapa do Curso](dia-1-introducao/mapa-do-curso.md)
 * [🔍 Glossário - Dia 1](dia-1-introducao/glossario-dia-1.md)
 
