@@ -46,7 +46,7 @@
 ## Dia 3: Prazer, GitHub
 
 * [Qual a diferença entre Git e GitHub?](dia-3-prazer-github/qual-a-diferenca-entre-git-e-github.md)
-* [O que podemos encontrar na plataforma?](dia-3-prazer-github/o-que-podemos-encontrar-na-plataforma.md)
+* [Grandes Projetos Abertos no GitHub](dia-3-prazer-github/grandes-projetos-abertos-no-github.md)
 * [GitHub Features: ferramentas para desenvolvimento e manutenção de código](dia-3-prazer-github/github-features-ferramentas-para-desenvolvimento-e-manutencao-de-codigo.md)
 * [Links Úteis - Dia 3](dia-3-prazer-github/links-uteis-dia-3.md)
 * [🔍 Glossário - Dia 3](dia-3-prazer-github/glossario-dia-3.md)
