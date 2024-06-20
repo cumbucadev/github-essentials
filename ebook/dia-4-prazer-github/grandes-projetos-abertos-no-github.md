@@ -42,6 +42,16 @@ Projetos de inteligência artificial de código aberto, incluindo modelos de lin
 
 {% embed url="https://github.com/openai" %}
 
+## [**Python**](https://www.python.org/)
+
+A linguagem de programação Python é usada em uma ampla gama de aplicações, desde desenvolvimento web até ciência de dados e aprendizado de máquina. Explore o código e participe do desenvolvimento de uma das linguagens mais populares do mundo.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+#### Explorar Código
+
+{% embed url="https://github.com/python/cpython" %}
+
 ## [**LibreOffice**](https://www.libreoffice.org/)
 
 O popular pacote de escritório open source, que inclui editores de texto, planilhas e apresentações. Contribua para o desenvolvimento de uma alternativa gratuita ao Microsoft Office.

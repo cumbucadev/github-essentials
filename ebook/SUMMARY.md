@@ -52,7 +52,7 @@
 
 * [Qual a diferença entre Git e GitHub?](dia-4-prazer-github/qual-a-diferenca-entre-git-e-github.md)
 * [Grandes Projetos Abertos no GitHub](dia-4-prazer-github/grandes-projetos-abertos-no-github.md)
-* [GitHub Features: ferramentas para desenvolvimento e manutenção de código](dia-4-prazer-github/github-features-ferramentas-para-desenvolvimento-e-manutencao-de-codigo.md)
+* [GitHub Features](dia-4-prazer-github/github-features.md)
 * [Links Úteis - Dia 4](dia-4-prazer-github/links-uteis-dia-4.md)
 * [🔍 Glossário - Dia 4](dia-4-prazer-github/glossario-dia-4.md)
 
