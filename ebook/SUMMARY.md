@@ -63,56 +63,56 @@
 * [Criação de uma conta pessoal no GitHub](dia-5-contas-e-planos/criacao-de-uma-conta-pessoal-no-github.md)
 * [Rolê pela conta: settings, autenticação de 2F, barra lateral](dia-5-contas-e-planos/role-pela-conta-settings-autenticacao-de-2f-barra-lateral.md)
 * [Rolê pela Home e notificações](dia-5-contas-e-planos/role-pela-home-e-notificacoes.md)
-* [Links Úteis - Dia 4](dia-5-contas-e-planos/links-uteis-dia-4.md)
-* [🔍 Glossário - Dia 4](dia-5-contas-e-planos/glossario-dia-4.md)
+* [Links Úteis - Dia 5](dia-5-contas-e-planos/links-uteis-dia-5.md)
+* [🔍 Glossário - Dia 5](dia-5-contas-e-planos/glossario-dia-5.md)
 
-## DIA 5: Tudo sobre repositórios
+## DIA 6: Tudo sobre repositórios
 
-* [O que são, porque existem?](dia-5-tudo-sobre-repositorios/o-que-sao-porque-existem.md)
-* [Criar um primeiro repositório](dia-5-tudo-sobre-repositorios/criar-um-primeiro-repositorio.md)
-* [Tópicos, labels, issues, geral](dia-5-tudo-sobre-repositorios/topicos-labels-issues-geral.md)
-* [Overview repositório antigo](dia-5-tudo-sobre-repositorios/overview-repositorio-antigo.md)
-* [Overview aba CODE](dia-5-tudo-sobre-repositorios/overview-aba-code.md)
-* [Overview aba settings](dia-5-tudo-sobre-repositorios/overview-aba-settings.md)
-* [Links Úteis - Dia 5](dia-5-tudo-sobre-repositorios/links-uteis-dia-5.md)
-* [🔍 Glossário - Dia 5](dia-5-tudo-sobre-repositorios/glossario-dia-5.md)
+* [O que são, porque existem?](dia-6-tudo-sobre-repositorios/o-que-sao-porque-existem.md)
+* [Criar um primeiro repositório](dia-6-tudo-sobre-repositorios/criar-um-primeiro-repositorio.md)
+* [Tópicos, labels, issues, geral](dia-6-tudo-sobre-repositorios/topicos-labels-issues-geral.md)
+* [Overview repositório antigo](dia-6-tudo-sobre-repositorios/overview-repositorio-antigo.md)
+* [Overview aba CODE](dia-6-tudo-sobre-repositorios/overview-aba-code.md)
+* [Overview aba settings](dia-6-tudo-sobre-repositorios/overview-aba-settings.md)
+* [Links Úteis - Dia 6](dia-6-tudo-sobre-repositorios/links-uteis-dia-6.md)
+* [🔍 Glossário - Dia 6](dia-6-tudo-sobre-repositorios/glossario-dia-6.md)
 
-## DIA 6: Markdown
+## DIA 7: Markdown
 
-* [Explicar sobre utilizando a README do profile criado](dia-6-markdown/explicar-sobre-utilizando-a-readme-do-profile-criado.md)
-* [O que é Markdown?](dia-6-markdown/o-que-e-markdown.md)
-* [Documentação oficial](dia-6-markdown/documentacao-oficial.md)
-* [Links Úteis - Dia 6](dia-6-markdown/links-uteis-dia-6.md)
-* [🔍 Glossário - Dia 6](dia-6-markdown/glossario-dia-6.md)
+* [Explicar sobre utilizando a README do profile criado](dia-7-markdown/explicar-sobre-utilizando-a-readme-do-profile-criado.md)
+* [O que é Markdown?](dia-7-markdown/o-que-e-markdown.md)
+* [Documentação oficial](dia-7-markdown/documentacao-oficial.md)
+* [Links Úteis - Dia 7](dia-7-markdown/links-uteis-dia-7.md)
+* [🔍 Glossário - Dia 7](dia-7-markdown/glossario-dia-7.md)
 
-## DIA 7: Clonando um repositório
+## DIA 8: Clonando um repositório
 
-* [Git clone](dia-7-clonando-um-repositorio/git-clone.md)
-* [Adicionando a chave SSH](dia-7-clonando-um-repositorio/adicionando-a-chave-ssh.md)
-* [Qual a utilidade…](dia-7-clonando-um-repositorio/qual-a-utilidade....md)
-* [Espalhando a palavra do Open Source - como participar de outros projetos usando o git clone 🤯](dia-7-clonando-um-repositorio/espalhando-a-palavra-do-open-source-como-participar-de-outros-projetos-usando-o-git-clone.md)
-* [Links Úteis - Dia 7](dia-7-clonando-um-repositorio/links-uteis-dia-7.md)
-* [🔍 Glossário - Dia 7](dia-7-clonando-um-repositorio/glossario-dia-7.md)
+* [Git clone](dia-8-clonando-um-repositorio/git-clone.md)
+* [Adicionando a chave SSH](dia-8-clonando-um-repositorio/adicionando-a-chave-ssh.md)
+* [Qual a utilidade…](dia-8-clonando-um-repositorio/qual-a-utilidade....md)
+* [Espalhando a palavra do Open Source - como participar de outros projetos usando o git clone 🤯](dia-8-clonando-um-repositorio/espalhando-a-palavra-do-open-source-como-participar-de-outros-projetos-usando-o-git-clone.md)
+* [Links Úteis - Dia 8](dia-8-clonando-um-repositorio/links-uteis-dia-8.md)
+* [🔍 Glossário - Dia 8](dia-8-clonando-um-repositorio/glossario-dia-8.md)
 
-## DIA 8: Minha primeira issue
+## DIA 9: Minha primeira issue
 
-* [Demonstrar como funciona e a importância](dia-8-minha-primeira-issue/demonstrar-como-funciona-e-a-importancia.md)
-* [Explicar sobre as labels](dia-8-minha-primeira-issue/explicar-sobre-as-labels.md)
-* [Mostrar como funcionam as issues em projetos BRs existentes](dia-8-minha-primeira-issue/mostrar-como-funcionam-as-issues-em-projetos-brs-existentes.md)
-* [Links Úteis - Dia 8](dia-8-minha-primeira-issue/links-uteis-dia-8.md)
-* [🔍 Glossário - Dia 8](dia-8-minha-primeira-issue/glossario-dia-8.md)
+* [Demonstrar como funciona e a importância](dia-9-minha-primeira-issue/demonstrar-como-funciona-e-a-importancia.md)
+* [Explicar sobre as labels](dia-9-minha-primeira-issue/explicar-sobre-as-labels.md)
+* [Mostrar como funcionam as issues em projetos BRs existentes](dia-9-minha-primeira-issue/mostrar-como-funcionam-as-issues-em-projetos-brs-existentes.md)
+* [Links Úteis - Dia 9](dia-9-minha-primeira-issue/links-uteis-dia-9.md)
+* [🔍 Glossário - Dia 9](dia-9-minha-primeira-issue/glossario-dia-9.md)
 
-## DIA 9: Meu primeiro PR
+## DIA 10: Meu primeiro PR
 
-* [Nomenclatura da Branch](dia-9-meu-primeiro-pr/nomenclatura-da-branch.md)
-* [Como abrir um Pull Request, review, merge](dia-9-meu-primeiro-pr/como-abrir-um-pull-request-review-merge.md)
-* [Assign](dia-9-meu-primeiro-pr/assign.md)
-* [Links Úteis - Dia 9](dia-9-meu-primeiro-pr/links-uteis-dia-9.md)
-* [🔍 Glossário - Dia 9](dia-9-meu-primeiro-pr/glossario-dia-9.md)
+* [Nomenclatura da Branch](dia-10-meu-primeiro-pr/nomenclatura-da-branch.md)
+* [Como abrir um Pull Request, review, merge](dia-10-meu-primeiro-pr/como-abrir-um-pull-request-review-merge.md)
+* [Assign](dia-10-meu-primeiro-pr/assign.md)
+* [Links Úteis - Dia 10](dia-10-meu-primeiro-pr/links-uteis-dia-10.md)
+* [🔍 Glossário - Dia 10](dia-10-meu-primeiro-pr/glossario-dia-10.md)
 
-## DIA 10: Hora do Desafio
+## DIA 11: Hora do Desafio
 
-* [Desafio GitHub](dia-10-hora-do-desafio/desafio-github.md)
+* [Desafio GitHub](dia-11-hora-do-desafio/desafio-github.md)
 
 ***
 
