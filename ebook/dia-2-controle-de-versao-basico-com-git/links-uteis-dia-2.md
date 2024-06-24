@@ -18,10 +18,6 @@ description: >-
 
 {% embed url="https://git-scm.com/" %}
 
-{% embed url="https://www.atlassian.com/br/git/tutorials" %}
-
-{% embed url="https://kenzie.com.br/blog/o-que-e-git/" %}
-
 {% embed url="https://en.wikipedia.org/wiki/Git" %}
 
 {% embed url="https://about.gitlab.com/topics/version-control/" %}
@@ -31,12 +27,6 @@ description: >-
 {% embed url="https://about.gitlab.com/topics/version-control/benefits-distributed-version-control-system/" %}
 
 {% embed url="https://git-scm.com/book/en/v2" %}
-
-{% embed url="https://github.com/githubtraining" %}
-
-{% embed url="https://github.com/github/training-kit" %}
-
-{% embed url="https://githubtraining.github.io/training-manual/#/" %}
 
 {% embed url="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches" %}
 
