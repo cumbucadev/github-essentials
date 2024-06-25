@@ -7,80 +7,8 @@ description: >-
 
 # 🔍 Glossário - Dia 1
 
-| **Termo** | **Significado** |
-| --------- | --------------- |
+<table data-full-width="true"><thead><tr><th width="257">Termo</th><th>Significado</th></tr></thead><tbody><tr><td>Autenticação de 2F</td><td>Autenticação de dois fatores, um método de segurança adicional.</td></tr><tr><td>Colaboração</td><td>Trabalho conjunto em projetos de software, permitindo múltiplos contribuidores.</td></tr><tr><td>Comunidade</td><td>Grupo de usuários que compartilham interesses comuns, especialmente em tecnologia.</td></tr><tr><td>Desenvolvedores</td><td>Profissionais que escrevem e mantêm código-fonte para software.</td></tr><tr><td>Desenvolvimento de software</td><td>Processo de criação, design, implantação e suporte de software.</td></tr><tr><td>Diretório</td><td>Estrutura utilizada para organizar arquivos em um computador ou um arquivo que contém referências a outros arquivos. Em muitos computadores, os diretórios são conhecidos como <strong>pastas</strong> ou gavetas, de modo análogo a uma mesa de trabalho ou ao tradicional arquivo de escritório.</td></tr><tr><td>Documentação oficial</td><td>Referência técnica oficial sobre como usar uma ferramenta ou linguagem.</td></tr><tr><td>Issue</td><td>Relato de bug, solicitação de recurso ou outras tarefas a serem resolvidas em um projeto.</td></tr><tr><td>Labels</td><td>Marcadores, tags utilizadas para marcar certos pontos do projeto.</td></tr><tr><td>Linguagem de programação</td><td>Código usado para criar programas de computador.</td></tr><tr><td>Linux</td><td>Sistema operacional de código aberto amplamente utilizado em servidores e desktops.</td></tr><tr><td>Networking</td><td>Estabelecimento de uma rede de contatos profissionais para troca de informações e suporte.</td></tr><tr><td>Plataforma</td><td>Ambientes virtuais que facilitam interações, transações e compartilhamento de informações entre indivíduos, instituições e empresas.</td></tr><tr><td>Portfólio</td><td>Conjunto de projetos e trabalhos que demonstram habilidades profissionais.</td></tr><tr><td>Profile</td><td>Perfil de usuário.</td></tr><tr><td>Python</td><td>Linguagem de programação de alto nível conhecida por sua simplicidade e legibilidade.</td></tr><tr><td>Repositório</td><td>Local onde o código-fonte é armazenado e gerenciado.</td></tr><tr><td>Review</td><td>Revisão (de código).</td></tr><tr><td>Settings</td><td>Configurações.</td></tr><tr><td>Soft skills</td><td>Habilidades interpessoais e de comunicação importantes no ambiente de trabalho.</td></tr><tr><td>Software livre</td><td>Software que pode ser usado, estudado, modificado e distribuído livremente.</td></tr><tr><td>Workflow (fluxo de trabalho)</td><td>Sequência de processos e tarefas necessárias para completar um projeto.</td></tr></tbody></table>
 
-| **Autenticação de 2F** | Autenticação de dois fatores, um método de segurança adicional. |
-| ---------------------- | --------------------------------------------------------------- |
-
-| **Colaboração** | Trabalho conjunto em projetos de software, permitindo múltiplos contribuidores. |
-| --------------- | ------------------------------------------------------------------------------- |
-
-| **Comunidade** | Grupo de usuários que compartilham interesses comuns, especialmente em tecnologia. |
-| -------------- | ---------------------------------------------------------------------------------- |
-
-| **Desenvolvedores** | Profissionais que escrevem e mantêm código-fonte para software. |
-| ------------------- | --------------------------------------------------------------- |
-
-| **Desenvolvimento de software** | Processo de criação, design, implantação e suporte de software. |
-| ------------------------------- | --------------------------------------------------------------- |
-
-| **Diretório** | Estrutura utilizada para organizar arquivos em um computador ou um arquivo que contém referências a outros arquivos. Em muitos computadores, os diretórios são conhecidos como **pastas** ou gavetas, de modo análogo a uma mesa de trabalho ou ao tradicional arquivo de escritório. |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-| **Documentação oficial** | Referência técnica oficial sobre como usar uma ferramenta ou linguagem. |
-| ------------------------ | ----------------------------------------------------------------------- |
-
-| **Extensões** | Plugin ou módulo de extensão, programa usado para adicionar funções a outros programas maiores, provendo alguma funcionalidade especial ou específica. |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
-| **Issue** | Relato de bug, solicitação de recurso ou outras tarefas a serem resolvidas em um projeto. |
-| --------- | ----------------------------------------------------------------------------------------- |
-
-| **Labels** | Marcadores, tags utilizadas para marcar certos pontos do projeto. |
-| ---------- | ----------------------------------------------------------------- |
-
-| **Linguagem de programação** | Código usado para criar programas de computador. |
-| ---------------------------- | ------------------------------------------------ |
-
-| **Linux** | Sistema operacional de código aberto amplamente utilizado em servidores e desktops. |
-| --------- | ----------------------------------------------------------------------------------- |
-
-| **Mozilla** | Organização que desenvolve software livre e de código aberto, incluindo o navegador Firefox. |
-| ----------- | -------------------------------------------------------------------------------------------- |
-
-| **Networking** | Estabelecimento de uma rede de contatos profissionais para troca de informações e suporte. |
-| -------------- | ------------------------------------------------------------------------------------------ |
-
-| **Open source** | Software com código-fonte aberto, disponível para ser usado, modificado e distribuído por qualquer pessoa. |
-| --------------- | ---------------------------------------------------------------------------------------------------------- |
-
-| **Plataforma** | Ambientes virtuais que facilitam interações, transações e compartilhamento de informações entre indivíduos, instituições e empresas. |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-
-| **Portfólio** | Conjunto de projetos e trabalhos que demonstram habilidades profissionais. |
-| ------------- | -------------------------------------------------------------------------- |
-
-| **Profile** | Perfil de usuário. |
-| ----------- | ------------------ |
-
-| **Python** | Linguagem de programação de alto nível conhecida por sua simplicidade e legibilidade. |
-| ---------- | ------------------------------------------------------------------------------------- |
-
-| **Repositório** | Local onde o código-fonte é armazenado e gerenciado. |
-| --------------- | ---------------------------------------------------- |
-
-| **Review** | Revisão (de código). |
-| ---------- | -------------------- |
-
-| **Settings** | Configurações. |
-| ------------ | -------------- |
-
-| **Soft skills** | Habilidades interpessoais e de comunicação importantes no ambiente de trabalho. |
-| --------------- | ------------------------------------------------------------------------------- |
-
-| **Software livre** | Software que pode ser usado, estudado, modificado e distribuído livremente. |
-| ------------------ | --------------------------------------------------------------------------- |
-
-| **Workflow (fluxo de trabalho)** | Sequência de processos e tarefas necessárias para completar um projeto. |
-| -------------------------------- | ----------------------------------------------------------------------- |
+{% hint style="danger" %}
+Atenção: os termos selecionados são explicados de acordo com o contexto específico de _**cada capítulo**_**.**
+{% endhint %}
