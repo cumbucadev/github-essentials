@@ -43,7 +43,6 @@
   * [git push](dia-3-avancando-no-git/interagindo-com-o-repositorio-central/git-push.md)
   * [git pull](dia-3-avancando-no-git/interagindo-com-o-repositorio-central/git-pull.md)
   * [Unindo os Pontos](dia-3-avancando-no-git/interagindo-com-o-repositorio-central/unindo-os-pontos.md)
-* [Extensões](dia-3-avancando-no-git/extensoes.md)
 * [💡 Indicação: Jogo Oh My Git](dia-3-avancando-no-git/indicacao-jogo-oh-my-git.md)
 * [Links Úteis - Dia 3](dia-3-avancando-no-git/links-uteis-dia-3.md)
 * [🔍 Glossário - Dia 3](dia-3-avancando-no-git/glossario-dia-3.md)
@@ -112,6 +111,7 @@
 
 ## DIA 11: Hora do Desafio
 
+* [Extensões Git](dia-11-hora-do-desafio/extensoes-git.md)
 * [Desafio GitHub](dia-11-hora-do-desafio/desafio-github.md)
 
 ***
