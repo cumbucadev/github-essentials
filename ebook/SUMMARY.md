@@ -57,8 +57,14 @@
 
 ## DIA 5: Contas e Planos
 
-* [GitHub Free - contas pessoais](dia-5-contas-e-planos/github-free-contas-pessoais.md)
-* [GitHub Free - para organizações](dia-5-contas-e-planos/github-free-para-organizacoes.md)
+* [Contas no GitHub](dia-5-contas-e-planos/contas-no-github/README.md)
+  * [Conta Pessoal](dia-5-contas-e-planos/contas-no-github/conta-pessoal.md)
+  * [Conta de Organização](dia-5-contas-e-planos/contas-no-github/conta-de-organizacao.md)
+  * [Conta Corporativa](dia-5-contas-e-planos/contas-no-github/conta-corporativa.md)
+  * [Unindo os Pontos](dia-5-contas-e-planos/contas-no-github/unindo-os-pontos.md)
+* [Planos](dia-5-contas-e-planos/planos/README.md)
+  * [GitHub Free para Contas Pessoais](dia-5-contas-e-planos/planos/github-free-para-contas-pessoais.md)
+  * [GitHub Free para Organizações](dia-5-contas-e-planos/planos/github-free-para-organizacoes.md)
 * [Criação de uma conta pessoal no GitHub](dia-5-contas-e-planos/criacao-de-uma-conta-pessoal-no-github.md)
 * [Rolê pela conta: settings, autenticação de 2F, barra lateral](dia-5-contas-e-planos/role-pela-conta-settings-autenticacao-de-2f-barra-lateral.md)
 * [Rolê pela Home e notificações](dia-5-contas-e-planos/role-pela-home-e-notificacoes.md)
