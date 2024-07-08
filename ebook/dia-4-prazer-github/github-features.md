@@ -24,7 +24,7 @@ Leia mais em:
 
 ## [**GitHub Actions**](https://github.com/features/actions)
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="150"><figcaption></figcaption></figure>
 
 Imagine que você tem uma linha de montagem automatizada para seu trabalho. Em vez de fazer tudo manualmente, você tem um sistema que realiza tarefas repetitivas e complexas automaticamente, garantindo que tudo funcione perfeitamente. É exatamente isso que o GitHub Actions faz, mas para o desenvolvimento de software!
 
@@ -38,7 +38,7 @@ Leia mais em:
 
 ## [**GitHub Pages**](https://pages.github.com/)
 
-<figure><img src="../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 O GitHub Pages é usado para criar, hospedar e compartilhar sites diretamente de um repositório no GitHub. É ótimo para criar sites pessoais, blogs, documentação de projetos e muito mais. Com o GitHub Pages, você pode facilmente configurar e atualizar seu site através do GitHub, sem precisar lidar com servidores complicados ou custos adicionais de hospedagem.
 
@@ -52,7 +52,7 @@ Leia mais em:
 
 ## [**GitHub Discussions**](https://github.com/features/discussions)
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 O GitHub Discussions é uma ferramenta que permite criar e gerenciar discussões diretamente em repositórios no GitHub. É ideal para interagir com a comunidade, compartilhar ideias, perguntas e receber feedback sobre projetos. É como ter um espaço de fórum integrado ao GitHub, onde você pode trocar informações e colaborar de forma organizada.
 
@@ -66,7 +66,7 @@ Leia mais em:
 
 ## [**GitHub Codespaces**](https://github.com/features/codespaces)
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 GitHub Codespaces é como ter um espaço de trabalho de desenvolvimento pronto para usar diretamente no seu navegador. Você não precisa se preocupar em configurar um ambiente de programação complicado no seu próprio computador.
 
@@ -80,7 +80,7 @@ Leia mais em:
 
 ## [**GitHub Security**](https://github.com/features/security)
 
-<figure><img src="../.gitbook/assets/image (12).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 O GitHub Security é um conjunto de ferramentas e recursos que ajudam a proteger seu código e projetos no GitHub. Ele oferece várias funcionalidades para garantir a segurança do seu código e das colaborações no desenvolvimento de software.
 
@@ -101,7 +101,7 @@ Leia mais em:
 
 ## [**GitHub Packages**](https://github.com/features/packages)
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Às vezes, enquanto trabalha em um projeto no GitHub, você cria pequenas peças de código que são como blocos de Lego específicos e úteis para resolver problemas. Cada bloco (ou peça de código) pode ter uma função importante, como uma peça especial em um conjunto de Lego que ajuda a construir algo maior e mais complexo.
 

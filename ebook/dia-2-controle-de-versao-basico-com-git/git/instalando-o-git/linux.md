@@ -10,7 +10,7 @@ Você pode instalar o Git no Linux de maneira simples usando o Terminal. Basta u
 
 Procure por um aplicativo de prompt de comando chamado "Terminal".
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Terminal do Linux vai se parecer com este :)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Terminal do Linux vai se parecer com este :)</p></figcaption></figure>
 
 Depois de abrir seu aplicativo de terminal, digite:
 
@@ -20,9 +20,9 @@ git version
 
 A saída irá dizer qual versão do Git está instalada, ou irá alertar que o git é um comando desconhecido. **Se for um comando desconhecido, continue lendo para descobrir como instalar o Git**.
 
-<figure><img src="../../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption><p>Exemplo: Neste computador, a versão do Git é a 2.34.1</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1) (1) (1).png" alt=""><figcaption><p>Exemplo: Neste computador, a versão do Git é a 2.34.1</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p><em>Hoje a última versão do Git liberada é a 2.44.0.</em></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption><p><em>Hoje a última versão do Git liberada é a 2.44.0.</em></p></figcaption></figure>
 
 Como você pode perceber: a minha versão está um pouco desatualizada, mas não há problemas quanto a isso: o interessante é se preocupar sempre no primeiro número da versão, onde entram as maiores mudanças - chamadas de "Majors". Então V 2.34.1 não irá causar um problema tão grande quanto se no meu computador eu estivesse com a V 1.1.0!&#x20;
 
@@ -59,7 +59,7 @@ Codename:       focal
 *   **Arch Linux**: Pode não ter `lsb_release` instalado por padrão. Caso não tenha, siga as intruções do próximo passo (c).\
 
 
-    <figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Exemplo: aqui usamos Ubuntu!</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Exemplo: aqui usamos Ubuntu!</p></figcaption></figure>
 
 ### **c. Alternativa para Arch Linux**&#x20;
 

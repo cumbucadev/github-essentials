@@ -24,7 +24,7 @@ O Git é essencialmente um sistema de controle de versão. No entanto, não ofer
 
 Existem várias clientes que facilitam a comunicação entre o Git e o usuário. Alguns deles fornecem uma interface de linha de comando (CLI), enquanto outros oferecem uma interface gráfica do usuário (GUI):
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Interface de Linha de Comando (Command Line Interface - CLI)**: Neste formato, os usuários interagem com o Git digitando comandos diretamente em um terminal ou prompt de comando. Aqui, os comandos são textuais e exigem que o usuário escreva para executar várias tarefas.
 
