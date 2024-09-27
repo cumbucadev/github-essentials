@@ -15,13 +15,3 @@ Atualmente, existem 3 tipos de contas no GitHub, cada uma adaptada a diferentes 
 * Conta corporativa
 
 Vamos explorar cada uma delas a seguir.
-
-***
-
-{% embed url="https://docs.github.com/pt/get-started/learning-about-github/types-of-github-accounts" %}
-
-{% embed url="https://learn.microsoft.com/pt-br/training/modules/github-introduction-products/2-what-are-github-products" %}
-
-{% embed url="https://learn.microsoft.com/pt-br/collections/o1njfe825p602p?WT.mc_id=studentamb_26035" %}
-
-{% embed url="https://github.com/pricing" %}
