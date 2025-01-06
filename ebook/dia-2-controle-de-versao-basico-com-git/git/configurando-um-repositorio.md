@@ -40,7 +40,7 @@ O formato base do comando <mark style="color:purple;">git</mark> <mark style="co
 
 Em que:
 
-* <mark style="color:blue;">**\[opções]**</mark>** (opcional):** define o escopo do comando ou fornecem outros modificadores. O escopo pode ser, por exemplo,`--global` para aplicar a configuração a nível global ou `--local` para aplicar a configuração apenas ao repositório atual.
+* <mark style="color:blue;">**\[opções]**</mark>**&#x20;(opcional):** define o escopo do comando ou fornecem outros modificadores. O escopo pode ser, por exemplo,`--global` para aplicar a configuração a nível global ou `--local` para aplicar a configuração apenas ao repositório atual.
 * <mark style="color:green;">**chave**</mark>: se refere ao nome da configuração que você deseja definir ou modificar.\
   Exemplos: user.name, user.email, core.editor.
 * <mark style="color:green;">**valor**</mark>: se refere ao valor que você deseja atribuir à chave.\

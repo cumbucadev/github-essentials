@@ -14,8 +14,8 @@ Esta é a estrutura base do comando <mark style="color:purple;">git</mark> <mark
 
 Em que:&#x20;
 
-* <mark style="color:purple;">**git**</mark>** **<mark style="color:orange;">**diff**</mark>: Este é o comando principal que invoca a ferramenta de diferenciação do Git.
-* <mark style="color:green;">**\[arquivo]**</mark>** (opcional)**: Este é um argumento opcional que especifica o arquivo específico para o qual você deseja ver as diferenças. Se nenhum arquivo for especificado, o <mark style="color:purple;">git</mark> <mark style="color:orange;">diff</mark> mostrará as diferenças de todos os arquivos modificados em relação ao último commit.
+* <mark style="color:purple;">**git**</mark>**&#x20;**<mark style="color:orange;">**diff**</mark>: Este é o comando principal que invoca a ferramenta de diferenciação do Git.
+* <mark style="color:green;">**\[arquivo]**</mark>**&#x20;(opcional)**: Este é um argumento opcional que especifica o arquivo específico para o qual você deseja ver as diferenças. Se nenhum arquivo for especificado, o <mark style="color:purple;">git</mark> <mark style="color:orange;">diff</mark> mostrará as diferenças de todos os arquivos modificados em relação ao último commit.
 
 ## Exemplo de Uso
 
@@ -255,6 +255,6 @@ Em que:
     Essas linhas mostram as alterações específicas que ocorreram em cada versão do arquivo. Linhas com `+` indicam adições ou modificações no arquivo modificado (`b/style.css`). Neste caso, houve uma adição de estilo para alterar a cor de fundo do corpo da página para `#ffffff`.
 
 {% hint style="warning" %}
-Esta é uma explicação simplificada para fins didáticos. Para explorar todas as possibilidades do comando <mark style="color:purple;">`git`</mark><mark style="color:orange;">`diff`</mark>, consulte a [documentação oficial](https://git-scm.com/docs/git-diff/pt\_BR).
+Esta é uma explicação simplificada para fins didáticos. Para explorar todas as possibilidades do comando <mark style="color:purple;">`git`</mark><mark style="color:orange;">`diff`</mark>, consulte a [documentação oficial](https://git-scm.com/docs/git-diff/pt_BR).
 {% endhint %}
 

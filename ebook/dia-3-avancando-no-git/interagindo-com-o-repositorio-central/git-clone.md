@@ -32,9 +32,9 @@ O formato base do comando <mark style="color:purple;">git</mark>  <mark style="c
 
 Em que:
 
-* <mark style="color:blue;">**\[opções]**</mark>** (opcional)**: Várias opções que podem ser usadas para personalizar o comando de clonagem.
+* <mark style="color:blue;">**\[opções]**</mark>**&#x20;(opcional)**: Várias opções que podem ser usadas para personalizar o comando de clonagem.
 * <mark style="color:green;">**repositório**</mark>: A URL do repositório que você deseja clonar. Pode ser uma URL de um repositório remoto (como do GitHub) ou o caminho de um repositório local.
-* <mark style="color:green;">**\[diretório]**</mark>** (opcional)**: O nome do diretório onde o repositório clonado será armazenado. Se não for especificado, o Git usará o nome do repositório original.
+* <mark style="color:green;">**\[diretório]**</mark>**&#x20;(opcional)**: O nome do diretório onde o repositório clonado será armazenado. Se não for especificado, o Git usará o nome do repositório original.
 
 ## Exemplo de uso
 
@@ -65,7 +65,7 @@ cd meu-projeto
 
 
 {% hint style="warning" %}
-Esta é uma explicação simplificada para fins didáticos. Para explorar todas as possibilidades do comando <mark style="color:purple;">`git`</mark><mark style="color:orange;">`clone`</mark>, consulte a [documentação oficial](https://git-scm.com/docs/git-clone/pt\_BR).
+Esta é uma explicação simplificada para fins didáticos. Para explorar todas as possibilidades do comando <mark style="color:purple;">`git`</mark><mark style="color:orange;">`clone`</mark>, consulte a [documentação oficial](https://git-scm.com/docs/git-clone/pt_BR).
 {% endhint %}
 
 ## git init vs git clone

@@ -65,8 +65,9 @@
   * [Unindo os Pontos](dia-5-contas-e-planos/contas-no-github/unindo-os-pontos.md)
 * [Planos](dia-5-contas-e-planos/planos.md)
 * [Criação de uma conta pessoal no GitHub](dia-5-contas-e-planos/criacao-de-uma-conta-pessoal-no-github.md)
-* [Rolê pela conta: settings, autenticação de 2F, barra lateral](dia-5-contas-e-planos/role-pela-conta-settings-autenticacao-de-2f-barra-lateral.md)
-* [Rolê pela Home e notificações](dia-5-contas-e-planos/role-pela-home-e-notificacoes.md)
+* [Home: Página Principal](dia-5-contas-e-planos/home-pagina-principal.md)
+* [Notifications: Página de Notificações](dia-5-contas-e-planos/notifications-pagina-de-notificacoes.md)
+* [Settings: Página de Configurações](dia-5-contas-e-planos/settings-pagina-de-configuracoes.md)
 * [Links Úteis - Dia 5](dia-5-contas-e-planos/links-uteis-dia-5.md)
 * [🔍 Glossário - Dia 5](dia-5-contas-e-planos/glossario-dia-5.md)
 
