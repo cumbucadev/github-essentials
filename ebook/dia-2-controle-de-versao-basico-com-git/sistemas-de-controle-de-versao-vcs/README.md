@@ -19,11 +19,7 @@ layout:
 
 Você consegue se lembrar ou imaginar como era pedir para alguém revisar um documento antes do surgimento de plataformas de edição de textos colaborativa, como Google Docs e Microsoft Word online?
 
-<div align="center" data-full-width="true">
-
-<figure><img src="../../.gitbook/assets/tweet-1014533073021620224.png" alt="" width="375"><figcaption><p><a href="https://twitter.com/anttrindade/status/1014533073021620224?s=20">https://twitter.com/anttrindade/status/1014533073021620224</a></p></figcaption></figure>
-
-</div>
+<div align="center" data-full-width="true"><figure><img src="../../.gitbook/assets/tweet-1014533073021620224.png" alt="" width="375"><figcaption><p><a href="https://twitter.com/anttrindade/status/1014533073021620224?s=20">https://twitter.com/anttrindade/status/1014533073021620224</a></p></figcaption></figure></div>
 
 A colaboração em documentos muitas vezes exigia o envio de versões por e-mail ou compartilhamento físico de arquivos em dispositivos de armazenamento, como pen drives. Isso tornava o processo de edição em equipe demorado e propenso a erros de versão.&#x20;
 
@@ -31,7 +27,7 @@ E quando você precisava voltar para uma versão anterior? O processo era bastan
 
 Ou você lembra como era quando se precisava escrever um documento em conjunto com uma ou mais pessoas?
 
-<figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption><p>Como os Maias e Incas trabalhavam antigamente (risos!)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1).png" alt=""><figcaption><p>Como os Maias e Incas trabalhavam antigamente (risos!)</p></figcaption></figure>
 
 Um dos artifícios mais utilizados era cada pessoa escrever de uma cor diferente para facilmente identificar o quê foi incluído por quem e ficar reenviando os arquivos ao longo da escrita. Um pouco rudimentar, não acha?
 

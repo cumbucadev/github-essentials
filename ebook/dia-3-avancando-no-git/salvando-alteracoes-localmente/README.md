@@ -28,7 +28,7 @@ No Git, o termo "salvar", em geral, é chamado de "commit". Fazer um commit é c
 
 Então, sempre que você ouvir "commit" no Git, pense nisso como um "salvar" mais poderoso e abrangente, que acompanha um grupo de arquivos e suas alterações, em vez de apenas um único arquivo.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p><a href="https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F">https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><a href="https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F">https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F</a></p></figcaption></figure>
 
 ## Rastrear um arquivo
 
@@ -61,4 +61,4 @@ Resumindo:
 * **Preparado (Staged)**: Mudanças estão na área de preparação e prontas para serem confirmadas.
 * **Confirmado / Salvo (Committed)**: Mudanças foram salvas no repositório do Git.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>inspiração <a href="https://git-scm.com/book/en/v2/images/areas.png">https://git-scm.com/book/en/v2/images/areas.png</a><br><a href="https://nulab.com/static/d13cdc1344230f603d17b31a5cbd1dae/5a190/02.png">https://nulab.com/static/d13cdc1344230f603d17b31a5cbd1dae/5a190/02.png</a><br>* colocar uma área para demonstrar onde tá o git</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption><p>inspiração <a href="https://git-scm.com/book/en/v2/images/areas.png">https://git-scm.com/book/en/v2/images/areas.png</a><br><a href="https://nulab.com/static/d13cdc1344230f603d17b31a5cbd1dae/5a190/02.png">https://nulab.com/static/d13cdc1344230f603d17b31a5cbd1dae/5a190/02.png</a><br>* colocar uma área para demonstrar onde tá o git</p></figcaption></figure>

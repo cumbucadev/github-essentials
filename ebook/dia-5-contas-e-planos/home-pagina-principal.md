@@ -46,7 +46,7 @@ Oferece atalhos para criar novos repositórios, gists, issues, pull requests e i
 
 <figure><img src="../.gitbook/assets/image (49).png" alt="&#x22;Menu +&#x22; da barra superior do github fechado"><figcaption><p>"Menu +" fechado </p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt="&#x22;Menu +&#x22; da barra superior do github expandido mostrando as opções de criação."><figcaption><p>"Menu +" expandido</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt="&#x22;Menu +&#x22; da barra superior do github expandido mostrando as opções de criação."><figcaption><p>"Menu +" expandido</p></figcaption></figure>
 
 ### **Issues**
 
@@ -62,25 +62,37 @@ Leva você à lista de pull requests abertos ou criados por você.
 
 ### **Notificações (**_**Notifications**_**)**
 
-Exibe notificações de atividades relacionadas aos repositórios que você está envolvido, como issues, pull requests, e comentários.
+Redireciona você para a Página de Notificações. Esta página exibe notificações de atividades relacionadas aos repositórios que você está envolvido, como issues, pull requests, e comentários.
 
 <figure><img src="../.gitbook/assets/image (53).png" alt="Botão de redirecionamento para notificações"><figcaption><p>Botão de redirecionamento para notificações</p></figcaption></figure>
+
+> Iremos falar um pouco mais sobre a página de notificações logo em seguida:
+
+{% content-ref url="notifications-pagina-de-notificacoes.md" %}
+[notifications-pagina-de-notificacoes.md](notifications-pagina-de-notificacoes.md)
+{% endcontent-ref %}
 
 ### **Perfil / Avatar**
 
 Ao clicar na sua foto de perfil, abrirá uma barra contendo opções de navegação para o seu perfil, seus repositórios, definições, e outras configurações de conta.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="Foto de perfil do usuário Cumbuca Dev Aprendiz." width="120"><figcaption><p>Foto de perfil do <br>usuário <br>Cumbuca Dev <br>Aprendiz</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt="Foto de perfil do usuário Cumbuca Dev Aprendiz." width="120"><figcaption><p>Foto de perfil do <br>usuário <br>Cumbuca Dev <br>Aprendiz</p></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="Menu expandido das configurações do perfil"><figcaption><p>Menu expandido das configurações do perfil</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt="Menu expandido das configurações do perfil"><figcaption><p>Menu expandido das configurações do perfil</p></figcaption></figure>
+
+> Iremos falar um pouco mais sobre a página de configurações (Settings) logo mais adiante:
+
+{% content-ref url="settings-pagina-de-configuracoes.md" %}
+[settings-pagina-de-configuracoes.md](settings-pagina-de-configuracoes.md)
+{% endcontent-ref %}
 
 ## **Copilot**
 
 Nesta seção você pode utilizar a caixa de texto para interagir com o [**GitHub Copilot**](https://github.com/features/copilot)**.**
 
-<figure><img src="../.gitbook/assets/image (9).png" alt="Caixa de texto que tem na home do GitHub para interagir com o GitHub Copilot"><figcaption><p>Caixa de texto para interagir com o GitHub Copilot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt="Caixa de texto que tem na home do GitHub para interagir com o GitHub Copilot"><figcaption><p>Caixa de texto para interagir com o GitHub Copilot</p></figcaption></figure>
 
 O **GitHub Copilot** é como um "ajudante virtual" que escreve códigos para você enquanto você programa. Ele usa inteligência artificial para sugerir trechos de código, corrigir erros ou até criar funções inteiras com base no que você está fazendo. Experimente conversar com ele! Escreva o quê você deseja e aperte Enter. Por exemplo:
 
@@ -92,7 +104,7 @@ O **Feed de Atividades** é a área principal e central da tela. Ele mostra atua
 
 Se você for uma pessoa nova na plataforma, verá dicas do GitHub para ajudar em seus primeiros passos:
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="Dicas do GitHub no Feed de Atividades mostrando sugestões para iniciantes"><figcaption><p>Dicas do GitHub no feed de atividades</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt="Dicas do GitHub no Feed de Atividades mostrando sugestões para iniciantes"><figcaption><p>Dicas do GitHub no feed de atividades</p></figcaption></figure>
 
 Caso você já tenha interagido um pouco com a sua conta, essa seção irá incluir:
 
@@ -105,7 +117,7 @@ Caso você já tenha interagido um pouco com a sua conta, essa seção irá incl
 
 Entre outras atividades que o GitHub acha relevante para ajudar a manter você conectado com a comunidade, oferecendo oportunidades variadas para se envolver e contribuir.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="Interações da comunidade e recomendações no feed de atividades"><figcaption><p>Interações da comunidade e recomendações no feed de atividades</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt="Interações da comunidade e recomendações no feed de atividades"><figcaption><p>Interações da comunidade e recomendações no feed de atividades</p></figcaption></figure>
 
 ## **Painel Lateral Esquerdo (**_**Left Sidebar**_**)**
 
@@ -113,23 +125,23 @@ O painel lateral esquerdo da home do GitHub é projetado para oferecer acesso r�
 
 Quando a conta do usuário é nova, o painel apresentará apenas um bloco para criação de novo repositório:
 
-<figure><img src="../.gitbook/assets/image (8).png" alt="Bloco Dizendo: Create your first project  Ready to start building? Create a repository for a new idea or bring over an existing repository to keep contributing to it. Possui um botão para criar e outro para importar repositório"><figcaption><p>Painel esquerdo para novas contas</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt="Bloco Dizendo: Create your first project  Ready to start building? Create a repository for a new idea or bring over an existing repository to keep contributing to it. Possui um botão para criar e outro para importar repositório"><figcaption><p>Painel esquerdo para novas contas</p></figcaption></figure>
 
 No caso de uma conta que já possui interações no GitHub, o painel será mais ou menos assim:
 
-<figure><img src="../.gitbook/assets/image (10).png" alt="Painel Lateral Esquerdo da home do GitHub. Screenshot da conta da camilamaia"><figcaption><p>Painel esquerdo de uma conta com interações na plataforma</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt="Painel Lateral Esquerdo da home do GitHub. Screenshot da conta da camilamaia"><figcaption><p>Painel esquerdo de uma conta com interações na plataforma</p></figcaption></figure>
 
 ### Contexto do painel (_switch dashboard context_)
 
 Ao clicar no nome do seu usuário, aparecerá o "_switch dashboard context_" menu. Este menu permite alternar entre diferentes contextos, como sua conta pessoal ou organizações das quais você faz parte. Isso ajuda a personalizar o painel inicial, exibindo apenas as atividades, notificações e repositórios relacionados ao contexto selecionado, tornando mais fácil focar no que é relevante para cada ambiente.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt="Menu de troca de contexto de conta. Screenshot da conta de camilama. Mostra várias organizações, entre elas cumbucadev"><figcaption><p>Menu de troca de contexto do painel</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt="Menu de troca de contexto de conta. Screenshot da conta de camilama. Mostra várias organizações, entre elas cumbucadev"><figcaption><p>Menu de troca de contexto do painel</p></figcaption></figure>
 
 ### Top Repositórios (_top repositories_)
 
 Mostra uma lista dos repositórios mais relevantes para você, como os que você acessa com frequência, colabora regularmente ou que têm alta atividade recente.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt="Screenshot da conta da camilamaia com os top repositórios na barra lateral"><figcaption><p>Top repositórios do painel lateral esquerdo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt="Screenshot da conta da camilamaia com os top repositórios na barra lateral"><figcaption><p>Top repositórios do painel lateral esquerdo</p></figcaption></figure>
 
 O botão verde "new" leva você diretamente para página de criação de um novo repositório.
 
@@ -137,13 +149,13 @@ O botão verde "new" leva você diretamente para página de criação de um novo
 
 Exibe atualizações e atividades recentes nos repositórios e projetos que você segue ou contribui, como _pull requests_, _issues_, e commits.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt="Screenshot da conta da camilamaia com as atividades recentes na barra lateral"><figcaption><p>Atividades recentes do painel lateral esquerdo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt="Screenshot da conta da camilamaia com as atividades recentes na barra lateral"><figcaption><p>Atividades recentes do painel lateral esquerdo</p></figcaption></figure>
 
 ### Seus Times (_Your Teams_)
 
 Lista as equipes das quais você faz parte dentro das organizações no GitHub, facilitando o acesso às discussões, repositórios e atividades específicas de cada time.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt="Screenshot da conta da camilamaia mostrando a seção &#x22;seus times&#x22;&#x22; na barra lateral"><figcaption><p>Seção "Seus times" do painel lateral esquerdo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt="Screenshot da conta da camilamaia mostrando a seção &#x22;seus times&#x22;&#x22; na barra lateral"><figcaption><p>Seção "Seus times" do painel lateral esquerdo</p></figcaption></figure>
 
 ## **Painel Lateral Direito (**_**Right Sidebar**_**)**
 
