@@ -73,7 +73,7 @@
 
 ## DIA 6: Tudo sobre repositórios
 
-* [O que são, porque existem?](dia-6-tudo-sobre-repositorios/o-que-sao-porque-existem.md)
+* [Repositórios no GitHub](dia-6-tudo-sobre-repositorios/repositorios-no-github.md)
 * [Criar um primeiro repositório](dia-6-tudo-sobre-repositorios/criar-um-primeiro-repositorio.md)
 * [Tópicos, labels, issues, geral](dia-6-tudo-sobre-repositorios/topicos-labels-issues-geral.md)
 * [Overview repositório antigo](dia-6-tudo-sobre-repositorios/overview-repositorio-antigo.md)
