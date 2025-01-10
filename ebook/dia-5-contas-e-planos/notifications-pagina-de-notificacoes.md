@@ -2,7 +2,7 @@
 
 A **página de notificações** do GitHub ([https://github.com/notifications](https://github.com/notifications)) é onde você encontra todas as atualizações sobre atividades relacionadas aos repositórios e pessoas que você segue. Ela centraliza tudo o que acontece nos projetos em que você está envolvido, como novas issues, pull requests e comentários. Essa página ajuda a manter você atualizado sem precisar ficar visitando cada repositório ou discussão individualmente.
 
-<figure><img src="../.gitbook/assets/image.png" alt="Captura de tela da página de notificações de uma conta que não possui notificação."><figcaption><p>Visão da página de notificações de uma conta nova</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="Captura de tela da página de notificações de uma conta que não possui notificação."><figcaption><p>Visão da página de notificações de uma conta nova</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (7).png" alt="Captura de tela da página de notificações de uma conta que possui várias notificações"><figcaption><p>Visão da página de notificações de uma conta que já possui interações na plataforma</p></figcaption></figure>
 

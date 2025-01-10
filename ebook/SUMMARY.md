@@ -74,7 +74,7 @@
 ## DIA 6: Tudo sobre repositórios
 
 * [Repositórios no GitHub](dia-6-tudo-sobre-repositorios/repositorios-no-github.md)
-* [Criar um primeiro repositório](dia-6-tudo-sobre-repositorios/criar-um-primeiro-repositorio.md)
+* [Criando um Repositório no GitHub](dia-6-tudo-sobre-repositorios/criando-um-repositorio-no-github.md)
 * [Tópicos, labels, issues, geral](dia-6-tudo-sobre-repositorios/topicos-labels-issues-geral.md)
 * [Overview repositório antigo](dia-6-tudo-sobre-repositorios/overview-repositorio-antigo.md)
 * [Overview aba CODE](dia-6-tudo-sobre-repositorios/overview-aba-code.md)
