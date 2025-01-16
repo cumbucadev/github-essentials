@@ -2,7 +2,7 @@
 
 A **página de notificações** do GitHub ([https://github.com/notifications](https://github.com/notifications)) é onde você encontra todas as atualizações sobre atividades relacionadas aos repositórios e pessoas que você segue. Ela centraliza tudo o que acontece nos projetos em que você está envolvido, como novas issues, pull requests e comentários. Essa página ajuda a manter você atualizado sem precisar ficar visitando cada repositório ou discussão individualmente.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="Captura de tela da página de notificações de uma conta que não possui notificação."><figcaption><p>Visão da página de notificações de uma conta nova</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3).png" alt="Captura de tela da página de notificações de uma conta que não possui notificação."><figcaption><p>Visão da página de notificações de uma conta nova</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (7).png" alt="Captura de tela da página de notificações de uma conta que possui várias notificações"><figcaption><p>Visão da página de notificações de uma conta que já possui interações na plataforma</p></figcaption></figure>
 
@@ -14,7 +14,7 @@ O painel lateral esquerdo apresenta os filtros disponíveis projetados para otim
 
 Na primeira parte do painel, temos 3 filtros predefinidos:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="A imagem mostra uma parte do painel esquerdo, com uma lista vertical de filtros predefinidos. Cada filtro é representado por um rótulo textual: &#x22;Unread&#x22;, &#x22;Saved&#x22; e &#x22;Done&#x22;, exibidos em uma coluna alinhada à esquerda. O fundo é claro, destacando o texto dos filtros."><figcaption><p>Filtros Inbox, Saved e Done do painel lateral esquerdo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (3).png" alt="A imagem mostra uma parte do painel esquerdo, com uma lista vertical de filtros predefinidos. Cada filtro é representado por um rótulo textual: &#x22;Unread&#x22;, &#x22;Saved&#x22; e &#x22;Done&#x22;, exibidos em uma coluna alinhada à esquerda. O fundo é claro, destacando o texto dos filtros."><figcaption><p>Filtros Inbox, Saved e Done do painel lateral esquerdo</p></figcaption></figure>
 
 * **Inbox**: Reúne todas as notificações que ainda **não** foram marcadas como concluídas.
 * **Saved**: Mostra suas notificações que foram salvas por você no passado. Permite acesso rápido, garantindo que informações cruciais estejam sempre à mão.
@@ -24,7 +24,7 @@ Na primeira parte do painel, temos 3 filtros predefinidos:
 
 Abaixo, temos a seção do painel intitulada Filters:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="Seção Filters, mostrando: Assigned, Participating, Mentioned, Team Mentioned, Review Requested. E os personalizados da conta da camilamaia: ScanAPI, brutils e Cumbuca."><figcaption><p>Seção Filters do painel lateral esquerdo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (3).png" alt="Seção Filters, mostrando: Assigned, Participating, Mentioned, Team Mentioned, Review Requested. E os personalizados da conta da camilamaia: ScanAPI, brutils e Cumbuca."><figcaption><p>Seção Filters do painel lateral esquerdo</p></figcaption></figure>
 
 Aqui você pode utilizar os filtros já pré-existentes e também pode criar filtros novos, clicando em + Add new filter.&#x20;
 

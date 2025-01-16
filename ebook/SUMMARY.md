@@ -82,13 +82,13 @@
 * [Links Úteis - Dia 6](dia-6-tudo-sobre-repositorios/links-uteis-dia-6.md)
 * [🔍 Glossário - Dia 6](dia-6-tudo-sobre-repositorios/glossario-dia-6.md)
 
-## DIA 7: Markdown
+## DIA 7: Documentação de Projetos
 
-* [Explicar sobre utilizando a README do profile criado](dia-7-markdown/explicar-sobre-utilizando-a-readme-do-profile-criado.md)
-* [O que é Markdown?](dia-7-markdown/o-que-e-markdown.md)
-* [Documentação oficial](dia-7-markdown/documentacao-oficial.md)
-* [Links Úteis - Dia 7](dia-7-markdown/links-uteis-dia-7.md)
-* [🔍 Glossário - Dia 7](dia-7-markdown/glossario-dia-7.md)
+* [Documentação](dia-7-documentacao-de-projetos/documentacao.md)
+* [Markdown](dia-7-documentacao-de-projetos/markdown.md)
+* [Documentação oficial](dia-7-documentacao-de-projetos/documentacao-oficial.md)
+* [Links Úteis - Dia 7](dia-7-documentacao-de-projetos/links-uteis-dia-7.md)
+* [🔍 Glossário - Dia 7](dia-7-documentacao-de-projetos/glossario-dia-7.md)
 
 ## DIA 8: Clonando um repositório
 

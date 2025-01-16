@@ -6,7 +6,7 @@ Chegou o momento de criar seu primeiro repositório no GitHub! Siga este passo a
 
 No canto superior direito de qualquer página, selecione e clique em New Repository (_Novo repositório_):
 
-<figure><img src="../.gitbook/assets/image.png" alt="Captura de tela do menu suspenso do GitHub, acessado pelo botão de &#x22;+&#x22;. As opções disponíveis no menu são: &#x22;New repository&#x22; (destacado), &#x22;Import repository&#x22;, &#x22;New codespace&#x22;, &#x22;New gist&#x22;, &#x22;New organization&#x22; e &#x22;New project&#x22;. No canto superior direito, o avatar do usuário está visível."><figcaption><p>Menu suspenso no GitHub exibindo opções para criar ou gerenciar novos recursos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt="Captura de tela do menu suspenso do GitHub, acessado pelo botão de &#x22;+&#x22;. As opções disponíveis no menu são: &#x22;New repository&#x22; (destacado), &#x22;Import repository&#x22;, &#x22;New codespace&#x22;, &#x22;New gist&#x22;, &#x22;New organization&#x22; e &#x22;New project&#x22;. No canto superior direito, o avatar do usuário está visível."><figcaption><p>Menu suspenso no GitHub exibindo opções para criar ou gerenciar novos recursos</p></figcaption></figure>
 
 ## **Passo 2: Preencher os campos do formulário**
 
@@ -31,7 +31,7 @@ _Ao selecionar esta opção, o GitHub criará um `README` básico para você aut
 
 Para este primeiro repositório, as configurações padrão já são suficientes.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="Captura de tela da página de criação de um novo repositório no GitHub. O proprietário do repositório é &#x22;aprendizCumbucaDev&#x22;, e o nome do repositório escolhido é &#x22;hello-world&#x22;, indicado como disponível. A descrição do repositório é &#x22;Meu primeiro repositório no GitHub&#x22;. A opção &#x22;Public&#x22; está selecionada, e a caixa para adicionar um arquivo README está marcada. As opções para adicionar um .gitignore e escolher uma licença estão disponíveis, mas não foram selecionadas. A mensagem informa que a branch padrão será &#x22;main&#x22;. O botão &#x22;Create repository&#x22; aparece no canto inferior direito."><figcaption><p>Tela de configuração inicial para criar um repositório no GitHub</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="Captura de tela da página de criação de um novo repositório no GitHub. O proprietário do repositório é &#x22;aprendizCumbucaDev&#x22;, e o nome do repositório escolhido é &#x22;hello-world&#x22;, indicado como disponível. A descrição do repositório é &#x22;Meu primeiro repositório no GitHub&#x22;. A opção &#x22;Public&#x22; está selecionada, e a caixa para adicionar um arquivo README está marcada. As opções para adicionar um .gitignore e escolher uma licença estão disponíveis, mas não foram selecionadas. A mensagem informa que a branch padrão será &#x22;main&#x22;. O botão &#x22;Create repository&#x22; aparece no canto inferior direito."><figcaption><p>Tela de configuração inicial para criar um repositório no GitHub</p></figcaption></figure>
 
 ## **Passo 3: Criar o repositório**
 
