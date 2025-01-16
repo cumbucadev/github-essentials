@@ -35,7 +35,7 @@ Esse é um parágrafo.
 
 Exemplo de como esse texto é apresentado no GitHub:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="Captura de tela do editor de texto do GitHub mostrando um arquivo README com o título &#x27;Meu Título&#x27; e um parágrafo de exemplo."><figcaption><p>Editor de texto do GitHub.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (74).png" alt="Captura de tela do editor de texto do GitHub mostrando um arquivo README com o título &#x27;Meu Título&#x27; e um parágrafo de exemplo."><figcaption><p>Editor de texto do GitHub.</p></figcaption></figure>
 
 Markdown é uma ferramenta poderosa para quem deseja criar conteúdo formatado sem complicações, especialmente em ambientes de desenvolvimento.&#x20;
 

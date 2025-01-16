@@ -84,11 +84,11 @@
 
 ## DIA 7: Documentação de Projetos
 
-* [Documentação](dia-7-documentacao-de-projetos/documentacao.md)
-* [Markdown](dia-7-documentacao-de-projetos/markdown.md)
-* [Documentação oficial](dia-7-documentacao-de-projetos/documentacao-oficial.md)
-* [Links Úteis - Dia 7](dia-7-documentacao-de-projetos/links-uteis-dia-7.md)
-* [🔍 Glossário - Dia 7](dia-7-documentacao-de-projetos/glossario-dia-7.md)
+* [Documentação](dia-7-markdown/explicar-sobre-utilizando-a-readme-do-profile-criado.md)
+* [Markdown](dia-7-markdown/o-que-e-markdown.md)
+* [Criando a sua Página de Apresentação no GitHub](dia-7-documentacao-de-projetos/criando-a-sua-pagina-de-apresentacao-no-github.md)
+* [Links Úteis - Dia 7](dia-7-markdown/links-uteis-dia-7.md)
+* [🔍 Glossário - Dia 7](dia-7-markdown/glossario-dia-7.md)
 
 ## DIA 8: Clonando um repositório
 
