@@ -75,10 +75,11 @@
 
 * [Repositórios no GitHub](dia-6-tudo-sobre-repositorios/repositorios-no-github.md)
 * [Criando um Repositório no GitHub](dia-6-tudo-sobre-repositorios/criando-um-repositorio-no-github.md)
-* [Tópicos, labels, issues, geral](dia-6-tudo-sobre-repositorios/topicos-labels-issues-geral.md)
-* [Overview repositório antigo](dia-6-tudo-sobre-repositorios/overview-repositorio-antigo.md)
-* [Overview aba CODE](dia-6-tudo-sobre-repositorios/overview-aba-code.md)
-* [Overview aba settings](dia-6-tudo-sobre-repositorios/overview-aba-settings.md)
+* [Fazendo sua primeira alteração](dia-6-tudo-sobre-repositorios/fazendo-sua-primeira-alteracao.md)
+* [Aba Code](dia-6-tudo-sobre-repositorios/aba-code/README.md)
+  * [Repositório Hello World](dia-6-tudo-sobre-repositorios/aba-code/repositorio-hello-world.md)
+  * [Repositório brutils](dia-6-tudo-sobre-repositorios/aba-code/repositorio-brutils.md)
+* [Aba settings](dia-6-tudo-sobre-repositorios/aba-settings.md)
 * [Links Úteis - Dia 6](dia-6-tudo-sobre-repositorios/links-uteis-dia-6.md)
 * [🔍 Glossário - Dia 6](dia-6-tudo-sobre-repositorios/glossario-dia-6.md)
 
@@ -101,17 +102,32 @@
 
 ## DIA 9: Minha primeira issue
 
-* [Demonstrar como funciona e a importância](dia-9-minha-primeira-issue/demonstrar-como-funciona-e-a-importancia.md)
-* [Explicar sobre as labels](dia-9-minha-primeira-issue/explicar-sobre-as-labels.md)
-* [Mostrar como funcionam as issues em projetos BRs existentes](dia-9-minha-primeira-issue/mostrar-como-funcionam-as-issues-em-projetos-brs-existentes.md)
+* [Issues no GitHub](dia-9-minha-primeira-issue/issues-no-github.md)
+* [Criando a minha primeira issue](dia-9-minha-primeira-issue/criando-a-minha-primeira-issue/README.md)
+  * [Título](dia-9-minha-primeira-issue/criando-a-minha-primeira-issue/titulo.md)
+  * [Descrição](dia-9-minha-primeira-issue/criando-a-minha-primeira-issue/descricao.md)
+  * [Assignees](dia-9-minha-primeira-issue/criando-a-minha-primeira-issue/assignees.md)
+  * [Labels](dia-9-minha-primeira-issue/criando-a-minha-primeira-issue/labels.md)
+* [Página de uma Issue](dia-9-minha-primeira-issue/pagina-de-uma-issue.md)
+* [Aba Issues](dia-9-minha-primeira-issue/aba-issues.md)
+* [Gerenciando Labels](dia-9-minha-primeira-issue/gerenciando-labels.md)
+* [Issues no Mundo Real](dia-9-minha-primeira-issue/issues-no-mundo-real.md)
 * [Links Úteis - Dia 9](dia-9-minha-primeira-issue/links-uteis-dia-9.md)
 * [🔍 Glossário - Dia 9](dia-9-minha-primeira-issue/glossario-dia-9.md)
 
 ## DIA 10: Meu primeiro PR
 
-* [Nomenclatura da Branch](dia-10-meu-primeiro-pr/nomenclatura-da-branch.md)
-* [Como abrir um Pull Request, review, merge](dia-10-meu-primeiro-pr/como-abrir-um-pull-request-review-merge.md)
-* [Assign](dia-10-meu-primeiro-pr/assign.md)
+* [Branches no GitHub](dia-10-meu-primeiro-pr/branches-no-github.md)
+* [Criando Minha Primeira Branch](dia-10-meu-primeiro-pr/criando-minha-primeira-branch.md)
+* [Pull Requests no GitHub](dia-10-meu-primeiro-pr/pull-requests-no-github.md)
+* [Abrindo meu primeiro Pull Request](dia-10-meu-primeiro-pr/abrindo-meu-primeiro-pull-request/README.md)
+  * [Título](dia-10-meu-primeiro-pr/abrindo-meu-primeiro-pull-request/titulo.md)
+  * [Descrição](dia-10-meu-primeiro-pr/abrindo-meu-primeiro-pull-request/descricao.md)
+  * [Reviewers](dia-10-meu-primeiro-pr/abrindo-meu-primeiro-pull-request/reviewers.md)
+  * [Labels](dia-10-meu-primeiro-pr/abrindo-meu-primeiro-pull-request/labels.md)
+* [Revisão de PRs](dia-10-meu-primeiro-pr/revisao-de-prs.md)
+* [Fechamento de PRs](dia-10-meu-primeiro-pr/fechamento-de-prs.md)
+* [Aba Pull Requests](dia-10-meu-primeiro-pr/aba-pull-requests.md)
 * [Links Úteis - Dia 10](dia-10-meu-primeiro-pr/links-uteis-dia-10.md)
 * [🔍 Glossário - Dia 10](dia-10-meu-primeiro-pr/glossario-dia-10.md)
 
