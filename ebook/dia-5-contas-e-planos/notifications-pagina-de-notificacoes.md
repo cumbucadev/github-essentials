@@ -2,9 +2,9 @@
 
 A **página de notificações** do GitHub ([https://github.com/notifications](https://github.com/notifications)) é onde você encontra todas as atualizações sobre atividades relacionadas aos repositórios e pessoas que você segue. Ela centraliza tudo o que acontece nos projetos em que você está envolvido, como novas issues, pull requests e comentários. Essa página ajuda a manter você atualizado sem precisar ficar visitando cada repositório ou discussão individualmente.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="Captura de tela da página de notificações de uma conta que não possui notificação."><figcaption><p>Visão da página de notificações de uma conta nova</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3).png" alt="Captura de tela da página de notificações de uma conta que não possui notificação."><figcaption><p>Visão da página de notificações de uma conta nova</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="Captura de tela da página de notificações de uma conta que possui várias notificações"><figcaption><p>Visão da página de notificações de uma conta que já possui interações na plataforma</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (3).png" alt="Captura de tela da página de notificações de uma conta que possui várias notificações"><figcaption><p>Visão da página de notificações de uma conta que já possui interações na plataforma</p></figcaption></figure>
 
 ## **Painel Lateral Esquerdo**
 
@@ -14,7 +14,7 @@ O painel lateral esquerdo apresenta os filtros disponíveis projetados para otim
 
 Na primeira parte do painel, temos 3 filtros predefinidos:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="A imagem mostra uma parte do painel esquerdo, com uma lista vertical de filtros predefinidos. Cada filtro é representado por um rótulo textual: &#x22;Unread&#x22;, &#x22;Saved&#x22; e &#x22;Done&#x22;, exibidos em uma coluna alinhada à esquerda. O fundo é claro, destacando o texto dos filtros."><figcaption><p>Filtros Inbox, Saved e Done do painel lateral esquerdo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (3).png" alt="A imagem mostra uma parte do painel esquerdo, com uma lista vertical de filtros predefinidos. Cada filtro é representado por um rótulo textual: &#x22;Unread&#x22;, &#x22;Saved&#x22; e &#x22;Done&#x22;, exibidos em uma coluna alinhada à esquerda. O fundo é claro, destacando o texto dos filtros."><figcaption><p>Filtros Inbox, Saved e Done do painel lateral esquerdo</p></figcaption></figure>
 
 * **Inbox**: Reúne todas as notificações que ainda **não** foram marcadas como concluídas.
 * **Saved**: Mostra suas notificações que foram salvas por você no passado. Permite acesso rápido, garantindo que informações cruciais estejam sempre à mão.
@@ -24,7 +24,7 @@ Na primeira parte do painel, temos 3 filtros predefinidos:
 
 Abaixo, temos a seção do painel intitulada Filters:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="Seção Filters, mostrando: Assigned, Participating, Mentioned, Team Mentioned, Review Requested. E os personalizados da conta da camilamaia: ScanAPI, brutils e Cumbuca."><figcaption><p>Seção Filters do painel lateral esquerdo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (3).png" alt="Seção Filters, mostrando: Assigned, Participating, Mentioned, Team Mentioned, Review Requested. E os personalizados da conta da camilamaia: ScanAPI, brutils e Cumbuca."><figcaption><p>Seção Filters do painel lateral esquerdo</p></figcaption></figure>
 
 Aqui você pode utilizar os filtros já pré-existentes e também pode criar filtros novos, clicando em + Add new filter.&#x20;
 
@@ -34,23 +34,23 @@ Para saber mais sobre esses filtros e como criar novos, veja a documentação of
 
 Em seguida, temos a seção Repositories. Aqui você pode filtrar notificações para repositórios específicos.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="Lista de repositório da conta de camilamaia com o número ao lado de cada nome indicando a quantidade de notificações."><figcaption><p>Seção Repositories do painel lateral esquerdo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (3).png" alt="Lista de repositório da conta de camilamaia com o número ao lado de cada nome indicando a quantidade de notificações."><figcaption><p>Seção Repositories do painel lateral esquerdo</p></figcaption></figure>
 
 ### Manage Notifications
 
 Por fim, existe a opção Manage Notifications:
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="Link com o texto Managed Notifications e uma seta ao lado"><figcaption><p>Manage Notifications fechado</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (3).png" alt="Link com o texto Managed Notifications e uma seta ao lado"><figcaption><p>Manage Notifications fechado</p></figcaption></figure>
 
 Clicando na seta, temos:
 
-<figure><img src="../.gitbook/assets/image (9).png" alt="Managed Notifications expandido após clicar na seta. Contém 3 opções: Notification Settings, Watched Repositories e Subscriptions" width="375"><figcaption><p>Manage Notifications expandido após o clique</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (3).png" alt="Managed Notifications expandido após clicar na seta. Contém 3 opções: Notification Settings, Watched Repositories e Subscriptions" width="375"><figcaption><p>Manage Notifications expandido após o clique</p></figcaption></figure>
 
 Aqui você gerencia quando e como você deseja ser notificado. Para saber mais, confira a documentação oficial: [Gerenciando assinaturas e notificações no GitHub](https://docs.github.com/pt/account-and-profile/managing-subscriptions-and-notifications-on-github)
 
 ## **Barra Superior das Notificações**
 
-<figure><img src="../.gitbook/assets/image (11).png" alt="Barra Superior das Notificações. Contém um filtro All/Unread, uma barra de busca e um botão escrito Group By: Date com uma seta ao lado"><figcaption><p>Barra Superior das Notificações</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (3).png" alt="Barra Superior das Notificações. Contém um filtro All/Unread, uma barra de busca e um botão escrito Group By: Date com uma seta ao lado"><figcaption><p>Barra Superior das Notificações</p></figcaption></figure>
 
 ### **All / Unread**
 
@@ -63,7 +63,7 @@ Permite que você pesquise notificações específicas usando filtros. A busca f
 
 Exemplo de busca:
 
-<figure><img src="../.gitbook/assets/image (12).png" alt="Screenshot de uma Busca por repositório: &#x22;repo:repo:cumbucadev/gitcaos&#x22;"><figcaption><p>Busca por repositório</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (3).png" alt="Screenshot de uma Busca por repositório: &#x22;repo:repo:cumbucadev/gitcaos&#x22;"><figcaption><p>Busca por repositório</p></figcaption></figure>
 
 ### **Group By**
 

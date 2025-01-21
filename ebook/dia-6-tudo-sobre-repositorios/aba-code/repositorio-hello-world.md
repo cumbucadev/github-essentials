@@ -1,2 +1,0 @@
-# Repositório Hello World
-
