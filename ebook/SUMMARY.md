@@ -78,7 +78,7 @@
 * [Aba Code: Página Principal do Repositório](dia-6-tudo-sobre-repositorios/aba-code/README.md)
   * [Primeira Alteração no GitHub](dia-6-tudo-sobre-repositorios/fazendo-sua-primeira-alteracao.md)
   * [Histórico de Commits](dia-6-tudo-sobre-repositorios/aba-code-pagina-principal-do-repositorio/historico-de-commits.md)
-  * [Editar Detalhes](dia-6-tudo-sobre-repositorios/aba-code-pagina-principal-do-repositorio/editar-detalhes.md)
+  * [Detalhes do Repositório](dia-6-tudo-sobre-repositorios/aba-code-pagina-principal-do-repositorio/detalhes-do-repositorio.md)
   * [Repositório brutils](dia-6-tudo-sobre-repositorios/aba-code/repositorio-brutils.md)
 * [Aba settings](dia-6-tudo-sobre-repositorios/aba-settings.md)
 * [Links Úteis - Dia 6](dia-6-tudo-sobre-repositorios/links-uteis-dia-6.md)
