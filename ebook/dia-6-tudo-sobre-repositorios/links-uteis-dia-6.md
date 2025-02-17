@@ -6,10 +6,10 @@ description: >-
 
 # Links Úteis - Dia 6
 
-
-
 {% embed url="https://docs.github.com/pt/repositories/creating-and-managing-repositories/about-repositories" %}
 
 {% embed url="https://docs.github.com/pt/repositories" %}
 
 {% embed url="https://docs.github.com/pt/repositories/creating-and-managing-repositories/quickstart-for-repositories#create-a-repository" %}
+
+{% embed url="https://docs.github.com/pt/repositories/creating-and-managing-repositories" %}

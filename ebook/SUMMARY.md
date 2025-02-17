@@ -80,7 +80,10 @@
   * [Histórico de Commits](dia-6-tudo-sobre-repositorios/aba-code-pagina-principal-do-repositorio/historico-de-commits.md)
   * [Detalhes do Repositório](dia-6-tudo-sobre-repositorios/aba-code-pagina-principal-do-repositorio/detalhes-do-repositorio.md)
   * [Explorando um Repositório Ativo em Uso](dia-6-tudo-sobre-repositorios/aba-code-pagina-principal-do-repositorio/explorando-um-repositorio-ativo-em-uso.md)
-* [Aba settings](dia-6-tudo-sobre-repositorios/aba-settings.md)
+* [Aba Settings: Página de Configurações do Repositório](dia-6-tudo-sobre-repositorios/aba-settings-pagina-de-configuracoes-do-repositorio/README.md)
+  * [General: Configurações Gerais](dia-6-tudo-sobre-repositorios/aba-settings-pagina-de-configuracoes-do-repositorio/general-configuracoes-gerais.md)
+  * [Collaborators: Configurações de Colaboração](dia-6-tudo-sobre-repositorios/aba-settings-pagina-de-configuracoes-do-repositorio/collaborators-configuracoes-de-colaboracao.md)
+  * [Hora de Explorar!](dia-6-tudo-sobre-repositorios/aba-settings-pagina-de-configuracoes-do-repositorio/hora-de-explorar.md)
 * [Links Úteis - Dia 6](dia-6-tudo-sobre-repositorios/links-uteis-dia-6.md)
 * [🔍 Glossário - Dia 6](dia-6-tudo-sobre-repositorios/glossario-dia-6.md)
 
