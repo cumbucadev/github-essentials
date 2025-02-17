@@ -15,7 +15,12 @@
   * [VCS Centralizados](dia-2-controle-de-versao-basico-com-git/sistemas-de-controle-de-versao-vcs/vcs-centralizados.md)
   * [VCS Distribuídos (DVCS)](dia-2-controle-de-versao-basico-com-git/sistemas-de-controle-de-versao-vcs/vcs-distribuidos-dvcs.md)
 * [Git](dia-2-controle-de-versao-basico-com-git/git/README.md)
-  * [Principais Conceitos](dia-2-controle-de-versao-basico-com-git/git/principais-conceitos.md)
+  * [Principais Conceitos](dia-2-controle-de-versao-basico-com-git/git/principais-conceitos/README.md)
+    * [Repositório](dia-2-controle-de-versao-basico-com-git/git/principais-conceitos/repositorio.md)
+    * [Commit](dia-2-controle-de-versao-basico-com-git/git/principais-conceitos/commit.md)
+    * [Branch](dia-2-controle-de-versao-basico-com-git/git/principais-conceitos/branch.md)
+    * [Merge](dia-2-controle-de-versao-basico-com-git/git/principais-conceitos/merge.md)
+    * [Fork](dia-2-controle-de-versao-basico-com-git/git/principais-conceitos/fork.md)
   * [Instalando o Git](dia-2-controle-de-versao-basico-com-git/git/instalando-o-git/README.md)
     * [🐧 Linux](dia-2-controle-de-versao-basico-com-git/git/instalando-o-git/linux.md)
     * [🍎 MacOS (Apple)](dia-2-controle-de-versao-basico-com-git/git/instalando-o-git/macos-apple.md)
@@ -37,13 +42,9 @@
   * [git diff](dia-3-avancando-no-git/salvando-alteracoes-localmente/git-diff.md)
   * [.gitignore](dia-3-avancando-no-git/salvando-alteracoes-localmente/.gitignore.md)
   * [Unindo os Pontos](dia-3-avancando-no-git/salvando-alteracoes-localmente/unindo-os-pontos.md)
-* [Interagindo com o Repositório Central](dia-3-avancando-no-git/interagindo-com-o-repositorio-central/README.md)
-  * [git clone](dia-3-avancando-no-git/interagindo-com-o-repositorio-central/git-clone.md)
-  * [git fetch](dia-3-avancando-no-git/interagindo-com-o-repositorio-central/git-fetch.md)
-  * [git push](dia-3-avancando-no-git/interagindo-com-o-repositorio-central/git-push.md)
-  * [git pull](dia-3-avancando-no-git/interagindo-com-o-repositorio-central/git-pull.md)
-  * [Unindo os Pontos](dia-3-avancando-no-git/interagindo-com-o-repositorio-central/unindo-os-pontos.md)
-* [💡 Indicação: Jogo Oh My Git](dia-3-avancando-no-git/indicacao-jogo-oh-my-git.md)
+* [Trabalhando com Branches](dia-3-avancando-no-git/trabalhando-com-branches/README.md)
+  * [Resolvendo Conflitos](dia-3-avancando-no-git/trabalhando-com-branches/resolvendo-conflitos.md)
+* [Desfazendo Alterações Localmente](dia-3-avancando-no-git/desfazendo-alteracoes-localmente.md)
 * [Links Úteis - Dia 3](dia-3-avancando-no-git/links-uteis-dia-3.md)
 * [🔍 Glossário - Dia 3](dia-3-avancando-no-git/glossario-dia-3.md)
 
@@ -95,32 +96,36 @@
 * [Links Úteis - Dia 7](dia-7-markdown/links-uteis-dia-7.md)
 * [🔍 Glossário - Dia 7](dia-7-markdown/glossario-dia-7.md)
 
-## DIA 8: Clonando um repositório
+## DIA 8: Minha primeira issue
 
-* [Git clone](dia-8-clonando-um-repositorio/git-clone.md)
-* [Adicionando a chave SSH](dia-8-clonando-um-repositorio/adicionando-a-chave-ssh.md)
-* [Qual a utilidade…](dia-8-clonando-um-repositorio/qual-a-utilidade....md)
-* [Espalhando a palavra do Open Source - como participar de outros projetos usando o git clone 🤯](dia-8-clonando-um-repositorio/espalhando-a-palavra-do-open-source-como-participar-de-outros-projetos-usando-o-git-clone.md)
-* [Links Úteis - Dia 8](dia-8-clonando-um-repositorio/links-uteis-dia-8.md)
-* [🔍 Glossário - Dia 8](dia-8-clonando-um-repositorio/glossario-dia-8.md)
+* [Issues no GitHub](dia-8-minha-primeira-issue/issues-no-github.md)
+* [Criando a minha primeira issue](dia-8-minha-primeira-issue/criando-a-minha-primeira-issue/README.md)
+  * [Título](dia-8-minha-primeira-issue/criando-a-minha-primeira-issue/titulo.md)
+  * [Descrição](dia-8-minha-primeira-issue/criando-a-minha-primeira-issue/descricao.md)
+  * [Assignees](dia-8-minha-primeira-issue/criando-a-minha-primeira-issue/assignees.md)
+  * [Labels](dia-8-minha-primeira-issue/criando-a-minha-primeira-issue/labels.md)
+* [Página de uma Issue](dia-8-minha-primeira-issue/pagina-de-uma-issue.md)
+* [Aba Issues](dia-8-minha-primeira-issue/aba-issues.md)
+* [Gerenciando Labels](dia-8-minha-primeira-issue/gerenciando-labels.md)
+* [Issues no Mundo Real](dia-8-minha-primeira-issue/issues-no-mundo-real.md)
+* [Links Úteis - Dia 8](dia-8-minha-primeira-issue/links-uteis-dia-8.md)
+* [🔍 Glossário - Dia 8](dia-8-minha-primeira-issue/glossario-dia-8.md)
 
-## DIA 9: Minha primeira issue
+## DIA 9: Git Remoto
 
-* [Issues no GitHub](dia-9-minha-primeira-issue/issues-no-github.md)
-* [Criando a minha primeira issue](dia-9-minha-primeira-issue/criando-a-minha-primeira-issue/README.md)
-  * [Título](dia-9-minha-primeira-issue/criando-a-minha-primeira-issue/titulo.md)
-  * [Descrição](dia-9-minha-primeira-issue/criando-a-minha-primeira-issue/descricao.md)
-  * [Assignees](dia-9-minha-primeira-issue/criando-a-minha-primeira-issue/assignees.md)
-  * [Labels](dia-9-minha-primeira-issue/criando-a-minha-primeira-issue/labels.md)
-* [Página de uma Issue](dia-9-minha-primeira-issue/pagina-de-uma-issue.md)
-* [Aba Issues](dia-9-minha-primeira-issue/aba-issues.md)
-* [Gerenciando Labels](dia-9-minha-primeira-issue/gerenciando-labels.md)
-* [Issues no Mundo Real](dia-9-minha-primeira-issue/issues-no-mundo-real.md)
-* [Links Úteis - Dia 9](dia-9-minha-primeira-issue/links-uteis-dia-9.md)
-* [🔍 Glossário - Dia 9](dia-9-minha-primeira-issue/glossario-dia-9.md)
+* [Interagindo com o Repositório Central](dia-9-git-remoto/interagindo-com-o-repositorio-central/README.md)
+  * [git clone](dia-9-git-remoto/interagindo-com-o-repositorio-central/git-clone.md)
+  * [git fetch](dia-9-git-remoto/interagindo-com-o-repositorio-central/git-fetch.md)
+  * [git push](dia-9-git-remoto/interagindo-com-o-repositorio-central/git-push.md)
+  * [git pull](dia-9-git-remoto/interagindo-com-o-repositorio-central/git-pull.md)
+  * [Unindo os Pontos](dia-9-git-remoto/interagindo-com-o-repositorio-central/unindo-os-pontos.md)
+* [Espalhando a palavra do Open Source - como participar de outros projetos usando o git clone 🤯](dia-9-git-remoto/espalhando-a-palavra-do-open-source-como-participar-de-outros-projetos-usando-o-git-clone.md)
+* [Links Úteis - Dia 9](dia-9-git-remoto/links-uteis-dia-9.md)
+* [🔍 Glossário - Dia 9](dia-9-git-remoto/glossario-dia-9.md)
 
 ## DIA 10: Meu primeiro PR
 
+* [Git clone](dia-10-meu-primeiro-pr/git-clone.md)
 * [Branches no GitHub](dia-10-meu-primeiro-pr/branches-no-github.md)
 * [Criando Minha Primeira Branch](dia-10-meu-primeiro-pr/criando-minha-primeira-branch.md)
 * [Pull Requests no GitHub](dia-10-meu-primeiro-pr/pull-requests-no-github.md)
@@ -138,6 +143,7 @@
 ## DIA 11: Hora do Desafio
 
 * [Extensões Git](dia-11-hora-do-desafio/extensoes-git.md)
+* [💡 Indicação: Jogo Oh My Git](dia-11-hora-do-desafio/indicacao-jogo-oh-my-git.md)
 * [Desafio GitHub](dia-11-hora-do-desafio/desafio-github.md)
 
 ***
