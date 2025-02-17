@@ -7,7 +7,7 @@ Parabéns por criar seu primeiro repositório! A aba **Code** é o coração do 
 ## **Informações Gerais do Repositório**
 
 * **Nome do Repositório:** É o título do seu projeto, que você escolheu ao criá-lo. É importante que seja claro e conciso, refletindo o conteúdo do seu projeto.
-* **Conta Dona do Repositório:** Neste caso, indica o seu nome de usuário no GitHub, ou seja, a conta proprietária do projeto.
+* **Conta Dona do Repositório:** Neste caso, indica o seu nome da conta no GitHub, ou seja, a conta proprietária do projeto.
 
 <figure><img src="../../.gitbook/assets/Nome, conta.png" alt="Interface do GitHub exibindo a parte superior da aba &#x27;Code&#x27;. O nome do repositório &#x27;hello-world&#x27; e o nome da conta do usuário &#x27;aprendizCumbucaDev&#x27; estão destacados em roxo e marron, respectivamente."><figcaption><p>Informações da conta e do nome do repositório</p></figcaption></figure>
 
@@ -35,17 +35,17 @@ Ao lado de cada arquivo, você verá informações cruciais como:
 
 Mas e de onde veio essa mensagem `initial commit`?
 
-Ao criar um repositório e optar por inicializá-lo com um arquivo README, o GitHub automaticamente realiza o primeiro **commit** para incluir esse arquivo no projeto. Esse commit é registrado com a mensagem padrão **`initial commit`**, indicando que se trata da primeira alteração no repositório.
+Ao criar um repositório e optar por inicializá-lo com um arquivo README, o GitHub automaticamente realiza o primeiro **commit** para incluir esse arquivo no projeto. Esse commit é registrado com uma mensagem padrão definida pelo próprio GitHub: **`initial commit`** - indicando que se trata da primeira alteração no repositório.
 
-Além disso, o commit é automaticamente atribuído à sua conta de usuário, já que você foi quem criou o projeto e escolheu adicionar o README durante a configuração inicial.
+Além disso, a autoria do commit é automaticamente atribuída à sua conta do GitHub, já que foi você quem criou o projeto e escolheu adicionar o README durante a configuração inicial.
 
 ## **Cabeçalho da Lista de Arquivos**
 
 Acima da lista de arquivos, você encontrará um cabeçalho que resume as informações mais recentes sobre todo o repositório:
 
 * **Autor da Última Commit:** Mostra o nome da conta da pessoa usuária que realizou a última alteração no repositório.
-* **Mensagem do Última Commit:** Descrição da última alteração feita em qualquer arquivo do repositório.
-* **Data da Última Commit:** Quando a última alteração foi feita no repositório.
+* **Mensagem do Último Commit:** Descrição da última alteração feita em qualquer arquivo do repositório.
+* **Data do Último Commit:** Quando a última alteração foi feita no repositório.
 
 <figure><img src="../../.gitbook/assets/Dados do repo (1).png" alt="Interface do GitHub da aba code do repositório &#x27;hello-world&#x27;. Destaque para o cabeçalho da lista de arquivos do repositório. Mostra-se quem fez última alteração no projeto, a mensagem descrevendo a última modificação e quando essa última alteração foi feita."><figcaption></figcaption></figure>
 
