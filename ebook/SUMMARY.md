@@ -50,7 +50,7 @@
   * [Unindo os Pontos](dia-3-avancando-no-git/trabalhando-com-branches/unindo-os-pontos.md)
   * [Exemplo Prático](dia-3-avancando-no-git/trabalhando-com-branches/exemplo-pratico.md)
 * [Desfazendo Alterações Localmente](dia-3-avancando-no-git/desfazendo-alteracoes-localmente.md)
-* [.gitignore](dia-3-avancando-no-git/.gitignore.md)
+* [.gitignore](dia-3-avancando-no-git/salvando-alteracoes-localmente/.gitignore.md)
 * [git rm](dia-3-avancando-no-git/git-rm.md)
 * [Links Úteis - Dia 3](dia-3-avancando-no-git/links-uteis-dia-3.md)
 * [🔍 Glossário - Dia 3](dia-3-avancando-no-git/glossario-dia-3.md)

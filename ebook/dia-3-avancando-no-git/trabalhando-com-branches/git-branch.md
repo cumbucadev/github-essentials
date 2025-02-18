@@ -8,27 +8,29 @@ description: >-
 
 O comando <mark style="color:purple;">git</mark> <mark style="color:orange;">branch</mark> é usado para gerenciar branches no Git, permitindo a criação de novas ramificações, listagem das existentes e remoção de branches que não são mais necessários.
 
-### **Suas Três Funcionalidades**
+## **Suas Três Funcionalidades**
 
-#### **Criar um novo branch**
+### **Criar um novo branch**
 
 Quando você deseja desenvolver uma nova funcionalidade ou corrigir um bug sem interferir no código principal, você pode criar um novo branch usando <mark style="color:purple;">git</mark> <mark style="color:orange;">branch</mark>.
 
-#### **Listar branches existentes**
+O branch criado começa com todo o conteúdo do branch atual. Ou seja, o novo branch será uma cópia exata do estado atual do branch de onde foi criado, incluindo arquivos e alterações não comitadas.
+
+### **Listar branches existentes**
 
 Para visualizar todos os branches disponíveis no repositório, o comando <mark style="color:purple;">git</mark> <mark style="color:orange;">branch</mark> pode ser usado sem argumentos.
 
-#### **Excluir um branch**
+### **Excluir um branch**
 
 Quando um branch não é mais necessário, ele pode ser removido para manter o repositório organizado.
 
-### **Estrutura**
+## **Estrutura**
 
 O formato base do comando <mark style="color:purple;">git</mark> <mark style="color:orange;">branch</mark> é:
 
 > <mark style="color:purple;">git</mark> <mark style="color:orange;">branch</mark> <mark style="color:blue;">\[opções]</mark> <mark style="color:green;">\[nome-do-branch]</mark>
 
-### **Exemplos de uso**
+## **Exemplos de uso**
 
 * Criar um novo branch:
   * <mark style="color:purple;">git</mark> <mark style="color:orange;">branch</mark> <mark style="color:green;">feature-x</mark>
