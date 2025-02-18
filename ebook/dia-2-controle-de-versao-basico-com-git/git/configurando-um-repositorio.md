@@ -75,7 +75,7 @@ Essas são algumas das propriedades que podem ser configuradas:
 6. `init.defaultBranch`: Define o nome padrão do branch inicial.\
    Define o nome padrão do branch inicial quando você cria um novo repositório.\
    Exemplo definindo o nome padrão do branch inicial como 'dev' para um projeto específico:\
-   <mark style="color:purple;">git</mark> <mark style="color:orange;">config</mark> <mark style="color:blue;">--local</mark> <mark style="color:green;">init.defaultBranch main</mark>
+   <mark style="color:purple;">git</mark> <mark style="color:orange;">config</mark> <mark style="color:blue;">--local</mark> <mark style="color:green;">init.defaultBranch dev</mark>
 
 #### Exemplo Configurando Dois Emails
 

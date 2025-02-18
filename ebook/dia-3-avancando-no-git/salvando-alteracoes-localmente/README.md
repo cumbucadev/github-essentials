@@ -30,7 +30,7 @@ Então, sempre que você ouvir "commit" no Git, pense nisso como um "salvar" mai
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><a href="https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F">https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F</a></p></figcaption></figure>
 
-## Rastrear um arquivo
+## Rastrear um Arquivo
 
 Os arquivos em sua pasta de trabalho podem estar sendo rastreados pelo Git ("_tracked"_) ou não ("_untracked"_):
 
@@ -39,11 +39,7 @@ Os arquivos em sua pasta de trabalho podem estar sendo rastreados pelo Git ("_tr
 
 Ao criar um arquivo novo no seu diretório local, ele ainda não estará sendo rastreado pelo Git. Para isso, você precisa explicitamente adicioná-lo com o comando <mark style="color:purple;">git</mark> <mark style="color:orange;">add</mark>. A partir de então, o Git passará a controlar o versionamento do novo arquivo no projeto.
 
-
-
-> imagem do terminal?
-
-## Estados de um arquivo r**astreado**
+## Estados de um Arquivo R**astreado**
 
 No Git, os arquivos podem estar em diferentes estados para gerenciar as mudanças de forma mais eficiente, uma vez que "salvar" no Git é mais complexo do que em um editor de texto tradicional. Os estados permitem que você escolha quais mudanças salvar (commit) e quais não. Por exemplo, se você está trabalhando em duas funcionalidades diferentes no mesmo projeto, você pode selecionar quais arquivos ou partes de arquivos deseja incluir no commit de cada funcionalidade.
 
@@ -61,4 +57,6 @@ Resumindo:
 * **Preparado (Staged)**: Mudanças estão na área de preparação e prontas para serem confirmadas.
 * **Confirmado / Salvo (Committed)**: Mudanças foram salvas no repositório do Git.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption><p>inspiração <a href="https://git-scm.com/book/en/v2/images/areas.png">https://git-scm.com/book/en/v2/images/areas.png</a><br><a href="https://nulab.com/static/d13cdc1344230f603d17b31a5cbd1dae/5a190/02.png">https://nulab.com/static/d13cdc1344230f603d17b31a5cbd1dae/5a190/02.png</a><br>* colocar uma área para demonstrar onde tá o git</p></figcaption></figure>
+## Possíveis Estados de um Arquivo no Git
+
+<figure><img src="../../.gitbook/assets/estados git.png" alt=""><figcaption><p>Possíveis estados de um arquivo no git</p></figcaption></figure>

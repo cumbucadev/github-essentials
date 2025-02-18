@@ -42,6 +42,7 @@
   * [git diff](dia-3-avancando-no-git/salvando-alteracoes-localmente/git-diff.md)
   * [.gitignore](dia-3-avancando-no-git/salvando-alteracoes-localmente/.gitignore.md)
   * [Unindo os Pontos](dia-3-avancando-no-git/salvando-alteracoes-localmente/unindo-os-pontos.md)
+  * [Exemplo Prático](dia-3-avancando-no-git/salvando-alteracoes-localmente/exemplo-pratico.md)
 * [Trabalhando com Branches](dia-3-avancando-no-git/trabalhando-com-branches/README.md)
   * [Resolvendo Conflitos](dia-3-avancando-no-git/trabalhando-com-branches/resolvendo-conflitos.md)
 * [Desfazendo Alterações Localmente](dia-3-avancando-no-git/desfazendo-alteracoes-localmente.md)
