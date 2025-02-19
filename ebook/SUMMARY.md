@@ -9,7 +9,7 @@
 * [Mapa do Curso](dia-1-introducao/mapa-do-curso.md)
 * [🔍 Glossário - Dia 1](dia-1-introducao/glossario-dia-1.md)
 
-## Dia 2: Controle de Versão Básico com Git
+## Dia 2: Fundamentos de Controle de Versão com Git
 
 * [Sistemas de Controle de Versão (VCS)](dia-2-controle-de-versao-basico-com-git/sistemas-de-controle-de-versao-vcs/README.md)
   * [VCS Centralizados](dia-2-controle-de-versao-basico-com-git/sistemas-de-controle-de-versao-vcs/vcs-centralizados.md)
@@ -32,30 +32,31 @@
 * [Links Úteis - Dia 2](dia-2-controle-de-versao-basico-com-git/links-uteis-dia-2.md)
 * [🔍 Glossário - Dia 2](dia-2-controle-de-versao-basico-com-git/glossario-dia-2.md)
 
-## Dia 3: Avançando no Git
+## Dia 3: Explorando Operações Locais do Git
 
-* [Salvando Alterações Localmente](dia-3-avancando-no-git/salvando-alteracoes-localmente/README.md)
-  * [git add](dia-3-avancando-no-git/salvando-alteracoes-localmente/git-add.md)
-  * [git status](dia-3-avancando-no-git/salvando-alteracoes-localmente/git-status.md)
-  * [git commit](dia-3-avancando-no-git/salvando-alteracoes-localmente/git-commit.md)
-  * [git log](dia-3-avancando-no-git/salvando-alteracoes-localmente/git-log.md)
-  * [git diff](dia-3-avancando-no-git/salvando-alteracoes-localmente/git-diff.md)
-  * [Unindo os Pontos](dia-3-avancando-no-git/salvando-alteracoes-localmente/unindo-os-pontos.md)
-  * [Exemplo Prático](dia-3-avancando-no-git/salvando-alteracoes-localmente/exemplo-pratico.md)
-* [Trabalhando com Branches](dia-3-avancando-no-git/trabalhando-com-branches/README.md)
-  * [git branch](dia-3-avancando-no-git/trabalhando-com-branches/git-branch.md)
-  * [git switch](dia-3-avancando-no-git/trabalhando-com-branches/git-switch.md)
-  * [git merge](dia-3-avancando-no-git/trabalhando-com-branches/git-merge/README.md)
-    * [Resolvendo Conflitos](dia-3-avancando-no-git/trabalhando-com-branches/git-merge/resolvendo-conflitos.md)
-  * [Resolvendo Conflitos](dia-3-avancando-no-git/trabalhando-com-branches/resolvendo-conflitos.md)
-  * [Unindo os Pontos](dia-3-avancando-no-git/trabalhando-com-branches/unindo-os-pontos.md)
-  * [Exemplo Prático](dia-3-avancando-no-git/trabalhando-com-branches/exemplo-pratico.md)
-* [Desfazendo Alterações Localmente](dia-3-avancando-no-git/desfazendo-alteracoes-localmente.md)
-* [Ignorando e Removendo Arquivos do Rastreamento](dia-3-avancando-no-git/ignorando-e-removendo-arquivos-do-rastreamento/README.md)
-  * [git rm](dia-3-avancando-no-git/ignorando-e-removendo-arquivos-do-rastreamento/git-rm.md)
-  * [.gitignore](dia-3-avancando-no-git/ignorando-e-removendo-arquivos-do-rastreamento/.gitignore.md)
-* [Links Úteis - Dia 3](dia-3-avancando-no-git/links-uteis-dia-3.md)
-* [🔍 Glossário - Dia 3](dia-3-avancando-no-git/glossario-dia-3.md)
+* [Explorando Operações Locais do Git](dia-3-explorando-operacoes-locais-do-git/explorando-operacoes-locais-do-git.md)
+* [Salvando Alterações Localmente](dia-3-explorando-operacoes-locais-do-git/salvando-alteracoes-localmente/README.md)
+  * [git add](dia-3-explorando-operacoes-locais-do-git/salvando-alteracoes-localmente/git-add.md)
+  * [git status](dia-3-explorando-operacoes-locais-do-git/salvando-alteracoes-localmente/git-status.md)
+  * [git commit](dia-3-explorando-operacoes-locais-do-git/salvando-alteracoes-localmente/git-commit.md)
+  * [git log](dia-3-explorando-operacoes-locais-do-git/salvando-alteracoes-localmente/git-log.md)
+  * [git diff](dia-3-explorando-operacoes-locais-do-git/salvando-alteracoes-localmente/git-diff.md)
+  * [Unindo os Pontos](dia-3-explorando-operacoes-locais-do-git/salvando-alteracoes-localmente/unindo-os-pontos.md)
+  * [Exemplo Prático](dia-3-explorando-operacoes-locais-do-git/salvando-alteracoes-localmente/exemplo-pratico.md)
+* [Trabalhando com Branches Localmente](dia-3-explorando-operacoes-locais-do-git/trabalhando-com-branches-localmente/README.md)
+  * [git branch](dia-3-explorando-operacoes-locais-do-git/trabalhando-com-branches-localmente/git-branch.md)
+  * [git switch](dia-3-explorando-operacoes-locais-do-git/trabalhando-com-branches-localmente/git-switch.md)
+  * [git merge](dia-3-explorando-operacoes-locais-do-git/trabalhando-com-branches-localmente/git-merge/README.md)
+    * [Resolvendo Conflitos](dia-3-explorando-operacoes-locais-do-git/trabalhando-com-branches-localmente/git-merge/resolvendo-conflitos.md)
+  * [Resolvendo Conflitos](dia-3-explorando-operacoes-locais-do-git/trabalhando-com-branches-localmente/resolvendo-conflitos.md)
+  * [Unindo os Pontos](dia-3-explorando-operacoes-locais-do-git/trabalhando-com-branches-localmente/unindo-os-pontos.md)
+  * [Exemplo Prático](dia-3-explorando-operacoes-locais-do-git/trabalhando-com-branches-localmente/exemplo-pratico.md)
+* [Desfazendo Alterações Localmente](dia-3-explorando-operacoes-locais-do-git/desfazendo-alteracoes-localmente.md)
+* [Ignorando e Removendo Arquivos do Rastreamento Local](dia-3-explorando-operacoes-locais-do-git/ignorando-e-removendo-arquivos-do-rastreamento-local/README.md)
+  * [git rm](dia-3-explorando-operacoes-locais-do-git/ignorando-e-removendo-arquivos-do-rastreamento-local/git-rm.md)
+  * [.gitignore](dia-3-explorando-operacoes-locais-do-git/ignorando-e-removendo-arquivos-do-rastreamento-local/.gitignore.md)
+* [Links Úteis - Dia 3](dia-3-explorando-operacoes-locais-do-git/links-uteis-dia-3.md)
+* [🔍 Glossário - Dia 3](dia-3-explorando-operacoes-locais-do-git/glossario-dia-3.md)
 
 ## Dia 4: Prazer, GitHub
 
