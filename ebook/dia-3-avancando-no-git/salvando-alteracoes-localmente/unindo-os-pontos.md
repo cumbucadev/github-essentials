@@ -43,10 +43,6 @@ São operações que podem ser executadas a qualquer momento e que auxiliam a en
 * **git log** mostra o histórico de commits do repositório, exibindo detalhes como o autor, a data, a mensagem do commit e o identificador único (hash) do commit. É útil para navegar pelo histórico de commits do projeto e entender as mudanças ao longo do tempo.
 * **git diff** exibe as diferenças entre as alterações feitas nos arquivos em relação ao último commit. É útil para visualizar as mudanças antes de prepará-las para um commit
 
-### Gerenciamento de arquivos ignorados
-
-* **.gitignore** é um arquivo usado pelo Git para determinar quais arquivos e diretórios devem ser ignorados, ou seja, não rastreados pelo Git. Isso é útil para evitar incluir no controle de versão arquivos temporários, arquivos de compilação ou arquivos contendo informações sensíveis.&#x20;
-
 ***
 
 Em seguida, veremos um exemplo prático de como esses comandos funcionam.

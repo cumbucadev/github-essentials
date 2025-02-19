@@ -17,10 +17,10 @@ O formato base do comando `git switch` é:
 ## Exemplos de uso
 
 * Alternar para um branch existente
-  * <mark style="color:purple;">git</mark> <mark style="color:orange;">switch</mark> <mark style="color:green;">feature-x</mark>
-  * Muda para o branch `feature-x`.
+  * <mark style="color:purple;">git</mark> <mark style="color:orange;">switch</mark> <mark style="color:green;">nova-feature</mark>
+  * Muda para o branch `nova-feature`.
 * Criar e alternar para um novo branch:
-  * <mark style="color:purple;">git</mark> <mark style="color:orange;">switch</mark> <mark style="color:blue;">-c</mark> <mark style="color:green;">feature-x</mark>
+  * <mark style="color:purple;">git</mark> <mark style="color:orange;">switch</mark> <mark style="color:blue;">-c</mark> <mark style="color:green;">nova-feature</mark>
   * Cria um novo branch chamado `nova-feature` e muda para ele automaticamente.
 
 ***

@@ -20,7 +20,7 @@ layout:
 
 ### Criação
 
-Desenvolvido em 2005 por [Linus Torvalds](https://pt.wikipedia.org/wiki/Linus\_Torvalds) - o famoso criador do kernel do sistema operacional [Linux](https://pt.wikipedia.org/wiki/Linux\_\(n%C3%BAcleo\)) - o Git nasceu justamente como uma solução para melhorar a colaboração no desenvolvimento de software, especialmente para o kernel do Linux. Antes do Git, o projeto usava outro sistema de controle de versão mas após alguns anos de uso a licença gratuita foi anulada. Ao procurar soluções gratuitas para versionamento de código, Linus percebeu que elas não atendiam às necessidades dos desenvolvedores, especialmente em termos de performance e flexibilidade.&#x20;
+Desenvolvido em 2005 por [Linus Torvalds](https://pt.wikipedia.org/wiki/Linus_Torvalds) - o famoso criador do kernel do sistema operacional [Linux](https://pt.wikipedia.org/wiki/Linux_\(n%C3%BAcleo\)) - o Git nasceu justamente como uma solução para melhorar a colaboração no desenvolvimento de software, especialmente para o kernel do Linux. Antes do Git, o projeto usava outro sistema de controle de versão mas após alguns anos de uso a licença gratuita foi anulada. Ao procurar soluções gratuitas para versionamento de código, Linus percebeu que elas não atendiam às necessidades dos desenvolvedores, especialmente em termos de performance e flexibilidade.&#x20;
 
 ### Definição
 
@@ -28,7 +28,7 @@ O Git é um sistema de controle de versão distribuído (DVCS) **gratuito** e de
 
 Gratuito refere-se ao fato de que o usuário não precisa efetuar nenhum tipo de pagamento para utilizar o software. Já código aberto, significa que:
 
-* O código está disponível para consulta;
+* O código está disponível para consulta pública;
 * Recebe melhorias constantes por meio da colaboração;
 * Pode ser adaptado para necessidades diferentes;
 
@@ -44,7 +44,7 @@ Desde a sua criação, o Git se tornou extremamente popular e é amplamente usad
 
 <figure><img src="../../.gitbook/assets/Empresas e Projetos que utilizam Git (1).png" alt="Ao centro, na parte superior a frase: Empresas e Projetos que utilizam Git. Abaixo as logos, da esquerda para a direita: Google, Microsoft, X (Twitter), LinkedIn, Netflix, Perl, PostgreSQL, Android, Linux, Ruby on Rails, Qt, GNOME, Eclipse, KDE e X.Org."><figcaption><p>Algumas das empresas e projetos que utilizam o Git para versionar seus códigos.</p></figcaption></figure>
 
-### &#x20;:bulb: Porquê Aprender Git?
+### &#x20;:bulb: Por que Aprender Git?
 
 * **Colaboração Efetiva:** o Git permite uma colaboração organizada em projetos de software. Cada desenvolvedor pode trabalhar em diferentes partes do projeto sem se preocupar com conflitos, graças aos branches e merges.&#x20;
 * **Rastreamento de Mudanças:** O Git mantém um histórico completo de todas as alterações feitas no projeto. Isso permite que desenvolvedores revertam mudanças, identifiquem problemas e entendam a evolução do software. A possibilidade de reverter mudanças e corrigir erros facilmente aumenta a **confiança** ao trabalhar em projetos complexos.
