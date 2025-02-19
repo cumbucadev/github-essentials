@@ -44,5 +44,5 @@ O comando <mark style="color:purple;">git</mark> <mark style="color:orange;">add
 Portanto, <mark style="color:purple;">git</mark> <mark style="color:orange;">add</mark> é uma etapa intermediária que permite que você **revise** e **selecione** as mudanças antes de salvá-las permanentemente no repositório.
 
 {% hint style="warning" %}
-Esta é uma explicação simplificada para fins didáticos. Para explorar todas as possibilidades do comando <mark style="color:purple;">`git`</mark><mark style="color:orange;">`add`</mark>, consulte a [documentação oficial](https://git-scm.com/docs/git-add/pt\_BR).
+Esta é uma explicação simplificada para fins didáticos. Para explorar todas as possibilidades do comando <mark style="color:purple;">`git`</mark><mark style="color:orange;">`add`</mark>, consulte a [documentação oficial](https://git-scm.com/docs/git-add/pt_BR).
 {% endhint %}

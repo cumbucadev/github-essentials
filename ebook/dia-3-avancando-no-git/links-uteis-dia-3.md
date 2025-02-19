@@ -6,6 +6,8 @@ description: >-
 
 # Links Úteis - Dia 3
 
+{% embed url="https://www.atlassian.com/br/git/tutorials/using-branches/merge-conflicts" %}
+
 {% embed url="https://www.atlassian.com/br/git/tutorials" %}
 
 {% embed url="https://git-scm.com/docs" %}

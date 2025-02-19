@@ -1,2 +1,0 @@
-# Resolvendo Conflitos
-

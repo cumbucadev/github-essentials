@@ -25,8 +25,7 @@ Os comandos: <mark style="color:purple;">git</mark> <mark style="color:orange;">
     * **Committed:** Tracked e sem mudanças - salvo.
     * **Modified:** Tracked e com mudanças.
     * **Staged:** Tracked, com mudanças prontas para commit.
-* **untracked**  (não rastreado): um arquivo que não foi preparado nem confirmado; ou
-* **ignored** (ignorado): um arquivo que o Git foi forçado a ignorar.
+* **untracked**  (não rastreado): um arquivo que não foi preparado nem confirmado.
 
 ### Fazendo Alterações
 
