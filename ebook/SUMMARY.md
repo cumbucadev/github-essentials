@@ -9,7 +9,7 @@
 * [Mapa do Curso](dia-1-introducao/mapa-do-curso.md)
 * [🔍 Glossário - Dia 1](dia-1-introducao/glossario-dia-1.md)
 
-## Dia 2: Controle de Versão Básico com Git
+## Dia 2: Fundamentos de Controle de Versão e Git
 
 * [Sistemas de Controle de Versão (VCS)](dia-2-controle-de-versao-basico-com-git/sistemas-de-controle-de-versao-vcs/README.md)
   * [VCS Centralizados](dia-2-controle-de-versao-basico-com-git/sistemas-de-controle-de-versao-vcs/vcs-centralizados.md)
