@@ -1,11 +1,11 @@
-# Antes do Commit
+# Desfazendo Alterações Antes do Commit
 
 Durante o desenvolvimento, é comum modificar arquivos e depois perceber que deseja desfazer essas mudanças antes de realizar um commit. O Git oferece diferentes maneiras de lidar com essa situação, dependendo do estado dos arquivos. Vamos aqui focar em dois possíveis cenários:
 
 * Desfazer alterações que ainda não foram adicionados à área de staging
 * Remover arquivos da área de staging
 
-### Desfazer Alterações Não Adicionadas à Área de Staging
+## Desfazer Alterações Não Adicionadas à Área de Staging
 
 Se um arquivo foi editado, mas ainda não foi adicionado ao staging com <mark style="color:orange;">git</mark> <mark style="color:purple;">add</mark>, você pode simplesmente descartar as alterações com:
 
@@ -13,7 +13,7 @@ Se um arquivo foi editado, mas ainda não foi adicionado ao staging com <mark st
 
 Isso reverterá o arquivo para o último estado salvo no repositório.
 
-### Remover Arquivos da Área de Staging
+## Remover Arquivos da Área de Staging
 
 Se você já adicionou o arquivo ao staging com <mark style="color:orange;">git</mark> <mark style="color:purple;">add</mark>, mas deseja remover as mudanças antes do commit, use:
 

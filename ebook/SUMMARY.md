@@ -51,7 +51,7 @@
   * [Unindo os Pontos](dia-3-avancando-no-git/trabalhando-com-branches/unindo-os-pontos.md)
   * [Exemplo Prático](dia-3-avancando-no-git/trabalhando-com-branches/exemplo-pratico.md)
 * [Desfazendo Alterações Localmente](dia-3-explorando-operacoes-locais-do-git/desfazendo-alteracoes-localmente/README.md)
-  * [Antes do Commit](dia-3-explorando-operacoes-locais-do-git/desfazendo-alteracoes-localmente/antes-do-commit.md)
+  * [Desfazendo Alterações Antes do Commit](dia-3-explorando-operacoes-locais-do-git/desfazendo-alteracoes-localmente/desfazendo-alteracoes-antes-do-commit.md)
   * [Desfazendo Commits](dia-3-explorando-operacoes-locais-do-git/desfazendo-alteracoes-localmente/desfazendo-commits.md)
   * [Alterando o Último Commit](dia-3-explorando-operacoes-locais-do-git/desfazendo-alteracoes-localmente/alterando-o-ultimo-commit.md)
   * [Unindo os Pontos](dia-3-explorando-operacoes-locais-do-git/desfazendo-alteracoes-localmente/unindo-os-pontos.md)
