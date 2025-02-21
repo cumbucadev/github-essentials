@@ -12,3 +12,17 @@
 
 ## Alterando o Último Commit
 
+* **Corrigir a mensagem do último commit:**\
+  `git commit --amend -m "Nova mensagem do commit"`
+*   **Adicionar arquivos esquecidos ao último commit:**
+
+    ```bash
+    git add arquivo_esquecido.txt  
+    git commit --amend --no-edit  
+    ```
+*   **Modificar o último commit (adicionar arquivos e alterar a mensagem):**
+
+    ```bash
+    git add arquivo_esquecido.txt  
+    git commit --amend -m "Nova mensagem com arquivos adicionados"  
+    ```

@@ -6,6 +6,8 @@
 * [Desfazendo Commits](exemplos-praticos.md#desfazendo-commits)
   * [Exemplo 3. Reverter um Commit Específico](exemplos-praticos.md#exemplo-3.-reverter-um-commit-especifico)
   * [Exemplo 4. Desfazendo os Dois Últimos Commits](exemplos-praticos.md#exemplo-4.-desfazendo-os-dois-ultimos-commits)
+* [Alterando o Último Commit](exemplos-praticos.md#alterando-o-ultimo-commit)
+  * [Exemplo 5. Modificar o Último Commit](exemplos-praticos.md#exemplo-5.-modificar-o-ultimo-commit)
 
 ## **Antes do Commit**
 
@@ -433,3 +435,122 @@ O <mark style="color:purple;">git</mark> <mark style="color:orange;">diff</mark>
 A saída mostra que as linhas "Mudança 2" e "Mudança 3" foram adicionadas (`+` indica adição). Isso confirma que, apesar de os commits terem sido removidos do histórico, as alterações continuam armazenadas e podem ser reaproveitadas em um novo commit, editadas ou descartadas conforme necessário.
 
 Resumindo, os commits foram apagados, mas as mudanças feitas neles continuam disponíveis para serem reutilizadas.
+
+## Alterando o Último Commit
+
+### Exemplo 5. Modificar o Último Commit
+
+#### Passo 1: Criar um repositório e entrar nele
+
+```sh
+git init mais-um-repo
+cd mais-um-repo
+```
+
+#### Passo 2: Fazer o commit de um arquivo novo
+
+🔹 **Linux/macOS**
+
+```sh
+echo "Meu texto maneiro" > texto.txt
+git add texto.txt
+git commit -m "Adicionando texto.txt"
+```
+
+🔹 **Windows (CMD/PowerShell)**
+
+```sh
+echo Meu texto maneiro > texto.txt
+git add texto.txt
+git commit -m "Adicionando texto.txt"
+```
+
+#### **Passo 3:** Verificar o histórico de commits
+
+```sh
+git log
+```
+
+```sh
+commit 4adbb23d9c7cbdc548e0cf87fd3385c4c3b83f86 (HEAD -> main)
+Author: Cumbuca Dev <cumbucadev@gmail.com>
+Date:   Fri Feb 21 09:29:00 2025 -0300
+
+    Adicionando texto.txt
+```
+
+#### **Passo 4: Criar outro arquivo e esquecê-lo no commit**
+
+Agora, criamos outro arquivo, mas esquecemos de adicioná-lo no commit anterior.
+
+🔹 **Linux/macOS**
+
+```sh
+echo "Conteúdo importante" > esquecido.txt
+```
+
+🔹 **Windows (CMD/PowerShell)**
+
+```sh
+echo Conteúdo importante > esquecido.txt
+```
+
+#### **Passo 4: Adicionar o novo arquivo e modificar o último commit**
+
+Agora, adicionamos o novo arquivo e modificamos o último commit para incluí-lo.
+
+```sh
+git add esquecido.txt
+git commit --amend -m "Adicionando texto.txt e arquivo esquecido"
+```
+
+Saída esperada (algo como):
+
+```sh
+[main 15b10cf] Adicionando texto.txt e arquivo esquecido
+ Date: Fri Feb 21 09:29:00 2025 -0300
+ 2 files changed, 2 insertions(+)
+ create mode 100644 esquecido.txt
+ create mode 100644 texto.txt
+```
+
+**Passo 5: Verificar o histórico de commits**
+
+Para confirmar que a mensagem foi alterada e o novo arquivo foi incluído no commit, execute:
+
+```sh
+git log
+```
+
+Saída esperada (algo como):
+
+```sh
+commit 15b10cf054dbe24a8fc00422d82304b2528b3acb (HEAD -> main)
+Author: Cumbuca Dev <cumbucadev@gmail.com>
+Date:   Fri Feb 21 09:29:00 2025 -0300
+
+    Adicionando texto.txt e arquivo esquecido
+```
+
+#### **Passo 6: Verificar os arquivos no commit**
+
+Podemos verificar quais arquivos estão incluídos no commit alterado com o seguinte comando:
+
+```sh
+git show --name-only
+```
+
+Saída esperada:
+
+```sh
+ccommit 15b10cf054dbe24a8fc00422d82304b2528b3acb (HEAD -> main)
+Author: Cumbuca Dev <cumbucadev@gmail.com>
+Date:   Fri Feb 21 09:29:00 2025 -0300
+
+    Adicionando texto.txt e arquivo esquecido
+
+esquecido.txt
+texto.txt
+```
+
+Agora o commit foi modificado para incluir o arquivo esquecido e tem uma mensagem atualizada.
