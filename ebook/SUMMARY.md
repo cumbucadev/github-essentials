@@ -57,8 +57,8 @@
   * [Unindo os Pontos](dia-3-explorando-operacoes-locais-do-git/desfazendo-alteracoes-localmente/unindo-os-pontos.md)
   * [Exemplos Práticos](dia-3-explorando-operacoes-locais-do-git/desfazendo-alteracoes-localmente/exemplos-praticos.md)
 * [Ignorando e Removendo Arquivos do Rastreamento Local](dia-3-avancando-no-git/ignorando-e-removendo-arquivos-do-rastreamento/README.md)
-  * [git rm](dia-3-avancando-no-git/ignorando-e-removendo-arquivos-do-rastreamento/git-rm.md)
   * [.gitignore](dia-3-avancando-no-git/ignorando-e-removendo-arquivos-do-rastreamento/.gitignore.md)
+  * [git rm](dia-3-avancando-no-git/ignorando-e-removendo-arquivos-do-rastreamento/git-rm.md)
 * [Links Úteis - Dia 3](dia-3-avancando-no-git/links-uteis-dia-3.md)
 * [🔍 Glossário - Dia 3](dia-3-avancando-no-git/glossario-dia-3.md)
 
