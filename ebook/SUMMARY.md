@@ -112,7 +112,7 @@
 
 ## DIA 8: Minha primeira issue
 
-* [Issues no GitHub](dia-8-minha-primeira-issue/issues-no-github.md)
+* [GitHub Issues](dia-8-minha-primeira-issue/github-issues.md)
 * [Criando a minha primeira issue](dia-8-minha-primeira-issue/criando-a-minha-primeira-issue/README.md)
   * [Título](dia-8-minha-primeira-issue/criando-a-minha-primeira-issue/titulo.md)
   * [Descrição](dia-8-minha-primeira-issue/criando-a-minha-primeira-issue/descricao.md)

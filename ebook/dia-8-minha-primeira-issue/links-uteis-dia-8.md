@@ -6,3 +6,8 @@ description: >-
 
 # Links Úteis - Dia 8
 
+{% embed url="https://docs.github.com/pt/issues" %}
+
+{% embed url="https://docs.github.com/pt/issues/tracking-your-work-with-issues/using-issues/creating-an-issue" %}
+
+{% embed url="https://learn.microsoft.com/pt-pt/training/modules/contribute-open-source/2-identify" %}
