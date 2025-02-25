@@ -2,7 +2,7 @@
 
 ## Desfazendo Alterações Antes do Commit
 
-* **`git restore <arquivo>`**: Este comando é usado para desfazer as mudanças feitas em um arquivo que ainda não foi comprometido. Ele **restaura o arquivo** para o estado que está no último commit ou na área de staging, descartando as modificações feitas.
+* **`git restore <arquivo>`**: Este comando é usado para desfazer as mudanças feitas em um arquivo que ainda não foi comprometido. Ele **restaura o arquivo** para o estado que estava no último commit ou na área de staging, descartando as modificações feitas.
 * **`git reset HEAD <arquivo>`**: Este comando remove um arquivo da área de staging, mas **não o apaga do seu diretório de trabalho**. O arquivo permanece no seu diretório, mas não será incluído no próximo commit.
 
 ## Desfazendo Commits
@@ -12,8 +12,11 @@
 
 ## Alterando o Último Commit
 
-* **Corrigir a mensagem do último commit:**\
-  `git commit --amend -m "Nova mensagem do commit"`
+*   **Corrigir a mensagem do último commit:**
+
+    ```sh
+    git commit --amend -m "Nova mensagem do commit"
+    ```
 *   **Adicionar arquivos esquecidos ao último commit:**
 
     ```bash

@@ -12,13 +12,13 @@ mkdir meu-repo
 
 Confira que a pasta foi criada com sucesso. A pasta `meu-repo` deve estar listada no resultado do comando.
 
-**Linux/macOS**
+**🔹 Linux/macOS**
 
 ```sh
 ls -la
 ```
 
-**Windows**
+**🔹 Windows (CMD/PowerShell)**
 
 ```powershell
 dir /a
@@ -39,13 +39,13 @@ git init
 
 Confira que a pasta oculta `.git` foi criada. A pasta `.git` deve estar listada no resultado do comando.
 
-**Linux/macOS**
+**🔹 Linux/macOS**
 
 ```sh
 ls -la
 ```
 
-**Windows**
+🔹 Windows (CMD/PowerShell)
 
 ```powershell
 dir /a
@@ -91,13 +91,13 @@ echo cumbuca > arquivo.txt
 
 Liste os arquivos na sua pasta novamente. O arquivo `arquivo.txt` deve estar listada no resultado do comando.
 
-**Linux/macOS**
+**🔹 Linux/macOS**
 
 ```sh
 ls -la
 ```
 
-**Windows**
+**🔹 Windows (CMD/PowerShell)**
 
 ```powershell
 dir /a
@@ -105,16 +105,16 @@ dir /a
 
 Verifique o conteúdo do arquivo. O resultado deve ser `cumbuca`.
 
-**Linux/macOS**
+**🔹 Linux/macOS**
 
 ```sh
 cat arquivo.txt
 ▶ cumbuca
 ```
 
-**Windows**
+**🔹 Windows (CMD/PowerShell)**
 
-```powershell
+```shell
 type arquivo.txt
 ▶ cumbuca
 ```
@@ -218,12 +218,12 @@ Agora, o seu primeiro commit no repositório já está sendo listado.
 Adicione uma nova linha ao final do arquivo `arquivo.txt` contendo a frase "dev". Você pode fazer isso via comando de terminal ou via um editor de texto. Este é o comando para criar via terminal
 
 ```sh
-echo "dev" >> arquivo.txt
+echo dev >> arquivo.txt
 ```
 
 Verifique o conteúdo do arquivo. O resultado deve ser um texto contendo `cumbuca` na primeira linha e `dev` na segunda.
 
-**Linux/macOS**
+**🔹 Linux/macOS**
 
 ```sh
 cat arquivo.txt
@@ -231,9 +231,9 @@ cat arquivo.txt
 dev
 ```
 
-**Windows**
+**🔹 Windows (CMD/PowerShell)**
 
-```powershell
+```sh
 type arquivo.txt
 ▶ cumbuca
 dev

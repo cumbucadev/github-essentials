@@ -24,7 +24,7 @@ echo "Versão inicial do arquivo 3" > arquivo3.txt
 
 #### 🔹 Windows (CMD/PowerShell)
 
-```powershell
+```sh
 git init merge-exemplo
 cd merge-exemplo
 echo Versão inicial do arquivo 1 > arquivo1.txt
@@ -59,7 +59,7 @@ echo "Nova linha no arquivo 3" >> arquivo3.txt
 
 #### 🔹 Windows (CMD/PowerShell)
 
-```cmd
+```sh
 echo Alteração no branch nova-feature > arquivo1.txt
 echo Alteração no branch nova-feature > arquivo2.txt
 echo Nova linha no arquivo 3 >> arquivo3.txt
@@ -91,7 +91,7 @@ echo "Alteração no branch main" > arquivo2.txt
 
 #### 🔹 Windows (CMD/PowerShell)
 
-```cmd
+```sh
 echo Alteração no branch main > arquivo1.txt
 echo Alteração no branch main > arquivo2.txt
 ```
@@ -113,7 +113,7 @@ git merge nova-feature
 
 O Git responderá com um erro porque há conflitos:
 
-```
+```sh
 Auto-merging arquivo3.txt
 Merge made by the 'recursive' strategy.
 Auto-merging arquivo1.txt
@@ -289,18 +289,16 @@ Agora o merge está concluído! 🚀
 Rode:
 
 ```sh
-git log --oneline --graph
+git log --oneline
 ```
 
 Saída esperada:
 
 ```
-*   abc1234 Merge branch 'nova-feature'
-|\
-| * def5678 Modificações no branch nova-feature
-* | ghi9012 Modificações no branch main
-|/
-* jkl3456 Commit inicial com três arquivos
+abc1234 Merge branch 'nova-feature'
+def5678 Modificações no branch nova-feature
+ghi9012 Modificações no branch main
+jkl3456 Commit inicial com três arquivos
 ```
 
 O commit `abc1234` representa o merge e contém:

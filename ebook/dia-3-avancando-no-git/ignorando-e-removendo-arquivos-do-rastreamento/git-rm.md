@@ -32,7 +32,7 @@ Após isso, adicione o arquivo ao `.gitignore` para evitar que ele seja rastread
 
 Se precisar remover um diretório inteiro e todos os seus arquivos, use a opção `-r`:
 
-> <mark style="color:purple;">git</mark> <mark style="color:orange;">rm</mark> <mark style="color:green;">pasta/</mark>
+> <mark style="color:purple;">git</mark> <mark style="color:orange;">rm</mark> <mark style="color:blue;">-r</mark> <mark style="color:green;">pasta/</mark>
 
 O diretório e todos os arquivos dentro dele serão apagados do seu computador. Use <mark style="color:blue;">--cached</mark> para manter os arquivos no diretório local.
 

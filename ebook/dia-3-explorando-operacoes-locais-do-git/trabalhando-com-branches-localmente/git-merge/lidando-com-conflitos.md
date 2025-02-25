@@ -60,8 +60,8 @@ Você precisará comitar ou descartar as suas mudanças locais para ter sucesso 
 Este é o caso descrito na seção anterior. Quando não há conflito, o Git consegue realizar o merge automaticamente e já cria um commit para você. Esse commit de merge é criado automaticamente, sem a necessidade de intervenção manual. A mensagem exibida será algo assim:
 
 ```bash
-$ git merge nova-feature
-Updating a1b2c3d..d4e5f6g
+git merge nova-feature
+▶ Updating a1b2c3d..d4e5f6g
 Fast-forward
  file1.txt |  2 +-
  file2.txt |  8 +++++---
@@ -72,14 +72,12 @@ Isso indica que o Git realizou um **merge**, onde as mudanças foram integradas 
 
 Ao verificar o histórico de commits, você verá o merge registrado.
 
-```
-$ git log --oneline --graph
-*   d4e5f6g Merge branch 'nova-feature'
-|\  
-| * b2c3d4e Adiciona funcionalidade X
-| * a1b2c3d Corrige bug na tela de login
-|/
-*   z1x2c3v Versão anterior do projeto
+```sh
+git log --oneline
+▶ d4e5f6g Merge branch 'nova-feature'
+b2c3d4e Adiciona funcionalidade X
+a1b2c3d Corrige bug na tela de login
+z1x2c3v Versão anterior do projeto
 ```
 
 ## Merge com Conflito
@@ -88,9 +86,9 @@ Quando um ou mais conflitos ocorrem durante o merge, o Git não pode decidir aut
 
 O Git interrompe o processo de merge e solicita que você edite os arquivos conflitantes. Você verá uma mensagem como essa:
 
-```bash
-$ git merge nova-feature
-Auto-merging arquivo1.txt
+```sh
+git merge nova-feature
+▶ Auto-merging arquivo1.txt
 CONFLICT (content): Merge conflict in arquivo1.txt.txt
 Auto-merging arquivo2.txt
 CONFLICT (content): Merge conflict in arquivo2.txt
@@ -109,7 +107,7 @@ Diante deste cenário, você possui duas opção de como prosseguir:
 Se você deseja cancelar o merge completamente e voltar ao estado anterior, use o comando:
 
 ```bash
-$ git merge --abort
+git merge --abort
 ```
 
 Esse comando desfaz todas as mudanças feitas durante o merge e retorna o repositório ao estado anterior à tentativa de mesclagem.
@@ -142,13 +140,13 @@ Após editar o arquivo, remova os marcadores (`<<<<<<<`, `=======`, `>>>>>>>`) e
 Ao resolver o conflito, use o comando <mark style="color:purple;">git</mark> <mark style="color:orange;">add</mark> para informar ao Git que o conflito foi resolvido em cada um dos arquivos:
 
 ```bash
-$ git add arquivo1.txt arquivo2.txt
+git add arquivo1.txt arquivo2.txt
 ```
 
 Ao resolver todos os conflitos, você pode finalizar a mesclagem realizando o commit de merge:
 
 ```bash
-$ git commit -m "Merge branch 'nova-feature'"
+git commit -m "Merge branch 'nova-feature'"
 ```
 
 Este commit irá incluir **todas** as mudanças do merge—tanto as resolvidas manualmente quanto as mescladas automaticamente.

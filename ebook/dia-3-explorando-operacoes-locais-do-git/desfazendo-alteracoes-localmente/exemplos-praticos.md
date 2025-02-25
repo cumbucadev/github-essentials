@@ -182,7 +182,7 @@ git commit -m "Alteração 3 no arquivo"
 
 🔹 **Windows (CMD/PowerShell)**
 
-```powershell
+```sh
 echo Alteração 1 >> arquivo.txt
 git add arquivo.txt
 git commit -m "Alteração 1 no arquivo"
