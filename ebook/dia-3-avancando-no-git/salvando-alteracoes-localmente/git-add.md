@@ -39,6 +39,10 @@ O formato base do comando <mark style="color:purple;">git</mark> <mark style="co
   * <mark style="color:purple;">git</mark> <mark style="color:orange;">add</mark> <mark style="color:green;">.</mark>
   * Prepara todas as mudanças feitas em todos os arquivos do diretório atual e seus subdiretórios para o próximo commit.
 
+{% hint style="danger" %}
+**Importante:** Um erro muito comum entre iniciantes é usar o comando <mark style="color:purple;">git</mark> <mark style="color:orange;">add</mark> <mark style="color:green;">.</mark> sem revisar as mudanças, o que pode levar a adicionar e comitando arquivos indesejados. Prefira adicionar arquivos individualmente (<mark style="color:purple;">git</mark> <mark style="color:orange;">add</mark> <mark style="color:green;">arquivo</mark>) para ter mais controle sobre o que está sendo versionado.
+{% endhint %}
+
 O comando <mark style="color:purple;">git</mark> <mark style="color:orange;">add</mark> não altera o repositório de maneira significativa; ele apenas move as mudanças para a área de preparação (_staging area_). Isso informa ao Git que você deseja incluir essas alterações no próximo commit. No entanto, as mudanças não são realmente registradas no repositório até que você execute o comando <mark style="color:purple;">git</mark> <mark style="color:orange;">commit</mark>.&#x20;
 
 Portanto, <mark style="color:purple;">git</mark> <mark style="color:orange;">add</mark> é uma etapa intermediária que permite que você **revise** e **selecione** as mudanças antes de salvá-las permanentemente no repositório.

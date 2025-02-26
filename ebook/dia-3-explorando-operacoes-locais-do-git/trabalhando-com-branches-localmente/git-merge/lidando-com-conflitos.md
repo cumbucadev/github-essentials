@@ -89,7 +89,7 @@ O Git interrompe o processo de merge e solicita que você edite os arquivos conf
 ```sh
 git merge nova-feature
 ▶ Auto-merging arquivo1.txt
-CONFLICT (content): Merge conflict in arquivo1.txt.txt
+CONFLICT (content): Merge conflict in arquivo1.txt
 Auto-merging arquivo2.txt
 CONFLICT (content): Merge conflict in arquivo2.txt
 Automatic merge failed; fix conflicts and then commit the result.
@@ -118,7 +118,16 @@ O outro cenário possível é quando você deseja seguir em frente com o merge e
 
 Ao executar <mark style="color:purple;">git</mark> <mark style="color:orange;">status</mark> você poderá consultar novamente quais os arquivos que possuem conflitos.
 
-\*colocar um exeplo de git status aqui
+```sh
+On branch main
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+	both modified:   arquivo1.txt
+	both modified:   arquivo2.txt
+```
 
 Após identificar os arquivos com conflitos, você deve abri-los no seu editor de texto. O Git terá adicionado marcadores especiais para apontar as partes conflitantes do código, desta forma:
 
