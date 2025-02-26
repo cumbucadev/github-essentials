@@ -117,7 +117,7 @@ No repositório hello-world, clique na aba **Issues**. Em seguida, clique no bot
 
 Preencha o campo título com: "Adicionar imagem de saudação ao README.md".
 
-<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption><p>Título da issue</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption><p>Título da issue</p></figcaption></figure>
 
 #### **3. Preenchendo a descrição**
 
@@ -156,13 +156,15 @@ Para mais informações sobre como usar a sintaxe de Markdown para imagens, cons
 O arquivo `README.md` terá um toque mais acolhedor com uma saudação visual que pode engajar novos contribuidores ou visitantes do repositório.
 ````
 
-<figure><img src="../../.gitbook/assets/41- Descrição Issue.png" alt=""><figcaption><p>Descrição da issue</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/41- Descrição Issue.png" alt=""><figcaption><p>Descrição da issue</p></figcaption></figure>
 
 #### **4. Salvar a issue**
 
 Clique no botão "Create" para salvar a issue.
 
-<figure><img src="../../.gitbook/assets/42 Create Issue.png" alt=""><figcaption><p>Criar issue</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/42 Create Issue.png" alt=""><figcaption><p>Criar issue</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/43- Issue criada (1).png" alt=""><figcaption><p>Issue "Adicionar imagem de saudação ao README.md"</p></figcaption></figure>
 
 ## Permissões: Quem Pode Criar Issues?
 

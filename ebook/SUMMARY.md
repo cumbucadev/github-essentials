@@ -113,12 +113,12 @@
 ## DIA 8: Minha primeira issue
 
 * [GitHub Issues](dia-8-minha-primeira-issue/issues-no-github.md)
-* [Criando uma Issue no GitHub](dia-8-minha-primeira-issue/criando-uma-issue-no-github/README.md)
-  * [Assignees](dia-8-minha-primeira-issue/criando-uma-issue-no-github/assignees.md)
-  * [Labels](dia-8-minha-primeira-issue/criando-uma-issue-no-github/labels.md)
-* [Página de uma Issue](dia-8-minha-primeira-issue/pagina-de-uma-issue.md)
+* [Criando uma Issue no GitHub](dia-8-minha-primeira-issue/criando-uma-issue-no-github.md)
+* [Página da Issue](dia-8-minha-primeira-issue/pagina-da-issue.md)
+* [Atribuição de Issue](dia-8-minha-primeira-issue/atribuicao-de-issue.md)
+* [Labels](dia-8-minha-primeira-issue/labels/README.md)
+  * [Gerenciando Labels](dia-8-minha-primeira-issue/labels/gerenciando-labels.md)
 * [Aba Issues](dia-8-minha-primeira-issue/aba-issues.md)
-* [Gerenciando Labels](dia-8-minha-primeira-issue/gerenciando-labels.md)
 * [Issues no Mundo Real](dia-8-minha-primeira-issue/issues-no-mundo-real.md)
 * [Links Úteis - Dia 8](dia-8-minha-primeira-issue/links-uteis-dia-8.md)
 * [🔍 Glossário - Dia 8](dia-8-minha-primeira-issue/glossario-dia-8.md)
