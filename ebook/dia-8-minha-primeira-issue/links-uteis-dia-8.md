@@ -10,4 +10,6 @@ description: >-
 
 {% embed url="https://docs.github.com/pt/issues/tracking-your-work-with-issues/using-issues/creating-an-issue" %}
 
+{% embed url="https://docs.github.com/pt/issues/tracking-your-work-with-issues/using-issues/assigning-issues-and-pull-requests-to-other-github-users" %}
+
 {% embed url="https://learn.microsoft.com/pt-pt/training/modules/contribute-open-source/2-identify" %}
