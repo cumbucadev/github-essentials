@@ -12,4 +12,6 @@ description: >-
 
 {% embed url="https://docs.github.com/pt/issues/tracking-your-work-with-issues/using-issues/assigning-issues-and-pull-requests-to-other-github-users" %}
 
+{% embed url="https://docs.github.com/pt/issues/using-labels-and-milestones-to-track-work/managing-labels" %}
+
 {% embed url="https://learn.microsoft.com/pt-pt/training/modules/contribute-open-source/2-identify" %}

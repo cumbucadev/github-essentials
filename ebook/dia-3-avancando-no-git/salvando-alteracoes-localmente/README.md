@@ -28,7 +28,7 @@ No Git, o termo "salvar", em geral, é chamado de "commit". Fazer um commit é c
 
 Então, sempre que você ouvir "commit" no Git, pense nisso como um "salvar" mais poderoso e abrangente, que acompanha um grupo de arquivos e suas alterações, em vez de apenas um único arquivo.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><a href="https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F">https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><a href="https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F">https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F</a></p></figcaption></figure>
 
 ## Rastrear um Arquivo
 

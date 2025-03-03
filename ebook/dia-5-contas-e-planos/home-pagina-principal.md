@@ -76,11 +76,11 @@ Redireciona você para a Página de Notificações. Esta página exibe notifica�
 
 Ao clicar na sua foto de perfil, abrirá uma barra contendo opções de navegação para o seu perfil, seus repositórios, definições, e outras configurações de conta.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt="Foto de perfil do usuário Cumbuca Dev Aprendiz." width="120"><figcaption><p>Foto de perfil do <br>usuário <br>Cumbuca Dev <br>Aprendiz</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt="Foto de perfil do usuário Cumbuca Dev Aprendiz." width="120"><figcaption><p>Foto de perfil do <br>usuário <br>Cumbuca Dev <br>Aprendiz</p></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt="Menu expandido das configurações do perfil"><figcaption><p>Menu expandido das configurações do perfil</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt="Menu expandido das configurações do perfil"><figcaption><p>Menu expandido das configurações do perfil</p></figcaption></figure>
 
 > Iremos falar um pouco mais sobre a página de configurações (Settings) logo mais adiante:
 
@@ -104,7 +104,7 @@ O **Feed de Atividades** é a área principal e central da tela. Ele mostra atua
 
 Se você for uma pessoa nova na plataforma, verá dicas do GitHub para ajudar em seus primeiros passos:
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt="Dicas do GitHub no Feed de Atividades mostrando sugestões para iniciantes"><figcaption><p>Dicas do GitHub no feed de atividades</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt="Dicas do GitHub no Feed de Atividades mostrando sugestões para iniciantes"><figcaption><p>Dicas do GitHub no feed de atividades</p></figcaption></figure>
 
 Caso você já tenha interagido um pouco com a sua conta, essa seção irá incluir:
 
