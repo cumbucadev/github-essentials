@@ -6,7 +6,15 @@ description: >-
 
 # Links Úteis - Dia 5
 
+{% embed url="https://github.com/features" %}
 
+{% embed url="https://www.zup.com.br/blog/git-github-e-gitlab" %}
+
+{% embed url="https://docs.github.com/pt/get-started/using-git/about-git" %}
+
+{% embed url="https://docs.github.com/pt/get-started/start-your-journey/about-github-and-git" %}
+
+{% embed url="https://www.treinaweb.com.br/blog/as-principais-plataformas-para-armazenamento-de-codigo-fonte" %}
 
 {% embed url="https://learn.microsoft.com/pt-br/training/modules/github-introduction-products/2-what-are-github-products" %}
 
