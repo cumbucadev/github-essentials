@@ -17,3 +17,11 @@ Acesse o repositório [https://github.com/brazilian-utils/brutils-python](https:
 * **Explorar interações nas issues**: Clique em uma issue e observe como a conversa se desenvolve, desde a descrição inicial até as soluções propostas.
 
 Explorar issues reais ajuda a entender boas práticas de comunicação e gerenciamento dentro de projetos open source, além de preparar você para contribuir mais no futuro!
+
+## Próximos Passos
+
+Neste capítulo, você criou a _issue_ **"Adicionar imagem de saudação ao README.md"** para melhorar a documentação do seu repositório `hello-world`. Sabemos que você já sabe resolver essa tarefa da forma explicada anteriormente, realizando commits diretamente na branch `main` pela interface do GitHub. No entanto, esse fluxo não é recomendado quando se trabalha com outras pessoas ou mesmo em projetos individuais que não sejam apenas didáticos.
+
+Por isso, queremos apresentar um fluxo de trabalho mais seguro e profissional, amplamente adotado tanto em projetos _open source_ quanto em empresas. Esse ou um fluxo muito parecido será o que você encontrará ao contribuir para repositórios reais. Além disso, ele ajuda a manter o histórico de mudanças organizado, facilita a revisão de código e reduz o risco de erros que podem impactar a versão principal do projeto.
+
+Para implementar esse fluxo, primeiramente precisamos aprofundar um pouco mais o conhecimento em Git, explorando como desenvolver em um repositório remoto — no caso, o seu `hello-world` — e não apenas no ambiente local como vimos até aqui nos capítulos 2, 3 e 4.
