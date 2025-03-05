@@ -125,6 +125,7 @@
 
 ## DIA 9: Git Remoto
 
+* [Explorando Operações Remotas do Git](dia-9-git-remoto/explorando-operacoes-remotas-do-git.md)
 * [Interagindo com o Repositório Central](dia-9-git-remoto/interagindo-com-o-repositorio-central/README.md)
   * [git clone](dia-9-git-remoto/interagindo-com-o-repositorio-central/git-clone.md)
   * [git fetch](dia-9-git-remoto/interagindo-com-o-repositorio-central/git-fetch.md)
