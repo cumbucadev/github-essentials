@@ -4,7 +4,7 @@ Neste capítulo, vamos aprender sobre as operações remotas do Git, ampliando o
 
 ## Local vs Remoto
 
-Enquanto as operações locais afetam apenas o repositório no seu computador (como `git commit` ou `git branch`), as operações remotas envolvem repositórios que estão em um servidor na internet. A grande diferença é que, com as remotas, você pode compartilhar seu trabalho com outras pessoas ou acessar o trabalho de outras de forma simples e segura.
+Enquanto as operações locais afetam apenas o repositório no seu computador (como <mark style="color:purple;">git</mark> <mark style="color:orange;">commit</mark> ou <mark style="color:purple;">git</mark> <mark style="color:orange;">branch</mark>), as operações remotas envolvem repositórios que estão em um servidor na internet. A grande diferença é que, com as remotas, você pode compartilhar seu trabalho com outras pessoas ou acessar o trabalho de outras de forma simples e segura.
 
 ## Por que isso é importante para você?
 
@@ -12,4 +12,4 @@ Entender como usar as operações remotas é fundamental, seja para colaborar co
 
 ***
 
-Neste capítulo, vamos explorar as principais operações remotas do Git: `git clone`, `git fetch`, `git push`e `git pull`.
+Neste capítulo, vamos explorar as principais operações remotas do Git: <mark style="color:purple;">git</mark> <mark style="color:orange;">clone</mark>, <mark style="color:purple;">git</mark> <mark style="color:orange;">fetch,</mark> <mark style="color:purple;">git</mark> <mark style="color:orange;">push</mark> e <mark style="color:purple;">git</mark> <mark style="color:orange;">pull</mark>.

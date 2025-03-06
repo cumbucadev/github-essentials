@@ -18,32 +18,20 @@ Esta é a estrutura base do comando <mark style="color:purple;">git</mark> <mark
 
 ## **Exemplo de uso**
 
-1.  **Buscar Atualizações:**
+* Primeiro, busca-se as atualizações do repositório remoto:
+  * <mark style="color:purple;">git</mark> <mark style="color:orange;">fetch</mark>
+  * Isso obtém as atualizações, mas não altera os arquivos locais imediatamente.
+* Depois, compara-se os estados:
+  * <mark style="color:purple;">git</mark> <mark style="color:orange;">diff</mark> <mark style="color:green;">HEAD..FETCH\_HEAD</mark>
+  * Este comando compara o estado atual do seu repositório local com o estado depois de ter feito o fetch, mostrando as diferenças entre eles.
+* E por último, mescla-se as atualizações:
+  * <mark style="color:purple;">git</mark> <mark style="color:orange;">merge</mark> <mark style="color:green;">FETCH\_HEAD</mark>
+  * Integra as mudanças buscadas com o seu branch atual.
 
-    Primeiro, você busca as atualizações do repositório remoto:
-
-    > <mark style="color:purple;">git</mark> <mark style="color:orange;">fetch</mark>
-
-    Isso obtém as atualizações, mas não altera seus arquivos locais imediatamente.
-2.  **Revisar o que foi Atualizado:**
-
-    Você pode querer ver as diferenças entre o seu trabalho e as atualizações que foram buscados:
-
-    > <mark style="color:purple;">git</mark> <mark style="color:orange;">diff</mark> <mark style="color:green;">HEAD..FETCH\_HEAD</mark>
-
-    Este comando compara o estado atual do seu repositório local com o estado depois de ter feito o fetch, mostrando as diferenças entre eles.
-3.  **Mesclar as Atualizações:**
-
-    Depois de revisar, você decide aplicar essas mudanças ao seu trabalho local:
-
-    > <mark style="color:purple;">git</mark> <mark style="color:orange;">merge</mark> <mark style="color:green;">FETCH\_HEAD</mark>
-
-    Isso integra as mudanças buscadas com o seu branch atual.
-
-{% hint style="warning" %}
+{% hint style="success" %}
 Não se preocupe se a sintaxe dos comandos nos itens 2 e 3 parecer complicada agora. Por enquanto, basta utilizá-los conforme descrito. Mais para frente, você entenderá melhor como e por que eles funcionam. Agora, para fins didáticos, usar esses comandos sem compreender todos os detalhes está perfeitamente bem.
 {% endhint %}
 
 {% hint style="warning" %}
-Esta é uma explicação simplificada para fins didáticos. Para explorar todas as possibilidades do comando <mark style="color:purple;">`git`</mark><mark style="color:orange;">`fetch`</mark>, consulte a [documentação oficial](https://git-scm.com/docs/git-fetch/pt\_BR).
+Esta é uma explicação simplificada para fins didáticos. Para explorar todas as possibilidades do comando <mark style="color:purple;">`git`</mark><mark style="color:orange;">`fetch`</mark>, consulte a [documentação oficial](https://git-scm.com/docs/git-fetch/pt_BR).
 {% endhint %}

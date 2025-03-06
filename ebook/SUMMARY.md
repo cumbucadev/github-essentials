@@ -132,15 +132,15 @@
   * [git push](dia-9-git-remoto/interagindo-com-o-repositorio-central/git-push.md)
   * [git pull](dia-9-git-remoto/interagindo-com-o-repositorio-central/git-pull.md)
   * [Unindo os Pontos](dia-9-git-remoto/interagindo-com-o-repositorio-central/unindo-os-pontos.md)
-* [Espalhando a palavra do Open Source - como participar de outros projetos usando o git clone 🤯](dia-9-git-remoto/espalhando-a-palavra-do-open-source-como-participar-de-outros-projetos-usando-o-git-clone.md)
+  * [Exemplo](dia-9-git-remoto/interagindo-com-o-repositorio-central/exemplo.md)
+* [Interagindo com o Repositório Remoto hello-world](dia-9-git-remoto/interagindo-com-o-repositorio-remoto-hello-world/README.md)
+  * [git clone](dia-9-git-remoto/interagindo-com-o-repositorio-remoto-hello-world/git-clone.md)
 * [Links Úteis - Dia 9](dia-9-git-remoto/links-uteis-dia-9.md)
 * [🔍 Glossário - Dia 9](dia-9-git-remoto/glossario-dia-9.md)
 
 ## DIA 10: Meu primeiro PR
 
-* [Git clone](dia-10-meu-primeiro-pr/git-clone.md)
 * [Branches no GitHub](dia-10-meu-primeiro-pr/branches-no-github.md)
-* [Criando Minha Primeira Branch](dia-10-meu-primeiro-pr/criando-minha-primeira-branch.md)
 * [Pull Requests no GitHub](dia-10-meu-primeiro-pr/pull-requests-no-github.md)
 * [Abrindo meu primeiro Pull Request](dia-10-meu-primeiro-pr/abrindo-meu-primeiro-pull-request/README.md)
   * [Título](dia-10-meu-primeiro-pr/abrindo-meu-primeiro-pull-request/titulo.md)
@@ -150,6 +150,7 @@
 * [Revisão de PRs](dia-10-meu-primeiro-pr/revisao-de-prs.md)
 * [Fechamento de PRs](dia-10-meu-primeiro-pr/fechamento-de-prs.md)
 * [Aba Pull Requests](dia-10-meu-primeiro-pr/aba-pull-requests.md)
+* [Fluxo de Trabalho](dia-10-meu-primeiro-pr/fluxo-de-trabalho.md)
 * [Links Úteis - Dia 10](dia-10-meu-primeiro-pr/links-uteis-dia-10.md)
 * [🔍 Glossário - Dia 10](dia-10-meu-primeiro-pr/glossario-dia-10.md)
 
@@ -157,6 +158,7 @@
 
 * [Extensões Git](dia-11-hora-do-desafio/extensoes-git.md)
 * [💡 Indicação: Jogo Oh My Git](dia-11-hora-do-desafio/indicacao-jogo-oh-my-git.md)
+* [Espalhando a palavra do Open Source - como participar de outros projetos usando o git clone 🤯](dia-11-hora-do-desafio/espalhando-a-palavra-do-open-source-como-participar-de-outros-projetos-usando-o-git-clone.md)
 * [Desafio GitHub](dia-11-hora-do-desafio/desafio-github.md)
 
 ***
