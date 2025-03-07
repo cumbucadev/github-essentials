@@ -134,7 +134,9 @@
   * [Unindo os Pontos](dia-9-git-remoto/interagindo-com-o-repositorio-central/unindo-os-pontos.md)
   * [Exemplo](dia-9-git-remoto/interagindo-com-o-repositorio-central/exemplo.md)
 * [Interagindo com o Repositório Remoto hello-world](dia-9-git-remoto/interagindo-com-o-repositorio-remoto-hello-world/README.md)
-  * [git clone](dia-9-git-remoto/interagindo-com-o-repositorio-remoto-hello-world/git-clone.md)
+  * [Clonando um Repositório no GitHub](dia-9-git-remoto/interagindo-com-o-repositorio-remoto-hello-world/clonando-um-repositorio-no-github.md)
+  * [Alterando hello-world Localmente](dia-9-git-remoto/interagindo-com-o-repositorio-remoto-hello-world/alterando-hello-world-localmente.md)
+  * [Enviando Alterações para o Repositório Remoto](dia-9-git-remoto/interagindo-com-o-repositorio-remoto-hello-world/enviando-alteracoes-para-o-repositorio-remoto.md)
 * [Links Úteis - Dia 9](dia-9-git-remoto/links-uteis-dia-9.md)
 * [🔍 Glossário - Dia 9](dia-9-git-remoto/glossario-dia-9.md)
 

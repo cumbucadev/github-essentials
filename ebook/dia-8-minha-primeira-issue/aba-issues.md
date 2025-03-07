@@ -2,7 +2,7 @@
 
 A página principal de Issues no GitHub lista todas as issues de um repositório, permitindo que você visualize, busque e filtre as tarefas registradas. Aqui, abordaremos os elementos essenciais para que você possa navegar e utilizar essa ferramenta de maneira simples e eficiente.
 
-<figure><img src="../.gitbook/assets/49- Aba Issues com issue.png" alt=""><figcaption><p>Aba issues do repositório <a href="https://github.com/aprendizCumbucaDev/hello-world">https://github.com/aprendizCumbucaDev/hello-world</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/49_ Aba Issues com issue.png" alt=""><figcaption><p>Aba issues do repositório <a href="https://github.com/aprendizCumbucaDev/hello-world">https://github.com/aprendizCumbucaDev/hello-world</a></p></figcaption></figure>
 
 ## Barra de busca
 

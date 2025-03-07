@@ -18,7 +18,7 @@ Pegue seu melhor e-mail e vem com a gente nesse tutorial!
 
 Opa! Boas vindas ao futuro mais novo integrante da rede! :)
 
-<figure><img src="../.gitbook/assets/image (2) (2).png" alt="Página inicial do GitHub: https://github.com/. Em um fundo preto e escritas em branco, ao centro a frase &#x22;Let&#x27;s build from here&#x22;, à direita um detalhe com pequenas imagens em roxo e azul, com o octocat e outros símbolos de merge, conexões, segurança, copilot, entre outros. "><figcaption><p>Esta é a página Inicial do GitHub para quem ainda não possui conta na plataforma.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2) (1).png" alt="Página inicial do GitHub: https://github.com/. Em um fundo preto e escritas em branco, ao centro a frase &#x22;Let&#x27;s build from here&#x22;, à direita um detalhe com pequenas imagens em roxo e azul, com o octocat e outros símbolos de merge, conexões, segurança, copilot, entre outros. "><figcaption><p>Esta é a página Inicial do GitHub para quem ainda não possui conta na plataforma.</p></figcaption></figure>
 
 Ah, não se preocupe com os termos em inglês: logo ajustaremos para o português. :flag\_br:&#x20;
 
