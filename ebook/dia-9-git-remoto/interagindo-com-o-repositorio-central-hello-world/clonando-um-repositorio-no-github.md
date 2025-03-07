@@ -8,7 +8,7 @@ Agora, vamos ao primeiro passo do nosso novo fluxo de trabalho: **clonar o repos
 
 ## Passo a Passo
 
-### Copiar URL do repositório
+### Copiar URL do Repositório
 
 Acesse a página principal do projeto no GitHub e clique no botão code.
 
