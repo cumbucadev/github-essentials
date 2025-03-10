@@ -1,4 +1,4 @@
-# Interagindo com o Repositório Central
+# Git: Interagindo com o Repositório Remoto Central
 
 Até agora, explicamos como fazer mudanças no repositório local, na sua própria máquina. Aprendemos a:
 
