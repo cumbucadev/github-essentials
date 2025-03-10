@@ -1,0 +1,122 @@
+# Editor de Código
+
+Um **editor de código** é uma ferramenta usada para escrever e editar programas ou códigos-fonte de softwares. Ao contrário dos editores de texto comuns, como o **Bloco de Notas (NotePad)**, **Microsoft Word**, **Pages** ou **LibreOffice Writer**, um editor de código é otimizado para lidar com linguagens de programação e com a estrutura de códigos.
+
+Algumas das principais vantagens de usar um editor de código:
+
+* **Facilidade de uso e eficiência**: Editores de código são mais rápidos e intuitivos, com recursos como autocompletar, sugestões de código, e navegação rápida entre arquivos.
+* **Destaque de sintaxe**: Eles podem destacar o código de diferentes cores, facilitando a identificação de erros e tornando a leitura do código mais agradável.
+* **Integração com ferramentas de versionamento**: Editores de código geralmente se integram com Git e outras ferramentas de controle de versão, facilitando o gerenciamento de código.
+* **Extensões e personalização**: Você pode adicionar extensões para personalizar o editor conforme suas necessidades. Por exemplo, pode instalar extensões para linguagens específicas ou para integrar-se a plataformas como Docker e Kubernetes.
+* **Funciona offline**: Ao contrário de editores online, como o do GitHub, você pode usar um editor de código local mesmo sem estar conectado à internet.
+
+Imagine que você está escrevendo um livro. Usar um editor de código seria como usar uma ferramenta avançada de **processamento de texto**, como o **Microsoft Word**, mas voltada para programadores. Assim como o Word ajuda a organizar um texto, revisar e corrigir erros, o editor de código faz o mesmo com o seu código, com funções específicas para quem cria programas.
+
+Se você usasse um editor de texto simples, como o **Bloco de Notas**, seria como escrever à mão, sem nenhum auxílio. Com um editor de código, você tem a vantagem de escrever de forma mais rápida, organizada e precisa.
+
+## Visual Studio Code
+
+O **Visual Studio Code (VSCode)** é um dos editores de código mais populares e amplamente utilizados na indústria. Ele é gratuito, open-source e desenvolvido pela Microsoft. Sua popularidade se deve à facilidade de uso, suporte a diversas linguagens de programação e uma grande quantidade de extensões que podem ser instaladas para adicionar mais funcionalidades.
+
+### Como instalar o Visual Studio Code
+
+#### Passo 1: Baixar o Visual Studio Code
+
+1. Acesse o site oficial do Visual Studio Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+2. Na página principal, clique no botão **Download**.
+3. Escolha a versão correta para o seu sistema operacional:
+   * **Windows**: Escolha a versão "User Installer" caso não tenha certeza.
+   * **macOS**: Baixe o arquivo .dmg.
+   * **Linux**: Escolha entre os pacotes `.deb` (Debian/Ubuntu) ou `.rpm` (Fedora/RHEL).
+
+#### Passo 2: Instalar o Visual Studio Code
+
+**No Windows**
+
+1. Após o download, abra o arquivo **.exe**.
+2. Na tela de instalação, clique em **Avançar**.
+3. Aceite os termos de uso e continue clicando em **Avançar**.
+4. Marque a opção "Adicionar ao PATH" para facilitar o uso no futuro.
+5. Clique em **Instalar** e aguarde a conclusão.
+
+Caso esteja enfrentando dificuldades, você pode seguir [esse blog post](https://hub.asimov.academy/blog/como-instalar-e-configurar-o-vscode/?), instruções da seção `Como baixar e instalar o VS Code no Windows?`, que possui o passo a passo com imagens.
+
+**No macOS**
+
+1. Abra o arquivo **.dmg** que você baixou.
+2. Arraste o ícone do **Visual Studio Code** para a pasta **Aplicativos**.
+3. Aguarde a cópia do programa e pronto!
+
+**No Linux (Ubuntu/Debian)**
+
+1. Abra o terminal.
+2. Navegue até a pasta onde o arquivo `.deb` foi baixado.
+3.  Execute o comando:
+
+    ```sh
+    sudo dpkg -i code_*.deb
+    ```
+4.  Caso apareçam erros de dependências, rode:
+
+    ```sh
+    sudo apt-get install -f
+    ```
+
+#### Passo 3: Abrir o Visual Studio Code
+
+Após a instalação, abra o **VSCode** seguindo estas opções:
+
+* **Windows**: Pesquise por **Visual Studio Code** no menu Iniciar.
+* **macOS**: Vá até a pasta Aplicativos e clique no ícone do programa.
+* **Linux**: Digite `code` no terminal e pressione **Enter**.
+
+### Como alterar o idioma para Português (Brasil)
+
+Por padrão, o VSCode vem em inglês, mas podemos mudar para português:
+
+1. Abra o Visual Studio Code.
+2. No menu superior, clique em **View** > **Command Palette...**.
+3. Digite `Configure Display Language` e selecione essa opção.
+4. Clique na opção **Install additional languages**.
+5. Na loja de extensões, procure por `Português (Brasil)` e clique em **Install**.
+6. Após a instalação, reinicie o VSCode para aplicar a mudança.
+
+Caso esteja enfrentando dificuldades, você pode seguir [esse blog post](editor-de-codigo.md#editor-de-codigo) que possui o passo a passo com imagens.
+
+### Como abrir a pasta de um projeto
+
+Para editar arquivos dentro de um projeto, primeiro precisamos abrir a pasta onde ele está salvo:
+
+1. No menu superior, clique em **Arquivo** > **Abrir Pasta...**.
+2. Navegue até a pasta do projeto e clique em **Selecionar Pasta**.
+3. A pasta será carregada e aparecerá na barra lateral esquerda da tela.
+
+### Como abrir um arquivo dentro da pasta
+
+1. Com a pasta do projeto aberta, veja a lista de arquivos no lado esquerdo.
+2. Clique duas vezes no arquivo que deseja editar.
+3. O arquivo será aberto no editor de código no centro da tela.
+
+### Como editar um arquivo
+
+1. Com o arquivo aberto, clique no meio do texto e digite as alterações desejadas.
+2. Faça as mudanças no código ou no texto conforme necessário.
+
+### Como salvar as alterações
+
+1. Após editar, vá até o menu **Arquivo**.
+2. Clique em **Salvar** para salvar o arquivo.
+
+### Como visualizar Markdown formatado (como no GitHub)
+
+Se o arquivo que você está editando for um arquivo markdown, é possível visualizar como ele irá ficar formatado:
+
+1. Com o arquivo markdown aberto, clique no ícone de **Pré-Visualização** no canto superior direito.\
+   ![](<../../../.gitbook/assets/image (90).png>)
+2. O VSCode mostrará uma pré-visualização formatada do Markdown, igual ao que você veria no GitHub.
+
+***
+
+Outros editores de código, como Atom e Sublime Text, funcionam de maneira parecida, mas escolhemos o VSCode por ser amplamente adotado na indústria.
+
+Fique tranquilo! Na próxima seção, vamos praticar a edição de arquivos passo a passo, editando o README.md do projeto _**hello-world**_!

@@ -136,7 +136,7 @@
 * [Interagindo com o Repositório Central hello-world](dia-9-git-remoto/interagindo-com-o-repositorio-central-hello-world/README.md)
   * [Clonando um Repositório no GitHub](dia-9-git-remoto/interagindo-com-o-repositorio-central-hello-world/clonando-um-repositorio-no-github.md)
   * [Alterando hello-world Localmente](dia-9-git-remoto/interagindo-com-o-repositorio-central-hello-world/alterando-hello-world-localmente/README.md)
-    * [Visual Studio Code](dia-9-git-remoto/interagindo-com-o-repositorio-central-hello-world/alterando-hello-world-localmente/visual-studio-code.md)
+    * [Editor de Código](dia-9-git-remoto/interagindo-com-o-repositorio-central-hello-world/alterando-hello-world-localmente/editor-de-codigo.md)
     * [Editando README.md](dia-9-git-remoto/interagindo-com-o-repositorio-central-hello-world/alterando-hello-world-localmente/editando-readme.md.md)
   * [Enviando Alterações para o Repositório Remoto](dia-9-git-remoto/interagindo-com-o-repositorio-central-hello-world/enviando-alteracoes-para-o-repositorio-remoto.md)
 * [Links Úteis - Dia 9](dia-9-git-remoto/links-uteis-dia-9.md)
