@@ -138,6 +138,7 @@
   * [Alterando hello-world Localmente](dia-9-git-remoto/interagindo-com-o-repositorio-central-hello-world/alterando-hello-world-localmente/README.md)
     * [Editor de Código](dia-9-git-remoto/interagindo-com-o-repositorio-central-hello-world/alterando-hello-world-localmente/editor-de-codigo.md)
     * [Editando README.md](dia-9-git-remoto/interagindo-com-o-repositorio-central-hello-world/alterando-hello-world-localmente/editando-readme.md.md)
+    * [Salvando Alterações no Controle de Versão Local](dia-9-git-remoto/interagindo-com-o-repositorio-central-hello-world/alterando-hello-world-localmente/salvando-alteracoes-no-controle-de-versao-local.md)
   * [Enviando Alterações para o Repositório Remoto](dia-9-git-remoto/interagindo-com-o-repositorio-central-hello-world/enviando-alteracoes-para-o-repositorio-remoto.md)
 * [Links Úteis - Dia 9](dia-9-git-remoto/links-uteis-dia-9.md)
 * [🔍 Glossário - Dia 9](dia-9-git-remoto/glossario-dia-9.md)
