@@ -12,7 +12,7 @@ Agora, vamos ao primeiro passo do nosso novo fluxo de trabalho: **clonar o repos
 
 Acesse a página principal do projeto no GitHub e clique no botão code.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="147"><figcaption><p>Botão code.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="147"><figcaption><p>Botão code.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/50 Clone repo 1 (1).png" alt=""><figcaption><p>Página principal do repositório após o clique no botão code.</p></figcaption></figure>
 

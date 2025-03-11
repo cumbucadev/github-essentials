@@ -94,9 +94,9 @@ git log
 Saída esperada (algo como):
 
 ```bash
-commit cc230b01a7df96ab1c03a4fe5bc9d61b9eaa1df4 (HEAD -> issue-1)
+commit 2d942e747a89210df6d1454045abaa3ab451bda6 (HEAD -> issue-1)
 Author: aprendizCumbucaDev <aprendiz.cumbucadev@gmail.com>
-Date:   Mon Mar 10 17:09:41 2025 -0300
+Date:   Mon Mar 10 20:57:46 2025 -0300
 
     Adicionando GIF de boas vindas ao README.md
 

@@ -22,7 +22,7 @@ Ao criar ou editar uma label, você precisa preencher três campos:
 
 Por padrão, o GitHub fornece algumas labels predefinidas em novos repositórios:
 
-<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Labels padrões do GitHub</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2) (1).png" alt=""><figcaption><p>Labels padrões do GitHub</p></figcaption></figure>
 
 | Label                | Tradução            | Descrição                                                                               |
 | -------------------- | ------------------- | --------------------------------------------------------------------------------------- |
