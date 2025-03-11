@@ -146,7 +146,6 @@
 
 ## DIA 10: Meu primeiro PR
 
-* [Branches no GitHub](dia-10-meu-primeiro-pr/branches-no-github.md)
 * [Pull Requests no GitHub](dia-10-meu-primeiro-pr/pull-requests-no-github.md)
 * [Abrindo meu primeiro Pull Request](dia-10-meu-primeiro-pr/abrindo-meu-primeiro-pull-request/README.md)
   * [Título](dia-10-meu-primeiro-pr/abrindo-meu-primeiro-pull-request/titulo.md)
@@ -156,6 +155,7 @@
 * [Revisão de PRs](dia-10-meu-primeiro-pr/revisao-de-prs.md)
 * [Fechamento de PRs](dia-10-meu-primeiro-pr/fechamento-de-prs.md)
 * [Aba Pull Requests](dia-10-meu-primeiro-pr/aba-pull-requests.md)
+* [Branches no GitHub](dia-10-meu-primeiro-pr/branches-no-github.md)
 * [Fluxo de Trabalho](dia-10-meu-primeiro-pr/fluxo-de-trabalho.md)
 * [Links Úteis - Dia 10](dia-10-meu-primeiro-pr/links-uteis-dia-10.md)
 * [🔍 Glossário - Dia 10](dia-10-meu-primeiro-pr/glossario-dia-10.md)
