@@ -59,8 +59,8 @@ Agora que você aprendeu sobre labels, siga os passos abaixo para praticar.
 
 1. Acesse a issue que você criou anteriormente "Adicionar imagem de saudação ao README.md" no seu repositório hello-world.
 2. No menu lateral direito, clique na engrenagem ao lado da palavra **Labels**.\
-   ![](<../../.gitbook/assets/image (4).png>)
+   ![](<../../.gitbook/assets/image (4) (2).png>)
 3. Selecione a label **documentation (documentação)**.\
-   ![](<../../.gitbook/assets/image (3).png>)
+   ![](<../../.gitbook/assets/image (3) (2).png>)
 4. Verifique se a label foi adicionada corretamente.\
-   ![](<../../.gitbook/assets/image (5).png>)
+   ![](<../../.gitbook/assets/image (5) (2).png>)

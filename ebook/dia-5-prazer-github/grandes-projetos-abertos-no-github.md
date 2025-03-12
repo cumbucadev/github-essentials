@@ -46,7 +46,7 @@ Projetos de inteligência artificial de código aberto, incluindo modelos de lin
 
 A linguagem de programação Python é usada em uma ampla gama de aplicações, desde desenvolvimento web até ciência de dados e aprendizado de máquina. Explore o código e participe do desenvolvimento de uma das linguagens mais populares do mundo.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Explorar Código
 

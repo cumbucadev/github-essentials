@@ -101,7 +101,7 @@ Leia mais em:
 
 ## [**GitHub Packages**](https://github.com/features/packages)
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Às vezes, enquanto trabalha em um projeto no GitHub, você cria pequenas peças de código que são como blocos de Lego específicos e úteis para resolver problemas. Cada bloco (ou peça de código) pode ter uma função importante, como uma peça especial em um conjunto de Lego que ajuda a construir algo maior e mais complexo.
 

@@ -104,7 +104,7 @@ O **Feed de Atividades** é a área principal e central da tela. Ele mostra atua
 
 Se você for uma pessoa nova na plataforma, verá dicas do GitHub para ajudar em seus primeiros passos:
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt="Dicas do GitHub no Feed de Atividades mostrando sugestões para iniciantes"><figcaption><p>Dicas do GitHub no feed de atividades</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt="Dicas do GitHub no Feed de Atividades mostrando sugestões para iniciantes"><figcaption><p>Dicas do GitHub no feed de atividades</p></figcaption></figure>
 
 Caso você já tenha interagido um pouco com a sua conta, essa seção irá incluir:
 

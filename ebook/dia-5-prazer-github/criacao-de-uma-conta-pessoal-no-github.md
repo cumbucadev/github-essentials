@@ -26,11 +26,11 @@ Ah, não se preocupe com os termos em inglês: logo ajustaremos para o portuguê
 
 Ao centro, temos um quadro em branco escrito "_Email address",_ ao lado de um botão roxo escrito "_Sign up for GitHub"._ Neste quadro, digite seu melhor e-mail,  confira se está correto e clique no <mark style="color:purple;background-color:purple;">botão roxo, logo ao lado</mark> para seguirmos!&#x20;
 
-<figure><img src="../.gitbook/assets/image (4) (2).png" alt="Recorte da tela com a caixa de diálogo preenchida com o e-mail: aprendiz.cumbucadev@gmail.com (apresentando a instrução). O botão de &#x22;Sign Up for GitHub&#x22; está com brilho, indicando que será clicado, enquanto &#x22;Start a free enterprise trial&#x22; está fosco, indicando que não será clicado."><figcaption><p>No detalhe: o espaço com o nosso e-mail já preenchido - na sua página você coloca o seu! </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2) (1).png" alt="Recorte da tela com a caixa de diálogo preenchida com o e-mail: aprendiz.cumbucadev@gmail.com (apresentando a instrução). O botão de &#x22;Sign Up for GitHub&#x22; está com brilho, indicando que será clicado, enquanto &#x22;Start a free enterprise trial&#x22; está fosco, indicando que não será clicado."><figcaption><p>No detalhe: o espaço com o nosso e-mail já preenchido - na sua página você coloca o seu! </p></figcaption></figure>
 
 Você será redirecionado para esta página:&#x20;
 
-<figure><img src="../.gitbook/assets/image (5) (2).png" alt="O link foi redirecionado para uma página com fundo azul e pontos de brilho que remetem à estrelas que ficam se movimentando para a frente da tela. No meio há uma caixa de diálogo em cinza, que confirma se aquele e-mail está correto."><figcaption><p>Seguimos juntos na página redirecionada. Confirme seu e-mail e aperte os cintos! :)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (2) (1).png" alt="O link foi redirecionado para uma página com fundo azul e pontos de brilho que remetem à estrelas que ficam se movimentando para a frente da tela. No meio há uma caixa de diálogo em cinza, que confirma se aquele e-mail está correto."><figcaption><p>Seguimos juntos na página redirecionada. Confirme seu e-mail e aperte os cintos! :)</p></figcaption></figure>
 
 Aqui, seu e-mail aparece novamente, confirme novamente se o endereço está completo e correto, e siga em "<mark style="color:green;background-color:green;">Continue</mark>".
 

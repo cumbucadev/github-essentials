@@ -12,19 +12,19 @@ Agora, vamos ao primeiro passo do nosso novo fluxo de trabalho: **clonar o repos
 
 Acesse a página principal do projeto no GitHub e clique no botão code.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="147"><figcaption><p>Botão code.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="147"><figcaption><p>Botão code.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/50 Clone repo 1 (1).png" alt=""><figcaption><p>Página principal do repositório após o clique no botão code.</p></figcaption></figure>
 
 Na janela que irá se abrir, clique em **SSH.**
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/51 Clone repo 2 (1).png" alt=""><figcaption></figcaption></figure>
 
 Em seguida, clique no botão de copiar que aparecerá na caixa de diálogo que abrirá.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="108"><figcaption><p>Botão "copiar".</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="108"><figcaption><p>Botão "copiar".</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/68 Clone repo 3.png" alt=""><figcaption><p>Copiar link do repositório remoto</p></figcaption></figure>
 

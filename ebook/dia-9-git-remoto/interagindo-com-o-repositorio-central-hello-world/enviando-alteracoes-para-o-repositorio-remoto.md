@@ -56,7 +56,7 @@ Além disso, perceba que o número de branches agora aumentou, passando de 1 par
 
 Para visualizar as modificações, clique no botão de seleção de branch para alterar o branch atual.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/70_ Repo após push 2.png" alt=""><figcaption></figcaption></figure>
 
@@ -66,7 +66,7 @@ Escolha a opção `issue-1.`
 
 Agora você está vendo a versão do seu repositório no branch `issue-1`. Veja qual foi o último commit registrado e principalmente, claro, veja que o seu GIF já está no README.md!
 
-<figure><img src="../../.gitbook/assets/72_ Repo após push 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/72_ Repo após push 4 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

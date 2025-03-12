@@ -6,4 +6,12 @@ description: >-
 
 # Links Úteis - Dia 10
 
+{% embed url="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request" %}
+
+{% embed url="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests" %}
+
 {% embed url="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests" %}
+
+{% embed url="https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/using-keywords-in-issues-and-pull-requests" %}
+
+{% embed url="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/getting-started/helping-others-review-your-changes" %}
