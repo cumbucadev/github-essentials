@@ -147,7 +147,7 @@
 ## DIA 10: Meu primeiro PR
 
 * [Pull Requests no GitHub](dia-10-meu-primeiro-pr/pull-requests-no-github.md)
-* [Propriedades de um Pull Request](dia-10-meu-primeiro-pr/propriedades-de-um-pull-request/README.md)
+* [Propriedades de um Pull Request](dia-10-meu-primeiro-pr/abrindo-meu-primeiro-pull-request/README.md)
   * [Branches de Origem e de Destino](dia-10-meu-primeiro-pr/propriedades-de-um-pull-request/branches-de-origem-e-de-destino.md)
   * [Título](dia-10-meu-primeiro-pr/propriedades-de-um-pull-request/titulo.md)
   * [Descrição](dia-10-meu-primeiro-pr/propriedades-de-um-pull-request/descricao.md)
