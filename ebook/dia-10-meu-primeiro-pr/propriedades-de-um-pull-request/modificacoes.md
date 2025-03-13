@@ -1,6 +1,6 @@
-# Mudanças
+# Modificações
 
-Quando você está criando um Pull Request (PR) no GitHub, uma das seções mais importantes é a de **Mudanças**. Essa seção mostra exatamente quais partes do código foram modificadas, removidas ou adicionadas. É como um "antes e depois" do seu trabalho, ajudando revisores (e você mesmo) a entenderem o impacto da sua contribuição antes de submetê-la para análise.
+Quando você está criando um Pull Request (PR) no GitHub, uma das seções mais importantes é a de **Modificações**. Essa seção mostra exatamente quais partes do código foram modificadas, removidas ou adicionadas. É como um "antes e depois" do seu trabalho, ajudando revisores (e você mesmo) a entenderem o impacto da sua contribuição antes de submetê-la para análise.
 
 A seção de Mudanças funciona como um **git diff** do PR inteiro, comparando todas as alterações feitas na sua branch em relação à branch principal do repositório. Isso significa que você consegue ver, de uma só vez, todas as edições antes de criar oficialmente o PR.
 

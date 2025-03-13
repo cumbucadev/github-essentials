@@ -79,7 +79,7 @@ Faça também a pré-vizualização da descrição formatada para garantir que t
 
 <figure><img src="../.gitbook/assets/86 Descrição Preenchida PR - Preview.png" alt=""><figcaption></figcaption></figure>
 
-### 5. Confira as Mudanças
+### 5. Confira as Modificações
 
 Antes de criar o PR, revise as mudanças para garantir que tudo está correto.
 

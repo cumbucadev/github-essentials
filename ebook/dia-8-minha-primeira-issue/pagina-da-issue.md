@@ -12,8 +12,8 @@ A seção de **Cabeçalho** contém as informações essenciais sobre a issue, f
 
 * **Título da Issue**: Exibe o nome ou título da issue, que normalmente resume o problema ou a tarefa a ser resolvida. Neste caso: `Adicionar imagem de saudação ao README.md`.
 * **Número da Issue**: Aparece ao lado do título, indicando o número único da issue dentro do repositório. Neste caso: `#1`.
-* **Status da Issue**: Indica se a issue está aberta (open) ou fechada (closed). Neste caso: `Open` .
-* **Botão Edit**: Permite editar a descrição da issue, caso seja necessário atualizar ou corrigir informações.
+* **Estado da Issue**: Indica se a issue está aberta (open) ou fechada (closed). Neste caso: `Open` .
+* **Botão Edit**: Permite editar o título da issue, caso seja necessário atualizar ou corrigir informações.
 * **Botão New Issue:** Usado para criar uma nova issue no repositório.
 * **Botão de Cópia:** Permite copiar o link da issue para compartilhá-lo facilmente com outras pessoas.
 
