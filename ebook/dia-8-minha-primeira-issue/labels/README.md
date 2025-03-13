@@ -42,16 +42,17 @@ Essas labels podem ser editadas ou removidas conforme necessário.
 
 1. Acesse o repositório no GitHub.
 2. Navegue até a aba **Issues** e abra a issue desejada.
-3. No menu lateral direito, clique em **Labels**.
+3. No menu lateral direito, clique na engrenagem (⚙️) ao lado da palavra **Labels**.
 4. Selecione uma ou mais labels na lista.
 5. A label será automaticamente adicionada à issue.
 
 ## Como remover uma label de uma issue
 
-1. Acesse a issue que deseja modificar.
-2. No menu lateral direito, clique em **Labels**.
-3. Clique no **X** ao lado da label que deseja remover.
-4. A label será removida imediatamente da issue.
+1. Acesse o repositório no GitHub.
+2. Navegue até a aba **Issues** e abra a issue desejada.
+3. No menu lateral direito, clique na engrenagem (⚙️) ao lado da palavra **Labels**.
+4. Desmarque a label que deseja remover.
+5. A label será removida imediatamente da issue.
 
 ## Sua vez!
 
