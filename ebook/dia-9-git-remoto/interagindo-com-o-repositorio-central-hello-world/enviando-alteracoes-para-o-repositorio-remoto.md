@@ -56,7 +56,7 @@ Além disso, perceba que o número de branches agora aumentou, passando de 1 par
 
 Para visualizar as modificações, clique no botão de seleção de branch para alterar o branch atual.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/70_ Repo após push 2.png" alt=""><figcaption></figcaption></figure>
 

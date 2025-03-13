@@ -24,7 +24,7 @@ Na janela que irá se abrir, clique em **SSH.**
 
 Em seguida, clique no botão de copiar que aparecerá na caixa de diálogo que abrirá.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="108"><figcaption><p>Botão "copiar".</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="108"><figcaption><p>Botão "copiar".</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/68 Clone repo 3.png" alt=""><figcaption><p>Copiar link do repositório remoto</p></figcaption></figure>
 
