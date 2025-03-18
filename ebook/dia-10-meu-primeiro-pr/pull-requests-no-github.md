@@ -43,4 +43,8 @@ O ciclo de um PR pode ser dividido em etapas:
 
 Cada etapa garante que o código seja revisado com cuidado antes de entrar no projeto, tornando o desenvolvimento mais organizado e colaborativo.
 
-Nas próximas seções, entraremos em mais detalhes sobre cada uma dessas etapas.
+Nas próximas seções, entraremos em mais detalhes sobre cada uma dessas etapas.&#x20;
+
+{% hint style="warning" %}
+É importante ressaltar que, por se tratar de um curso introdutório, vamos explorar os Pull Requests apenas da perspectiva de quem os cria, e não do ponto de vista de quem os revisa.
+{% endhint %}
