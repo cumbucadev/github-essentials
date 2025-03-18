@@ -94,7 +94,7 @@ Esses filtros ajudam a localizar informações específicas no histórico de com
 Cada commit listado exibe:
 
 * **Título do Commit**: Uma descrição breve da alteração, equivalente à mensagem fornecida no comando `git commit -m "mensagem"`.
-* **Autor e Data**: O nome do usuário de quem realizou o commit e o momento exato da alteração.
+* **Autoria e Data**: O nome de usuário de quem realizou o commit e o momento exato da alteração.
 * **Hash do Commit**: Um identificador único gerado pelo Git para cada commit. Esse hash é essencial para comandos como `git checkout` e `git revert`.
 
 <figure><img src="../../.gitbook/assets/Histórico de Commits - linha.png" alt=""><figcaption><p>Um commit</p></figcaption></figure>
