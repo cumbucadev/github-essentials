@@ -1,4 +1,4 @@
-# Labels em PRs
+# Labels
 
 Como já vimos anteriormente, labels são marcadores categorizados usados no GitHub para **organizar e classificar Issues e Pull Requests**. Elas ajudam a identificar rapidamente o status, prioridade e tipo de cada item, tornando a colaboração mais eficiente, especialmente em projetos de código aberto.
 
@@ -68,7 +68,7 @@ Se estiver contribuindo para um projeto de terceiros, siga o padrão de labels j
 
 ## Gerenciamento de Labels
 
-O gerenciamento de labels ocorre no mesmo local e da mesma forma mencionados em [gerenciando-labels.md](../dia-8-minha-primeira-issue/labels/gerenciando-labels.md "mention"). Isso acontece porque, no GitHub, labels não são exclusivas para Issues ou Pull Requests; na verdade, elas fazem parte de um único conjunto de labels do repositório. Isso significa que qualquer label criada, na prática, pode ser aplicada tanto a Issues quanto a PRs.
+O gerenciamento de labels ocorre no mesmo local e da mesma forma mencionados em [gerenciando-labels.md](../../dia-8-minha-primeira-issue/labels/gerenciando-labels.md "mention"). Isso acontece porque, no GitHub, labels não são exclusivas para Issues ou Pull Requests; na verdade, elas fazem parte de um único conjunto de labels do repositório. Isso significa que qualquer label criada, na prática, pode ser aplicada tanto a Issues quanto a PRs.
 
 Por convenção, uma equipe pode decidir utilizar determinadas labels exclusivamente para Issues ou PRs, a fim de manter uma organização mais clara. No entanto, se essa prática for adotada, é essencial documentá-la para garantir que todos os colaboradores entendam o uso correto de cada label.
 
@@ -91,18 +91,6 @@ Por convenção, uma equipe pode decidir utilizar determinadas labels exclusivam
 5. A label será removida imediatamente do PR.
 
 Remover labels desatualizadas pode ajudar a manter o fluxo de trabalho organizado.
-
-## **Sua vez!**
-
-Agora que você aprendeu como adicionar e remover labels em PRs, que tal praticar?
-
-1. Acesse o PR que você criou anteriormente.
-2. No menu lateral direito, clique na engrenagem ao lado da palavra **Labels**.\
-   ![](<../.gitbook/assets/image (4) (2).png>)
-3. Selecione a label **documentation (documentação)**.\
-   ![](<../.gitbook/assets/image (3) (2).png>)
-4. Verifique se a label foi adicionada corretamente ao seu PR.\
-   ![](<../.gitbook/assets/image (5) (2).png>)
 
 ***
 

@@ -30,7 +30,7 @@ Para mais detalhes: [Documentação Oficial do GitHub](https://docs.github.com/p
 
 ### 2. **Aguardar Feedback**
 
-Fique de olho nas notificações do GitHub e na [aba-conversation.md](../pagina-do-pr/aba-conversation.md "mention") do PR para acompanhar as revisões. Caso não obtenha resposta, é possível gentilmente lembrar as pessoas revisoras mencionando-as nos comentários.
+Fique de olho nas notificações do GitHub e na [aba-conversation.md](pagina-do-pr/aba-conversation.md "mention") do PR para acompanhar as revisões. Caso não obtenha resposta, é possível gentilmente lembrar as pessoas revisoras mencionando-as nos comentários.
 
 ### 3. Avaliar Alterações Sugeridas
 
@@ -65,7 +65,7 @@ Existem duas formas principais de aplicar sugestões:
 
 O GitHub oferece uma funcionalidade que permite que pessoas revisoras adicionem sugestões de alteração diretamente na linha do arquivo dentro de um Pull Request (PR). Essas sugestões aparecem na interface do PR e podem ser aceitas e aplicadas com apenas alguns cliques, facilitando a colaboração em equipe e tornando a revisão de código mais interativa. Além disso, essa funcionalidade evita a necessidade de edição manual dos arquivos, tornando o processo mais rápido e ajudando a manter um histórico de commits mais organizado.
 
-<figure><img src="../../.gitbook/assets/commit suggestions.png" alt=""><figcaption><p>Imagem retirada da <a href="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request#applying-suggested-changes">documentação oficial</a>.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/commit suggestions.png" alt=""><figcaption><p>Imagem retirada da <a href="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request#applying-suggested-changes">documentação oficial</a>.</p></figcaption></figure>
 
 Quando usar?
 
@@ -74,7 +74,7 @@ Quando usar?
 
 Como Aplicar uma Sugestão?
 
-1. Acesse a [aba-files-changed.md](../pagina-do-pr/aba-files-changed.md "mention") do PR.
+1. Acesse a [aba-files-changed.md](pagina-do-pr/aba-files-changed.md "mention") do PR.
 2. Role a página até encontrar os comentários com sugestões de código -geralmente marcados com um fundo cinza e o botão **"Commit suggestion" (Fazer commit da sugestão)** ao lado.
 3. Escolha como aplicar as sugestões
 
@@ -90,7 +90,7 @@ Opção 1: Aplicando uma sugestão individualmente
 * No campo de mensagem do commit, escreva uma breve descrição da alteração.
 * Clique em **"Commit changes" (Fazer commit das alterações)**.
 
-<figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption><p>Imagem retirada da <a href="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request#applying-suggested-changes">documentação oficial</a>.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (110).png" alt=""><figcaption><p>Imagem retirada da <a href="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request#applying-suggested-changes">documentação oficial</a>.</p></figcaption></figure>
 
 Opção 2: Aplicando várias sugestões ao mesmo tempo
 
@@ -100,7 +100,7 @@ Opção 2: Aplicando várias sugestões ao mesmo tempo
 * No campo de mensagem do commit, escreva um resumo das alterações aplicadas.
 * Clique em **"Commit changes" (Fazer commit das alterações)**.
 
-<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption><p>Imagem retirada da <a href="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request#applying-suggested-changes">documentação oficial</a>.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption><p>Imagem retirada da <a href="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request#applying-suggested-changes">documentação oficial</a>.</p></figcaption></figure>
 
 {% hint style="info" %}
 Para mais detalhes: [Documentação Oficial do GitHub](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request#applying-suggested-changes).
@@ -108,7 +108,7 @@ Para mais detalhes: [Documentação Oficial do GitHub](https://docs.github.com/p
 
 ### 4. Responder Comentários
 
-Para responder a um comentário, acesse o comentário na [aba-conversation.md](../pagina-do-pr/aba-conversation.md "mention") ou na [aba-files-changed.md](../pagina-do-pr/aba-files-changed.md "mention") e adicionar outro comentário abaixo dele. Responda aos comentários para manter a comunicação fluindo.&#x20;
+Para responder a um comentário, acesse o comentário na [aba-conversation.md](pagina-do-pr/aba-conversation.md "mention") ou na [aba-files-changed.md](pagina-do-pr/aba-files-changed.md "mention") e adicionar outro comentário abaixo dele. Responda aos comentários para manter a comunicação fluindo.&#x20;
 
 Caso não saiba algo, fique à vontade para perguntar. O espaço de revisão deve ser um ambiente aberto para aprendizado, beneficiando tanto quem contribui quanto o projeto.
 
@@ -120,7 +120,7 @@ Para mais detalhes: [Documentação Oficial do GitHub](https://docs.github.com/p
 
 Após aplicar as sugestões ou responder adequadamente, marque as conversas como resolvidas para manter o PR organizado. No GitHub, ao lado do comentário, clique em "**Resolve conversation**". Apenas faça isso se a sugestão foi incorporada ou houve consenso de que não é necessária.
 
-<figure><img src="../../.gitbook/assets/118- PR resolve conversation (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/118- PR resolve conversation (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Para mais detalhes: [Documentação Oficial do GitHub](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request#resolver-conversas).
@@ -128,15 +128,15 @@ Para mais detalhes: [Documentação Oficial do GitHub](https://docs.github.com/p
 
 ### 6. Re-solicitar Revisão
 
-Depois que você fizer as alterações necessárias, você poderá solicitar que o PR seja revisada novamente pela mesma pessoa revisora. Na [aba-conversation.md](../pagina-do-pr/aba-conversation.md "mention"), procure **Reviewers** na barra lateral direita e clique no ícone 🔄 ao lado do nome da pessoa revisora.
+Depois que você fizer as alterações necessárias, você poderá solicitar que o PR seja revisada novamente pela mesma pessoa revisora. Na [aba-conversation.md](pagina-do-pr/aba-conversation.md "mention"), procure **Reviewers** na barra lateral direita e clique no ícone 🔄 ao lado do nome da pessoa revisora.
 
-<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption><p>Imagem retirada da <a href="https://docs.github.com/pt/enterprise-cloud@latest/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/requesting-a-pull-request-review#requesting-reviews-from-collaborators-and-organization-members">documentação oficial</a>.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption><p>Imagem retirada da <a href="https://docs.github.com/pt/enterprise-cloud@latest/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/requesting-a-pull-request-review#requesting-reviews-from-collaborators-and-organization-members">documentação oficial</a>.</p></figcaption></figure>
 
 Opcionalmente, **c**omente no PR mencionando `@nome_da_pessoa_revisora` e forneça um breve resumo das mudanças feitas desde a última revisão. Aguarde até o próximo feedback (passo 2) e, siga em diante com o fluxo.
 
 O fluxo segue até que o PR seja aprovado ou até que haja uma decisão de que ele não faz sentido e deve ser fechado.
 
-<figure><img src="../../.gitbook/assets/Fluxo de Revisão de PR (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Fluxo de Revisão de PR (1).png" alt=""><figcaption></figcaption></figure>
 
 Cada projeto pode ter regras diferentes sobre a quantidade de aprovações necessárias para que o merge seja liberado. Algumas vezes, uma única aprovação é suficiente; em outros casos, pode ser necessário que todas as pessoas revisoras aprovem.
 

@@ -1,6 +1,6 @@
 # Criando um PR no GitHub
 
-O GitHub tem a documentação oficial explicando como criar um Pull Request [Guia Oficial do GitHub](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). Aqui, vamos já aplicar na prática para criar o PR para a Issue #1 do seu repositório _**hello-world**_.
+O GitHub tem a documentação oficial explicando como criar um Pull Request [Guia Oficial do GitHub](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). Aqui, vamos direto à prática e criar um PR para a Issue #1 do seu repositório _hello-world_.
 
 Pode parecer desnecessário abrir um PR quando você mesmo vai revisá-lo e aceitá-lo, mas isso tem seu valor, mesmo em repositórios com apenas uma pessoa contribuindo. Manter um histórico organizado facilita o rastreamento de mudanças e a reversão de alterações caso necessário. Além disso, cada PR pode conter descrições detalhadas e servir como um registro das decisões tomadas, funcionando como uma espécie de anotação para consultas futuras. Seguir esse fluxo também tem um propósito didático, ajudando a internalizar boas práticas de colaboração e preparando o ambiente para quando mais pessoas começarem a contribuir no repositório.
 
@@ -99,10 +99,23 @@ Após preencher todas as informações e revisar as mudanças, clique em **Creat
 
 Parabéns, o seu primeiro Pull Request foi criado com sucesso!
 
-{% hint style="info" %}
-Note que não adicionamos pessoas revisoras. Como este é um projeto individual, não é possível adicionar a própria conta como revisora e, no momento, não há outras pessoas no repositório. Por isso, essa etapa pode ser ignorada neste caso .
-{% endhint %}
+### **7. Adicionar Labels**
+
+Labels ajudam a categorizar os PRs e podem ser adicionadas tanto na criação quanto após a abertura do PR. Neste exemplo, adicione a label `documentation` para indicar que o PR corresponde a uma atualização na documentação.
+
+
+
+1. No menu lateral direito, clique na engrenagem ao lado da palavra **Labels**.\
+   ![](<../.gitbook/assets/image (4) (2).png>)
+2. Selecione a label **documentation (documentação)**.\
+   ![](<../.gitbook/assets/image (3) (2).png>)
+3. Verifique se a label foi adicionada corretamente ao seu PR.\
+   ![](<../.gitbook/assets/image (5) (2).png>)
 
 ***
+
+{% hint style="info" %}
+Note que não adicionamos pessoas revisoras. Como este é um projeto individual sem outras pessoas colaborando no repositório até o momento, não há ninguém para atribuir à revisão. Além disso, o GitHub não permite definir a própria conta para essa função. Por isso, essa etapa pode ser ignorada por enquanto. Mais adiante, abordaremos esse processo com este mesmo exemplo.
+{% endhint %}
 
 Na próxima seção, vamos explorar em mais detalhes a página do Pull Request, analisando seus elementos e como utilizá-los para um fluxo de trabalho eficiente.
