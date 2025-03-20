@@ -4,7 +4,7 @@ A aba de **Commits** em um Pull Request é semelhante à página de [historico-d
 
 Os commits são listados em ordem cronológica, exibindo uma linha do tempo das alterações feitas no repositório dentro do contexto do PR.
 
-<figure><img src="../../.gitbook/assets/96 PR aba commits 1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/PR aba commits.png" alt=""><figcaption></figcaption></figure>
 
 ## **Informações de Cada Commit**
 
