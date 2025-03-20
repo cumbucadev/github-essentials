@@ -6,7 +6,7 @@ A descrição do Pull Request (PR) é um espaço para explicar em detalhes as mu
 
 ### **1. Descreva o Problema e a Solução**
 
-Explique qual era o problema e como foi resolvido. Dê contexto suficiente para que quem revisa não precise adivinhar o que motivou a mudança.
+Explique qual era o problema e como foi resolvido. Dê contexto suficiente para que quem revisa não precise adivinhar o que motivou a mudança. Se houver contexto adicional, como discussões prévias ou decisões do time, inclua essas informações.
 
 ### **2. Objetividade, mas com Completude**
 
