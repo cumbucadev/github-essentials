@@ -99,7 +99,7 @@ Após preencher todas as informações e revisar as mudanças, clique em **Creat
 
 Parabéns, o seu primeiro Pull Request foi criado com sucesso!
 
-### **7. Adicionar Labels**
+### **7. Adicione Labels**
 
 Labels ajudam a categorizar os PRs e podem ser adicionadas tanto na criação quanto após a abertura do PR. Neste exemplo, adicione a label `documentation` para indicar que o PR corresponde a uma atualização na documentação.
 

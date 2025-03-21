@@ -162,22 +162,28 @@
   * [Aba Files Changed](dia-10-meu-primeiro-pr/pagina-do-pr/aba-files-changed.md)
 * [Revisão de PR](dia-10-meu-primeiro-pr/revisao-de-prs.md)
   * [Boas Práticas](dia-10-meu-primeiro-pr/revisao-de-pr/boas-praticas.md)
-  * [Exemplo](dia-10-meu-primeiro-pr/revisao-de-pr/exemplo.md)
-* [Fechamento de PRs](dia-10-meu-primeiro-pr/fechamento-de-prs.md)
+  * [Exemplo](dia-10-meu-primeiro-pr/revisao-de-pr/exemplo/README.md)
+    * [Adicionando Conta Colaboradora](dia-10-meu-primeiro-pr/revisao-de-pr/exemplo/adicionando-conta-colaboradora.md)
+    * [Pedindo Revisão de Pull Request](dia-10-meu-primeiro-pr/revisao-de-pr/exemplo/pedindo-revisao-de-pull-request.md)
+    * [Lidando com o Feedback](dia-10-meu-primeiro-pr/revisao-de-pr/exemplo/lidando-com-o-feedback.md)
+* [Mesclando PRs](dia-10-meu-primeiro-pr/mesclando-prs.md)
 * [Aba Pull Requests](dia-10-meu-primeiro-pr/aba-pull-requests.md)
 * [Branches no GitHub](dia-10-meu-primeiro-pr/branches-no-github.md)
-* [Fluxo de Trabalho](dia-10-meu-primeiro-pr/fluxo-de-trabalho.md)
 * [PRs no Mundo Real](dia-10-meu-primeiro-pr/prs-no-mundo-real.md)
 * [Links Úteis - Dia 10](dia-10-meu-primeiro-pr/links-uteis-dia-10.md)
 * [🔍 Glossário - Dia 10](dia-10-meu-primeiro-pr/glossario-dia-10.md)
 
 ## DIA 11: Hora do Desafio
 
+* [Fork](dia-11-hora-do-desafio/fork.md)
+* [Fluxo de Trabalho](dia-11-hora-do-desafio/fluxo-de-trabalho.md)
+* [Espalhando a palavra do Open Source - como participar de outros projetos usando o git clone 🤯](dia-11-hora-do-desafio/espalhando-a-palavra-do-open-source-como-participar-de-outros-projetos-usando-o-git-clone.md)
 * [Extensões Git](dia-11-hora-do-desafio/extensoes-git.md)
 * [💡 Indicação: Jogo Oh My Git](dia-11-hora-do-desafio/indicacao-jogo-oh-my-git.md)
-* [Espalhando a palavra do Open Source - como participar de outros projetos usando o git clone 🤯](dia-11-hora-do-desafio/espalhando-a-palavra-do-open-source-como-participar-de-outros-projetos-usando-o-git-clone.md)
 * [Desafio GitHub](dia-11-hora-do-desafio/desafio-github.md)
 
 ***
 
+* [Links Úteis - Dia 11](links-uteis-dia-11.md)
+* [🔍 Glossário - Dia 11](glossario-dia-11.md)
 * [Glossário - GitHub Essentials Completo](glossario-github-essentials-completo.md)
