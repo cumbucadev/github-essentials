@@ -1,0 +1,70 @@
+# Exemplo
+
+Agora que aprendemos como mesclar um Pull Request (PR), vamos seguir o passo a passo de como a conta **aprendizCumbucaDev** realizou a fusão do PR **Adicionando GIF de boas-vindas ao README.md (#2)**.
+
+## 1. Acessando a Verificação de Status
+
+Primeiro, acessamos a seção de Verificação de Status da [aba-conversation.md](../pagina-do-pr/aba-conversation.md "mention") e clicamos no botão **Merge pull request** (_Mesclar pull request_). Como esse é o método que queremos utilizar, não precisamos clicar na seta para trocar. Caso fosse necessário escolher outra opção, poderíamos fazê-lo clicando na seta.
+
+<figure><img src="../../.gitbook/assets/146 merge PR.png" alt=""><figcaption></figcaption></figure>
+
+## 2. Confirmando a Mesclagem
+
+Os campos **Commit message** (_Mensagem do commit_) e **Extended description** (_Descrição estendida_) já vêm preenchidos. Mantivemos os valores sugeridos e clicamos no botão **Confirm merge** (_Confirmar mesclagem_).
+
+<figure><img src="../../.gitbook/assets/147 merge PR 2.png" alt=""><figcaption></figcaption></figure>
+
+Com isso, o PR mudou para o estado de **Merged** (_Mesclado_).
+
+<figure><img src="../../.gitbook/assets/148 merge PR 3.png" alt=""><figcaption></figcaption></figure>
+
+## 3. Deletando o Branch
+
+Como já mesclamos o branch da feature, podemos deletá-lo. O GitHub oferece essa funcionalidade diretamente no PR, por meio do botão **Delete branch** (_Excluir branch_). Sendo assim, clicamos para excluir o branch `issue-1`.
+
+<figure><img src="../../.gitbook/assets/149 merge PR 4.png" alt=""><figcaption></figcaption></figure>
+
+Agora, no histórico de ações, podemos ver que a conta **aprendizCumbucaDev** deletou o branch `issue-1`.
+
+<figure><img src="../../.gitbook/assets/150 merge PR 5.png" alt=""><figcaption></figcaption></figure>
+
+## 4. Verificando as Mudanças no Repositório
+
+Ao acessar a [aba-code](../../dia-6-tudo-sobre-repositorios/aba-code/ "mention") notamos as seguintes alterações:
+
+* O arquivo **README.md** foi atualizado com o novo GIF.
+* O número de branches no repositório voltou a ser **1**.
+* O último commit do repositório refere-se ao merge.
+* O último commit no **README.md** está relacionado à sugestão feita por **camilamaia** no PR.
+
+<figure><img src="../../.gitbook/assets/151 merge PR 6.png" alt=""><figcaption></figcaption></figure>
+
+## 5. Conferindo o Histórico de Commits
+
+Acessando o [historico-de-commits.md](../../dia-6-tudo-sobre-repositorios/aba-code-pagina-principal-do-repositorio/historico-de-commits.md "mention"), podemos ver os 3 últimos commits referentes ao branch `issue-1`.
+
+<figure><img src="../../.gitbook/assets/152 merge PR 7.png" alt=""><figcaption></figcaption></figure>
+
+## 6. Verificando as Issues
+
+Na [aba-issues.md](../../dia-8-minha-primeira-issue/aba-issues.md "mention"), notamos que não há mais nenhuma issue aberta. Clicamos na aba **Closed** (_Fechadas_) para visualizar as issues já concluídas.
+
+<figure><img src="../../.gitbook/assets/153 merge PR 8.png" alt=""><figcaption></figcaption></figure>
+
+E lá está a **issue #1**, já fechada. A issue foi fechada automaticamente porque a referenciamos na descrição do PR com `closes #1`.
+
+<figure><img src="../../.gitbook/assets/154 merge PR 9.png" alt=""><figcaption></figcaption></figure>
+
+## 7. Conferindo os Pull Requests
+
+Na [aba-pull-requests.md](../aba-pull-requests.md "mention"), vemos que não há PRs abertos. Clicamos em **Closed** (_Fechados_) para visualizar os PRs já concluídos.
+
+<figure><img src="../../.gitbook/assets/155 merge PR 10.png" alt=""><figcaption></figcaption></figure>
+
+E lá está o PR mesclado na lista.
+
+<figure><img src="../../.gitbook/assets/156 merge PR 11.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+Com isso, finalizamos o processo de mesclagem de um PR no GitHub. Esse fluxo garante que as mudanças propostas sejam incorporadas ao projeto de maneira organizada e transparente. Além disso, ao fechar issues automaticamente e limpar branches já utilizados, mantemos o repositório mais limpo e fácil de gerenciar.&#x20;
