@@ -63,7 +63,7 @@ Na [aba-pull-requests.md](../aba-pull-requests.md "mention"), vemos que não há
 
 E lá está o PR mesclado na lista.
 
-<figure><img src="../../.gitbook/assets/156 merge PR 11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/156 merge PR 11 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
