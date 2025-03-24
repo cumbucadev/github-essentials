@@ -2,9 +2,9 @@
 
 A página principal de Issues no GitHub lista todas as issues de um repositório, permitindo que você visualize, busque e filtre as tarefas registradas. Aqui, abordaremos os elementos essenciais para que você possa navegar e utilizar essa ferramenta de maneira simples e eficiente.
 
-<figure><img src="../.gitbook/assets/49_ Aba Issues com issue.png" alt=""><figcaption><p>Aba issues do repositório <a href="https://github.com/aprendizCumbucaDev/hello-world">https://github.com/aprendizCumbucaDev/hello-world</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/49_ Aba Issues com issue.png" alt=""><figcaption><p>Aba Issues do repositório <a href="https://github.com/aprendizCumbucaDev/hello-world">https://github.com/aprendizCumbucaDev/hello-world</a></p></figcaption></figure>
 
-## Barra de busca
+## Barra de Busca
 
 A barra de busca permite procurar por issues específicas dentro do repositório. Você pode digitar palavras-chave para encontrar rapidamente algo relevante.
 
@@ -24,7 +24,7 @@ O botão "Labels", localizado logo ao lado da barra de busca, leva à página de
 
 O botão "New Issue" permite criar uma nova issue no repositório. Utilize-o para relatar problemas, sugerir melhorias ou registrar tarefas pendentes ([criando-uma-issue-no-github.md](criando-uma-issue-no-github.md "mention")).&#x20;
 
-<figure><img src="../.gitbook/assets/image (86).png" alt="" width="171"><figcaption><p>Botão New Issue</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (86).png" alt="" width="171"><figcaption><p>Botão New issue</p></figcaption></figure>
 
 ## Cabeçalho da Lista de Issues
 

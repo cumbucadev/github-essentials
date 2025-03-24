@@ -130,7 +130,7 @@ Caso esteja contribuindo para um projeto já estabelecido, siga as diretrizes de
 2. Acesse a aba **Pull Requests**.
 3. Escolha o PR que deseja mesclar.
 4. Revise o código e verifique se passou nos testes.
-5. Clique no botão verde **Merge pull request** na seção **Verificação de Status** da [aba-conversation.md](../pagina-do-pr/aba-conversation.md "mention").
+5. Clique no botão verde **Merge pull request** na seção **Verificação de Status** da [aba-conversation.md](pagina-do-pr/aba-conversation.md "mention").
 6. Escolha o método de mesclagem.
 7. Confirme clicando em **Confirm merge**.
 
