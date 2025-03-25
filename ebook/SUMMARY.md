@@ -165,7 +165,7 @@
   * [Boas Práticas](dia-10-meu-primeiro-pr/revisao-de-pr/boas-praticas.md)
   * [Exemplo](dia-10-meu-primeiro-pr/revisao-de-pr/exemplo.md)
     * [Adicionando Conta Colaboradora](dia-10-meu-primeiro-pr/revisao-de-pr/exemplo/adicionando-conta-colaboradora.md)
-    * [Pedindo Revisão de Pull Request](dia-10-meu-primeiro-pr/revisao-de-pr/exemplo/pedindo-revisao-de-pull-request.md)
+    * [Solicitando Revisão de Pull Request](dia-10-meu-primeiro-pr/revisao-de-pr/exemplo/solicitando-revisao-de-pull-request.md)
     * [Lidando com o Feedback](dia-10-meu-primeiro-pr/revisao-de-pr/exemplo/lidando-com-o-feedback.md)
 * [Mesclando um PR](dia-10-meu-primeiro-pr/mesclando-prs.md)
   * [Exemplo](dia-10-meu-primeiro-pr/mesclando-prs/exemplo.md)

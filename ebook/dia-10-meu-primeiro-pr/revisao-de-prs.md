@@ -1,6 +1,10 @@
 # Revisão de PR
 
-Criar um Pull Request (PR) é apenas o primeiro passo para integrar suas mudanças ao projeto. A revisão de PRs é uma parte essencial desse processo, garantindo qualidade, alinhamento com as práticas do time e melhoria contínua do código.&#x20;
+Criar um Pull Request (PR) é apenas o primeiro passo para integrar suas mudanças ao projeto. A revisão de PRs é uma parte essencial desse processo, garantindo qualidade, alinhamento com as práticas do time e melhoria contínua do código.
+
+{% hint style="warning" %}
+É importante ressaltar que, por se tratar de um curso introdutório, vamos explorar a revisão de Pull Requests apenas da perspectiva de quem a solicitou, sem abordar o processo do ponto de vista de quem revisa.
+{% endhint %}
 
 ## Resultado de uma Revisão
 
