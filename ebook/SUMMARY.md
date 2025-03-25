@@ -176,7 +176,11 @@
 
 ## DIA 11: Hora do Desafio
 
-* [Fork](dia-11-hora-do-desafio/fork.md)
+* [Fork no GitHub](dia-11-hora-do-desafio/fork-no-github/README.md)
+  * [Criando um Fork no GitHub](dia-11-hora-do-desafio/fork-no-github/criando-um-fork-no-github.md)
+  * [Configurando Localmente um Fork](dia-11-hora-do-desafio/fork-no-github/configurando-localmente-um-fork.md)
+  * [Sincronizando um Fork](dia-11-hora-do-desafio/fork-no-github/sincronizando-um-fork.md)
+  * [Criando um PR a partir de um Fork](dia-11-hora-do-desafio/fork-no-github/criando-um-pr-a-partir-de-um-fork.md)
 * [Fluxo de Trabalho](dia-10-meu-primeiro-pr/fluxo-de-trabalho.md)
 * [Espalhando a palavra do Open Source - como participar de outros projetos usando o git clone 🤯](dia-11-hora-do-desafio/espalhando-a-palavra-do-open-source-como-participar-de-outros-projetos-usando-o-git-clone.md)
 * [Extensões Git](dia-11-hora-do-desafio/extensoes-git.md)
