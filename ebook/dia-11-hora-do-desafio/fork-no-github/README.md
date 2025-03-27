@@ -1,5 +1,7 @@
 # Fork no GitHub
 
+O fork surgiu como solução para um problema específico. Por isso, antes de entender o que ele é, é importante analisar o contexto que levou à sua criação. Compreender a necessidade que motivou os forks nos ajuda a entender seu propósito.
+
 ## Problema
 
 Imagine que você quer sugerir uma nova funcionalidade para um projeto de código aberto. Com base no que aprendemos até agora, os passos seriam:
@@ -35,7 +37,7 @@ Esse fluxo beneficia todos os envolvidos. Quem contribui pode trabalhar sem rest
 
 Um **fork** é, basicamente, uma cópia independente de um repositório. Quando você faz um **fork** de um projeto no GitHub, uma réplica completa do código é criada na sua conta, mantendo o mesmo nome do repositório original.
 
-Imagine, por exemplo, que existe um projeto chamado `projeto-incrivel`, mantido pela organização `cumbucadev`. O repositório original está disponível em `https://github.com/cumbucadev/projeto-incrivel` . Se você fizer um **fork** desse repositório, ele será copiado para a sua conta e estará acessível em `https://github.com/seu-usuario/projeto-incrivel`.
+Imagine, por exemplo, que existe um projeto chamado `projeto-incrivel`, mantido pela organização `cumbucadev`. O repositório original está disponível em `https://github.com/cumbucadev/projeto-incrivel` . Se você fizer um **fork** desse repositório, ele será copiado para a sua conta e estará acessível em `https://github.com/sua-conta/projeto-incrivel`.
 
 O nome e o conteúdo do repositório continuam os mesmos, mas agora ele pertence a você. Isso significa que você pode modificar o código da forma que quiser, sem afetar o projeto original.
 
@@ -52,7 +54,7 @@ Porém, nem sempre um **fork** é necessário. Se você já tem permissões no r
 {% hint style="success" %}
 É importante destacar que **"fork" não é um conceito do Git, mas sim do GitHub e de outras plataformas de hospedagem de código**. O Git, por si só, não possui um comando específico chamado "fork".
 
-Se você estivesse apenas usando o Git sem o GitHub, para conseguir algo semelhante a um fork, precisaria seguir alguns passos manualmente: primeiro, clonar o repositório (`git clone`), depois criar um novo repositório em outro lugar, adicionar esse novo repositório como um remoto (`git remote add`) e, então, gerenciar suas alterações a partir daí.
+Se você estivesse apenas usando o Git sem o GitHub, para conseguir algo semelhante a um fork, precisaria seguir alguns passos manualmente: primeiro, clonar o repositório (<mark style="color:purple;">`git`</mark><mark style="color:orange;">`clone`</mark>), depois criar um novo repositório em outro lugar, adicionar esse novo repositório como um remoto (<mark style="color:purple;">`git`</mark><mark style="color:orange;">`remote add`</mark>) e, então, gerenciar suas alterações a partir daí.
 
 O GitHub facilita esse processo tornando o **fork** um recurso nativo da plataforma. Com apenas um clique, você cria automaticamente uma cópia independente de um repositório dentro da sua própria conta, sem precisar configurar nada manualmente. Isso torna a colaboração em projetos open source muito mais simples e acessível para qualquer pessoa.
 {% endhint %}

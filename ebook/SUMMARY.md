@@ -177,6 +177,7 @@
 ## DIA 11: Hora do Desafio
 
 * [Fork no GitHub](dia-11-hora-do-desafio/fork-no-github/README.md)
+  * [Forks e Pull Requests](dia-11-hora-do-desafio/fork-no-github/forks-e-pull-requests.md)
   * [Criando um Fork no GitHub](dia-11-hora-do-desafio/fork-no-github/criando-um-fork-no-github.md)
   * [Configurando Localmente um Fork](dia-11-hora-do-desafio/fork-no-github/configurando-localmente-um-fork.md)
   * [Sincronizando um Fork](dia-11-hora-do-desafio/fork-no-github/sincronizando-um-fork.md)
