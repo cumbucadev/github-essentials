@@ -180,7 +180,7 @@
 * [Forks e Pull Requests](dia-11-hora-do-desafio/forks-e-pull-requests/README.md)
   * [Criando um Fork no GitHub](dia-11-hora-do-desafio/forks-e-pull-requests/criando-um-fork-no-github.md)
   * [Clonando um Fork](dia-11-hora-do-desafio/forks-e-pull-requests/clonando-um-fork.md)
-  * [Fazendo Modificações Locais em um Fork](dia-11-hora-do-desafio/forks-e-pull-requests/fazendo-modificacoes-locais-em-um-fork.md)
+  * [Realizar Alterações Localmente](dia-11-hora-do-desafio/forks-e-pull-requests/realizar-alteracoes-localmente.md)
   * [Enviando Alterações Locais para o Fork Remoto](dia-11-hora-do-desafio/forks-e-pull-requests/enviando-alteracoes-locais-para-o-fork-remoto.md)
   * [Criando um PR a partir de um Fork](dia-11-hora-do-desafio/forks-e-pull-requests/criando-um-pr-a-partir-de-um-fork.md)
   * [Sincronizando um Fork](dia-11-hora-do-desafio/forks-e-pull-requests/sincronizando-um-fork.md)

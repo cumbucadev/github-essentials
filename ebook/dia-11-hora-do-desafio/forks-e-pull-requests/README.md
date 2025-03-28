@@ -6,7 +6,7 @@ Analisando o processo de forma geral, as etapas são as seguintes:
 
 1. **Criar um Fork**: Crie uma cópia do repositório original na sua conta do GitHub.
 2. **Clonar o Fork**: Clone o seu fork para o seu ambiente local para começar a trabalhar nas alterações.
-3. **Fazer Modificações**: Realize as alterações necessárias no seu repositório local.
+3. **Realizar** **Alterações Localmente**: Realize as alterações necessárias no seu repositório local.
 4. **Enviar as Alterações para o Fork**: Após fazer as modificações, envie as mudanças para o seu repositório remoto (origin) no GitHub.
 5. **Criar um Pull Request (PR)**: Abra um Pull Request para sugerir as alterações feitas no seu fork para o repositório original.
 
@@ -43,7 +43,7 @@ Essa cópia será armazenada automaticamente no seu ambiente local.
 
 Agora, você tem uma versão local do repositório e pode começar a fazer alterações.
 
-## 3. Fazendo Modificações
+## 3. Realizar **Alterações Localmente**
 
 Edite os arquivos conforme necessário e salve as mudanças.
 
