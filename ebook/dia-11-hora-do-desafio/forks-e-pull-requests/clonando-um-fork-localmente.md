@@ -1,2 +1,0 @@
-# Configurando Localmente um Fork
-
