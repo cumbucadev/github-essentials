@@ -1,2 +1,0 @@
-# Sincronizando um Fork
-

@@ -68,10 +68,10 @@ Aqui é onde estão disponíveis todos os PRs do repositório. A lista de PRs ex
 * Caixa de seleção para ações em lote;
 * O título do PR (que resume a alteração proposta);
 * O número do PR (um identificador único);
+* Labels, para facilitar a identificação da categoria.
 * Quem abriu o PR e quando;
 * O número de issues relacionadas ao PR;
 * O número de comentários que o PR recebeu;
-* Labels, para facilitar a identificação da categoria.
 
 Clique em um PR para acessar diretamente a página desse PR.
 

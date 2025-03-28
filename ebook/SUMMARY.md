@@ -176,12 +176,14 @@
 
 ## DIA 11: Hora do Desafio
 
-* [Fork no GitHub](dia-11-hora-do-desafio/fork-no-github/README.md)
-  * [Forks e Pull Requests](dia-11-hora-do-desafio/fork-no-github/forks-e-pull-requests.md)
-  * [Criando um Fork no GitHub](dia-11-hora-do-desafio/fork-no-github/criando-um-fork-no-github.md)
-  * [Configurando Localmente um Fork](dia-11-hora-do-desafio/fork-no-github/configurando-localmente-um-fork.md)
-  * [Sincronizando um Fork](dia-11-hora-do-desafio/fork-no-github/sincronizando-um-fork.md)
-  * [Criando um PR a partir de um Fork](dia-11-hora-do-desafio/fork-no-github/criando-um-pr-a-partir-de-um-fork.md)
+* [Fork no GitHub](dia-11-hora-do-desafio/fork-no-github.md)
+* [Forks e Pull Requests](dia-11-hora-do-desafio/forks-e-pull-requests/README.md)
+  * [Criando um Fork no GitHub](dia-11-hora-do-desafio/forks-e-pull-requests/criando-um-fork-no-github.md)
+  * [Clonando um Fork Localmente](dia-11-hora-do-desafio/forks-e-pull-requests/clonando-um-fork-localmente.md)
+  * [Fazendo Modificações Locais em um Fork](dia-11-hora-do-desafio/forks-e-pull-requests/fazendo-modificacoes-locais-em-um-fork.md)
+  * [Enviando Alterações Locais para o Fork Remoto](dia-11-hora-do-desafio/forks-e-pull-requests/enviando-alteracoes-locais-para-o-fork-remoto.md)
+  * [Criando um PR a partir de um Fork](dia-11-hora-do-desafio/forks-e-pull-requests/criando-um-pr-a-partir-de-um-fork.md)
+  * [Sincronizando um Fork](dia-11-hora-do-desafio/forks-e-pull-requests/sincronizando-um-fork.md)
 * [Fluxo de Trabalho](dia-10-meu-primeiro-pr/fluxo-de-trabalho.md)
 * [Espalhando a palavra do Open Source - como participar de outros projetos usando o git clone 🤯](dia-11-hora-do-desafio/espalhando-a-palavra-do-open-source-como-participar-de-outros-projetos-usando-o-git-clone.md)
 * [Extensões Git](dia-11-hora-do-desafio/extensoes-git.md)

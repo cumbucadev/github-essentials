@@ -6,7 +6,7 @@ A aba "Files changed" em um Pull Request (PR) do GitHub é onde você pode visua
 
 ## Barra Superior
 
-No topo da aba há uma barra contendo diversos botões e filtros que ajudam na navegação.
+No topo da aba há uma barra contendo diversos botões e filtros que ajudam na navegação. Vamos focar nas mais importantes:
 
 <figure><img src="../../.gitbook/assets/106 PR aba files changed 2.png" alt=""><figcaption></figcaption></figure>
 

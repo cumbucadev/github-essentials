@@ -10,14 +10,8 @@ A seção **Descrição** contém informações detalhadas sobre o PR e serve co
 
 <figure><img src="../../.gitbook/assets/90 PR criado- description.png" alt=""><figcaption></figcaption></figure>
 
-* **Última Atividade no PR:** Mostra a última ação realizada no PR, quem a realizou e quando aconteceu. A atividade pode incluir ações como:
-  * Atualização na descrição
-  * Mudança de status
-  * Adição ou remoção de labels
-  * Pedido de revisão ou aprovação.
-
-Neste caso: aprendizCumbucaDev commented Now (aprendizCumbucaDev comentou Agora)
-
+* **Última Atividade no PR:** Mostra a última ação realizada no PR, quem a realizou e quando aconteceu. A atividade pode incluir ações como: atualização na descrição, muda&#x6E;_&#xE7;_&#x61; de status, adição ou remoção de labels, pedido de revisão ou aprovação, entre outros.\
+  Neste caso: aprendizCumbucaDev commented Now (aprendizCumbucaDev comentou Agora)
 * **Botão `...`(Mais Opções)**: Disponibiliza ações adicionais. Entre as principais: Copy Link (Copiar Link) e Edit (Editar).&#x20;
   * ![](<../../.gitbook/assets/image (108).png>)
   * **Copy Link:** **Copy Link (Copiar Link):** Permite copiar o link do PR para compartilhamento.
@@ -83,9 +77,7 @@ A seção de criação e edição de comentário em um Pull Request permite que 
 
 <figure><img src="../../.gitbook/assets/93 PR criado- criar comentário.png" alt=""><figcaption></figcaption></figure>
 
-* **Editor de Comentários**: Campo para adicionar novos comentários, onde os usuários podem digitar suas mensagens e usar o Markdown para formatação. Também inclui botões para anexar arquivos ou mencionar outros usuários com `@username`.
-
-Escreve seu comentário e clique em **Comment** para publicá-lo. Após a publicação, o comentário fica registrado no histórico de atividades.
+Escreva seu comentário e clique em **Comment** para publicá-lo. Após a publicação, o comentário fica registrado no histórico de atividades.
 
 <figure><img src="../../.gitbook/assets/94 PR criado- comentário.png" alt=""><figcaption></figcaption></figure>
 
@@ -145,4 +137,3 @@ A barra lateral do Pull Request exibe informações importantes para acompanhar 
 ***
 
 A seguir, exploraremos o processo de revisão e aprovação de Pull Requests.
-

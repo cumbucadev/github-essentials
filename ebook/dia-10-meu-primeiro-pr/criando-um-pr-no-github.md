@@ -39,7 +39,7 @@ A mensagem na caixa de diálogo _"This branch is **1** commit ahead of main"_ in
 
 ### 1. Confira o branch de origem e o branch de destino
 
-O branch de origem deve ser `issue-1` e o de origem `main`:&#x20;
+O branch de origem deve ser `issue-1` e o de destino `main`:&#x20;
 
 > &#x20;`main ← issue-1`&#x20;
 

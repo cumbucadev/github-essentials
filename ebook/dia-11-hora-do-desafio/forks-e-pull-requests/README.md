@@ -5,7 +5,7 @@ Forks e Pull Requests são ferramentas essenciais no GitHub para a colaboração
 Analisando o processo de forma geral, as etapas são as seguintes:
 
 1. **Criar um Fork**: Crie uma cópia do repositório original na sua conta do GitHub.
-2. **Clonar o Repositório Forkado**: Clone o seu fork para o seu ambiente local para começar a trabalhar nas alterações.
+2. **Clonar o Fork**: Clone o seu fork para o seu ambiente local para começar a trabalhar nas alterações.
 3. **Fazer Modificações**: Realize as alterações necessárias no seu repositório local.
 4. **Enviar as Alterações para o Fork**: Após fazer as modificações, envie as mudanças para o seu repositório remoto (origin) no GitHub.
 5. **Criar um Pull Request (PR)**: Abra um Pull Request para sugerir as alterações feitas no seu fork para o repositório original.
@@ -22,7 +22,7 @@ Acesse a página do repositório no GitHub e clique no botão **Fork**. Isso cri
 
 <figure><img src="../../.gitbook/assets/workflow com fork 2.png" alt=""><figcaption></figcaption></figure>
 
-## 2. Clonando o Repositório Forkado
+## 2. Clonando o Fork
 
 Pensando da perspectiva do seu fork, a nomenclatura utilizada é:
 
@@ -67,4 +67,4 @@ Se o PR for aprovado pelas pessoas mantenedoras do repositório original, suas m
 Nesta seção, evitamos mencionar **issues** e **branches** para manter o processo mais direto e claro. O fluxo completo será abordado mais adiante.
 {% endhint %}
 
-A seguir, veremos como realizar esse processo na prática.
+A seguir, veremos como realizar esse processo na prática, passo a passo.
