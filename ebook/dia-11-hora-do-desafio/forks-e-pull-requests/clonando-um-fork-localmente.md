@@ -1,6 +1,6 @@
 # Clonando um Fork
 
-Assim como fizemos anteriormente, na seção[clonando-um-repositorio-do-github.md](../../dia-9-git-remoto/github-interagindo-com-o-repositorio-remoto-hello-world/clonando-um-repositorio-do-github.md "mention"), vamos clonar o novo fork criado.
+Assim como fizemos anteriormente, na seção[clonando-um-repositorio-no-github.md](../../dia-9-git-remoto/interagindo-com-o-repositorio-central-hello-world/clonando-um-repositorio-no-github.md "mention"), vamos clonar o novo fork criado.
 
 ## Passo a Passo
 

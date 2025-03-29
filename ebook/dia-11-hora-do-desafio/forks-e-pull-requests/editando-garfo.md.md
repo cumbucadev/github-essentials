@@ -1,4 +1,4 @@
-# Realizar Alterações Localmente
+# Editando GARFO.md
 
 Continuando no processo de fluxo de trabalho com forks e pull requests, é hora de realizar as alterações necessárias localmente. Ao abrir o arquivo **README.md** do repositório, encontramos as instruções que nos guiarão durante esse processo.
 
@@ -107,3 +107,4 @@ E, selecione a opção **Salvar**.
 ***
 
 A seguir, vamos salvar as alterações no repositório local e enviar para o seu fork remoto!
+

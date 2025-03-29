@@ -1,6 +1,6 @@
 # Fork no GitHub
 
-O fork surgiu como solução para um problema específico. Por isso, antes de entender o que ele é, é importante analisar o contexto que levou à sua criação. Compreender a necessidade que motivou os forks nos ajuda a entender seu propósito.
+O conceito de **fork** surgiu como solução para um problema específico. Por isso, antes de entender o que ele é, é importante analisar o contexto que levou à sua criação. Compreender a necessidade que motivou os forks nos ajuda a entender seu propósito.
 
 ## Problema
 
@@ -40,6 +40,16 @@ Um **fork** é, basicamente, uma cópia independente de um repositório. Quando 
 Imagine, por exemplo, que existe um projeto chamado `projeto-incrivel`, mantido pela organização `cumbucadev`. O repositório original está disponível em `https://github.com/cumbucadev/projeto-incrivel` . Se você fizer um **fork** desse repositório, ele será copiado para a sua conta e estará acessível em `https://github.com/sua-conta/projeto-incrivel`.
 
 O nome e o conteúdo do repositório continuam os mesmos, mas agora ele pertence a você. Isso significa que você pode modificar o código da forma que quiser, sem afetar o projeto original.
+
+## O Significado da Palavra "Fork"
+
+A palavra _**fork**_ em inglês pode ser traduzida de duas formas principais para o português:
+
+**Bifurcação**: Representa um ponto onde algo se divide em dois ou mais caminhos, como uma estrada que se separa em direções diferentes. No contexto de Git e desenvolvimento de software, essa ideia de separação é fundamental para entender os forks.
+
+**Garfo**: Embora essa seja a tradução mais comum no dia a dia, não é a mais apropriada no contexto técnico. No entanto, muitas pessoas fazem trocadilhos com essa palavra, especialmente em comunidades _open source_.
+
+Um exemplo famoso de repositório com trocadilho é o [Spoon-Knife](https://github.com/octocat/Spoon-Knife), do GitHub. O nome brinca com talheres (_spoon_ = colher, _knife_ = faca), enquanto _fork_ (garfo) é um conceito do Git. Esse repositório foi criado para quem quer praticar o uso de _forks_ no GitHub. 🍴
 
 ## Por Que e Quando Usar um Fork?
 
