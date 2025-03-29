@@ -1,0 +1,47 @@
+# Adicionando Conta Colaboradora
+
+Vamos mostrar o passo a passo de como a conta **aprendizCumbucaDev** convidou a conta **camilamaia** para colaborar no repositório _hello-world_.
+
+Na conta **aprendizCumbucaDev**, acessamos a[aba-settings-pagina-de-configuracoes-do-repositorio](../../../6.-repositorios-no-github/aba-settings-pagina-de-configuracoes-do-repositorio/ "mention").
+
+<figure><img src="../../../.gitbook/assets/119 exemplo de revisão de PR.png" alt=""><figcaption></figcaption></figure>
+
+E, clicamos na opção **Collaborators** no menu lateral da esquerdo.
+
+<figure><img src="../../../.gitbook/assets/120 exemplo de revisão de PR 2.png" alt=""><figcaption></figcaption></figure>
+
+Houve o redirecionamento para uma página de confirmação de senha, uma vez que estamos querendo executar ações previligiadas no repositório.Digitamos a sua senha e clicamos em **Confirm**.
+
+<figure><img src="../../../.gitbook/assets/122 exemplo de revisão de PR 4.png" alt=""><figcaption></figcaption></figure>
+
+Na seção **Manage Acess**, clicamos em **Add People**.
+
+<figure><img src="../../../.gitbook/assets/123 exemplo de revisão de PR 5.png" alt=""><figcaption></figcaption></figure>
+
+Escrevemos o nome da conta de pessoa usuária que queremos convidar: **camilamaia**. Clicamos na conta correspondente no menu suspenso.
+
+<figure><img src="../../../.gitbook/assets/124 exemplo de revisão de PR 6.png" alt=""><figcaption></figcaption></figure>
+
+Clicamos em **Add camilamaia**.
+
+<figure><img src="../../../.gitbook/assets/125 exemplo de revisão de PR 7.png" alt=""><figcaption></figcaption></figure>
+
+A conta **camilamaia** apareceu na lista de colaboradores com o status **"convite pendente"**.
+
+<figure><img src="../../../.gitbook/assets/126 exemplo de revisão de PR 8 (1).png" alt=""><figcaption></figcaption></figure>
+
+Um e-mail foi enviado para a conta **camilamaia** com um convite para colaborar no repositório _hello-world_ da conta **aprendizCumbucaDev**. Clicamos em **View Invite**.
+
+<figure><img src="../../../.gitbook/assets/127 exemplo de revisão de PR 9 (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+Uma nova aba foi aberta, onde clicamos em **Accept invitation**.
+
+<figure><img src="../../../.gitbook/assets/128 exemplo de revisão de PR 10 (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+Após aceitar o convite, **camilamaia** foi redirecionada para a página do repositório _hello-world_, com um painel no topo confirmando que agora tem acesso de _push_.
+
+<figure><img src="../../../.gitbook/assets/129 exemplo de revisão de PR 11.png" alt=""><figcaption></figcaption></figure>
+
+De volta à conta **aprendizCumbucaDev**, atualizamos a página **Collaborators** e vimos que **camilamaia** agora aparece com o papel de colaboradora. A partir desse momento, passou a ser possível adicioná-la como pessoa revisora em PRs do repositório.
+
+<figure><img src="../../../.gitbook/assets/130 exemplo de revisão de PR 12.png" alt=""><figcaption></figcaption></figure>
