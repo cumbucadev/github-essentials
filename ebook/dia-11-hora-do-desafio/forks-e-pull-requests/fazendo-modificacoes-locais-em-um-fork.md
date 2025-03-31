@@ -18,8 +18,8 @@ Dando continuidade ao processo de contribuição com forks e pull requests, é h
 
 O **passo 1** já foi realizado. Agora, vamos focar no próximo passo: adicionar uma linha ao arquivo **GARFO.md**. Para isso, seguiremos um processo muito parecido com o que abordamos nas seções [editando-readme.md.md](../../dia-9-git-remoto/interagindo-com-o-repositorio-central-hello-world/alterando-hello-world-localmente/editando-readme.md.md "mention") e [salvando-alteracoes-no-controle-de-versao-local.md](../../dia-9-git-remoto/interagindo-com-o-repositorio-central-hello-world/alterando-hello-world-localmente/salvando-alteracoes-no-controle-de-versao-local.md "mention"):
 
-1. [#editar-o-arquivo-garfo.md](realizar-alteracoes-localmente.md#editar-o-arquivo-garfo.md "mention")
-2. [#salvar-alteracoes-no-controle-de-versao-local](realizar-alteracoes-localmente.md#salvar-alteracoes-no-controle-de-versao-local "mention")
+1. [#editar-o-arquivo-garfo.md](fazendo-modificacoes-locais-em-um-fork.md#editar-o-arquivo-garfo.md "mention")
+2. [#salvar-alteracoes-no-controle-de-versao-local](fazendo-modificacoes-locais-em-um-fork.md#salvar-alteracoes-no-controle-de-versao-local "mention")
 
 ## Editar o Arquivo GARFO.md
 

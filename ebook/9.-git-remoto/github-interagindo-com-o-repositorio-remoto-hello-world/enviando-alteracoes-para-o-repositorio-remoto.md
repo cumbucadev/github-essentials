@@ -38,7 +38,7 @@ remote:      https://github.com/aprendizCumbucaDev/hello-world/pull/new/issue-1
 remote:
 To github.com:aprendizCumbucaDev/hello-world.git
  * [new branch]      issue-1 -> issue-1
-branch 'issue-1' set up to track 'origin/issue-1',a
+branch 'issue-1' set up to track 'origin/issue-1'
 ```
 
 #### O que acontece depois de rodar esse comando?
@@ -46,7 +46,7 @@ branch 'issue-1' set up to track 'origin/issue-1',a
 1. O Git cria o branch `issue-1` no repositório remoto (caso ele ainda não exista).
 2. As alterações que você fez e comitou localmente serão enviadas para esse branch no GitHub.
 
-## Verificando o Repositório Eemoto Central
+## Verificando o Repositório Remoto Central
 
 Acesse novamente a página do repositório no GitHub ou recarregue-a. Agora, você verá um novo painel indicando que a branch `issue-1` recebeu alterações recentemente (exemplo: _"issue-1 had recent pushes X minutes ago"_). Falaremos mais sobre isso no próximo capítulo.
 
