@@ -17,11 +17,19 @@ A seção de **Cabeçalho** contém as informações essenciais sobre o PR, forn
   * Merge&#x64;**:** PR já mesclado ao branch de destino.
   * Close&#x64;**:** PR fechado sem mesclagem.
   * Neste caso: `Open`.
-*   **Resumo da Solicitação:** Descreve rapidamente a intenção do PR no seguinte formato:
+*   **Resumo da Solicitação:** Descreve rapidamente a intenção do PR no seguinte formato:\
 
-    > `<pessoa-autora> wants to merge <número-de-commits> commit into <branch-destino> from <branch-origem>`
 
-    * Neste caso: `aprendizCumbucaDev wants to merge 1 commit into main from issue-1`.
+    > **\<pessoa-autora> wants to merge \<número-de-commits> commit into \<branch-destino> from \<branch-origem>.**
+    >
+    > \<pessoa-autora> quer mesclar \<número-de-commits> commit no \<branch-destino> a partir de \<branch-origem>.
+
+
+
+    *   Neste caso:&#x20;
+
+        > **aprendizCumbucaDev wants to merge 1 commit into main from issue-1.** \
+        > aprendizCumbucaDev quer mesclar 1 commit no main a partir de issue-1.
     * **Pessoa Autora do PR**: O nome da conta de usuário de que abriu o PR. Neste caso: `aprendizCumbucaDev`.
     * **Número de commits**: Exibe o total de commits incluídos no PR. Neste caso: `1 commit`.&#x20;
     * **Branches envolvidos**:

@@ -1,6 +1,6 @@
 # Criando um PR no GitHub
 
-O GitHub tem a documentação oficial explicando como criar um Pull Request [Guia Oficial do GitHub](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). Aqui, vamos direto à prática e criar um PR para a Issue #1 do seu repositório _hello-world_.
+O GitHub tem a documentação oficial explicando como criar um Pull Request [Guia Oficial do GitHub](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). Aqui, vamos direto à prática e criar um PR para a `Issue #1` do seu repositório **hello-world**.
 
 Pode parecer desnecessário abrir um PR quando você mesmo vai revisá-lo e aceitá-lo, mas isso tem seu valor, mesmo em repositórios com apenas uma pessoa contribuindo. Manter um histórico organizado facilita o rastreamento de mudanças e a reversão de alterações caso necessário. Além disso, cada PR pode conter descrições detalhadas e servir como um registro das decisões tomadas, funcionando como uma espécie de anotação para consultas futuras. Seguir esse fluxo também tem um propósito didático, ajudando a internalizar boas práticas de colaboração e preparando o ambiente para quando mais pessoas começarem a contribuir no repositório.
 
@@ -8,7 +8,7 @@ Agora, vamos criar um Pull Request!
 
 ## Acessar a Página de Criação de Pull Request <a href="#criando-sua-primeira-issue" id="criando-sua-primeira-issue"></a>
 
-Se houver um painel indicando que a branch `issue-1` recebeu alterações recentemente (exemplo: "issue-1 had recent pushes X minutes ago"), clique no botão **Compare & pull request**.
+Se houver um painel indicando que a branch `issue-1` recebeu alterações recentemente (exemplo: "issue-1 had recent pushes X minutes ago"), clique no botão Compare & pull request.
 
 <figure><img src="../.gitbook/assets/73_ Acessa pg para criar PR.png" alt=""><figcaption></figcaption></figure>
 
@@ -37,7 +37,7 @@ A mensagem na caixa de diálogo _"This branch is **1** commit ahead of main"_ in
 
 ## Criar de Pull Request <a href="#criando-sua-primeira-issue" id="criando-sua-primeira-issue"></a>
 
-### 1. Confira o branch de origem e o branch de destino
+### 1. Certifique-se que o branch de origem e o branch de destino estão corretos
 
 O branch de origem deve ser `issue-1` e o de destino `main`:&#x20;
 
@@ -47,15 +47,15 @@ O branch de origem deve ser `issue-1` e o de destino `main`:&#x20;
 
 Isso garante que as alterações feitas em `issue-1` serão enviadas para `main`.
 
-### 3. Confira o Título
+### 2. Confira o título
 
-Como o Pull Request tem apenas um commit, o GitHub já preencheu o título com a mensagem deste commit. Portanto, apenas Certifique-se de que ele está claro e descritivo.
+Como o Pull Request tem apenas um commit, o GitHub já preencheu o título com a mensagem deste commit. Portanto, apenas certifique-se de que ele está claro e descritivo.
 
 <figure><img src="../.gitbook/assets/84- PR -Título.png" alt=""><figcaption></figcaption></figure>
 
 Neste caso, podemos prosseguir mantendo o título `Adicionando GIF de boas vindas ao README.md`.
 
-### 4. Preencha a Descrição
+### 3. Preencha a descrição
 
 Na caixa de descrição, precisamos fornecer um resumo das alterações e a motivação para elas.
 
@@ -79,7 +79,7 @@ Faça também a pré-vizualização da descrição formatada para garantir que t
 
 <figure><img src="../.gitbook/assets/86 Descrição Preenchida PR - Preview.png" alt=""><figcaption></figcaption></figure>
 
-### 5. Confira as Modificações
+### 4. Confira as modificações
 
 Antes de criar o PR, revise as mudanças para garantir que tudo está correto.
 
@@ -89,7 +89,7 @@ Confira também o arquivo README.md formatado para garantir que tudo está sendo
 
 <figure><img src="../.gitbook/assets/82- Criar PR 5.png" alt=""><figcaption></figcaption></figure>
 
-### 6. Crie o Pull Request
+### 5. Crie o pull request
 
 Após preencher todas as informações e revisar as mudanças, clique em **Create pull request** para enviar.
 
@@ -99,7 +99,7 @@ Após preencher todas as informações e revisar as mudanças, clique em **Creat
 
 Parabéns, o seu primeiro Pull Request foi criado com sucesso!
 
-### **7. Adicione Labels**
+### **6. Adicione labels**
 
 Labels ajudam a categorizar os PRs e podem ser adicionadas tanto na criação quanto após a abertura do PR. Neste exemplo, adicione a label `documentation` para indicar que o PR corresponde a uma atualização na documentação.
 

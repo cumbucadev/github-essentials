@@ -186,6 +186,7 @@
   * [Enviando Alterações Locais para o Fork Remoto](11.-fluxo-de-trabalho/forks-e-pull-requests/enviando-alteracoes-locais-para-o-fork-remoto.md)
   * [Criando um PR a partir de um Fork](dia-11-hora-do-desafio/forks-e-pull-requests/criando-um-pr-a-partir-de-um-fork.md)
   * [Sincronizando um Fork](dia-11-hora-do-desafio/forks-e-pull-requests/sincronizando-um-fork.md)
+  * [Revisão, Mesclagem e Atualizações Pós-mesclagem](11.-fluxo-de-trabalho/forks-e-pull-requests/revisao-mesclagem-e-atualizacoes-pos-mesclagem.md)
 * [Fluxo de Trabalho](dia-10-meu-primeiro-pr/fluxo-de-trabalho.md)
 * [Espalhando a palavra do Open Source - como participar de outros projetos usando o git clone 🤯](dia-11-hora-do-desafio/espalhando-a-palavra-do-open-source-como-participar-de-outros-projetos-usando-o-git-clone.md)
 * [Extensões Git](dia-11-hora-do-desafio/extensoes-git.md)

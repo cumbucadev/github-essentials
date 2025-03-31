@@ -2,7 +2,7 @@
 
 
 
-\----
+***
 
 **Rascunho**
 
@@ -15,4 +15,10 @@ Você precisa atualizar seu fork quando o repositório original (upstream) teve 
 5. **Se precisar usar novas funcionalidades ou correções** → Se o upstream adicionou algo útil para o seu trabalho, atualizar o fork permite que você use essas novidades.
 
 O GitHub facilita esse processo com a opção "Sync fork", mas você também pode fazer isso manualmente via terminal usando `git fetch upstream` e `git merge upstream/main`. 🚀
+
+
+
+
+
+
 
