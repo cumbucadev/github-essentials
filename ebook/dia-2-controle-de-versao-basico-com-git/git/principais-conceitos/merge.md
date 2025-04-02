@@ -1,9 +1,0 @@
-# Merge
-
-#### :flag\_br: Fundir, misturar, mesclar
-
-Se os códigos antes foram isolados, agora é hora de juntar! O merge permite integrar as alterações feitas em uma branch de desenvolvimento de volta à branch principal (`master` ou `main`). Isso garante que as novas funcionalidades, correções ou melhorias feitas em branches secundárias estejam disponíveis na branch principal do projeto.
-
-
-
-<figure><img src="../../../.gitbook/assets/Merge.png" alt=""><figcaption><p>Aqui, a branch <code>main</code> é mesclada com a branch <code>feature1</code>, recebendo os novos arquivos e atualizações na diretamente na branch principal após o merge.</p></figcaption></figure>

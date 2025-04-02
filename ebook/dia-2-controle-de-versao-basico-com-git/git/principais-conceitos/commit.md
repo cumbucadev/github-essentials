@@ -1,9 +1,0 @@
-# Commit
-
-#### :flag\_br: Comprometer, registrar
-
-Um commit é uma "foto" do estado atual do repositório. Ele registra quais mudanças foram feitas, por quem e quando. Sendo uma parte fundamental do fluxo de trabalho do Git, permite o registro, acompanhamento e reversão de alterações no código-fonte de um projeto. Os commits são a base para o versionamento de código e colaboração eficaz entre desenvolvedores.
-
-
-
-<figure><img src="../../../.gitbook/assets/Commit (1).png" alt=""><figcaption><p>Nesta imagem temos 2 commits diferentes, e cada um possui seu próprio ID, informações de autoria, data/hora e uma breve descrição. Eles se comportam como um "print screen" que capta todas essas informações no momento em que o Desenvolvedor "<em>commita"</em> essas atualizações. </p></figcaption></figure>
