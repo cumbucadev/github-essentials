@@ -15,3 +15,4 @@ layout:
 
 # Git e GitHub para Humanos
 
+<figure><img src=".gitbook/assets/GH Essentials.png" alt="Um emblema circular com tons concêntricos de roxo e o texto &#x22;GITHUB ESSENTIALS&#x22; em letras brancas em negrito."><figcaption></figcaption></figure>
