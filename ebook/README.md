@@ -10,7 +10,7 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: false
+    visible: true
 ---
 
 # Git e GitHub para Humanos
