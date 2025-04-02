@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Git e GitHub para Humanos](README.md)
-* [Sumário](sumario.md)
 
 ## 1. Antes de Começar
 
