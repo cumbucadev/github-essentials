@@ -5,7 +5,7 @@ description: >-
   aprender de uma vez por todas!
 ---
 
-# 💡 Indicação: Jogo Oh My Git
+# 12.1.1 Indicação: Jogo Oh My Git
 
 Ufa! Chegamos ao fim de mais um dia, e particularmente: até para nós esse foi sem dúvidas o dia mais desafiador de construir. Aprender sobre Git nem sempre é fácil e vou te contar um grande segredo: há muitas pessoas desenvolvedoras que só o utilizam do jeito que dá, mas não sabem/compreendem tudo o que te ensinamos até aqui - e assim, não conseguem utilizar todo o potencial desta grande ferramenta de versionamento de código. _(Já pensou que incrível você chegar no seu primeiro dia de trabalho já craque nestes conceitos? Este com certeza é um diferencial!)_
 

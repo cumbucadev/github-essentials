@@ -209,7 +209,7 @@ layout:
 ## 12. O Caminho Continua
 
 * [12.1 Conhecendo Ferramentas Adicionais](12.-o-caminho-continua/12.1-conhecendo-ferramentas-adicionais/)
-  * [💡 Indicação: Jogo Oh My Git](12.-o-caminho-continua/12.1-conhecendo-ferramentas-adicionais/indicacao-jogo-oh-my-git.md)
+  * [12.1.1 Indicação: Jogo Oh My Git](12.-o-caminho-continua/12.1-conhecendo-ferramentas-adicionais/indicacao-jogo-oh-my-git.md)
 * [12.2 Explorando Projetos Open Source](12.-o-caminho-continua/12.2-explorando-projetos-open-source.md)
 * [12.3 Crescendo e Colaborando em Comunidades](12.-o-caminho-continua/12.3-crescendo-e-colaborando-em-comunidades.md)
 * [12.4 Desafio: GitCaos 🔥](12.-o-caminho-continua/12.4-desafio-gitcaos.md)

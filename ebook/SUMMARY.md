@@ -5,20 +5,20 @@
 
 ## 1. Antes de Começar
 
-* [1.1 Este Livro é para Você?](1.-antes-de-comecar/1.1-este-livro-e-para-voce.md)
-* [1.2 A Razão por Trás Deste Livro](1.-antes-de-comecar/1.2-a-razao-por-tras-deste-livro.md)
-* [1.3 Visão Geral](1.-antes-de-comecar/1.3-visao-geral.md)
+* [1.1 Este livro é para você?](1.-antes-de-comecar/1.1-este-livro-e-para-voce.md)
+* [1.2 A razão por trás deste livro](1.-antes-de-comecar/1.2-a-razao-por-tras-deste-livro.md)
+* [1.3 Visão geral](1.-antes-de-comecar/1.3-visao-geral.md)
 * [1.4 Sobre o GitHub](1.-antes-de-comecar/1.4-sobre-o-github.md)
 * [1.5 Sobre a Cumbuca Dev](1.-antes-de-comecar/1.5-sobre-a-cumbuca-dev.md)
-* [1.6 O Maravilhoso Mundo do Open Source](1.-antes-de-comecar/1.6-o-maravilhoso-mundo-do-open-source.md)
-* [1.7 Mapa do Livro](1.-antes-de-comecar/1.7-mapa-do-livro.md)
-* [1.8 Glossário: Capítulo 1](1.-antes-de-comecar/1.8-glossario-capitulo-1.md)
+* [1.6 O maravilhoso mundo do open source](1.-antes-de-comecar/1.6-o-maravilhoso-mundo-do-open-source.md)
+* [1.7 Mapa do livro](1.-antes-de-comecar/1.7-mapa-do-livro.md)
+* [1.8 Glossário: capítulo 1](1.-antes-de-comecar/1.8-glossario-capitulo-1.md)
 
 ## 2. Fundamentos de Controle de Versão e Git
 
-* [2.1 Introdução a Sistemas de Controle de Versão](2.-fundamentos-de-controle-de-versao-e-git/2.1-introducao-a-sistemas-de-controle-de-versao/README.md)
-  * [2.1.1 Sistemas de Controle de Versão Centralizados](2.-fundamentos-de-controle-de-versao-e-git/2.1-introducao-a-sistemas-de-controle-de-versao/2.1.1-sistemas-de-controle-de-versao-centralizados.md)
-  * [2.1.2 Sistemas de Controle de Versão Distribuídos](2.-fundamentos-de-controle-de-versao-e-git/2.1-introducao-a-sistemas-de-controle-de-versao/2.1.2-sistemas-de-controle-de-versao-distribuidos.md)
+* [2.1 Introdução a sistemas de controle de versão](2.-fundamentos-de-controle-de-versao-e-git/2.1-introducao-a-sistemas-de-controle-de-versao/README.md)
+  * [2.1.1 Sistemas de controle de versão centralizados](2.-fundamentos-de-controle-de-versao-e-git/2.1-introducao-a-sistemas-de-controle-de-versao/2.1.1-sistemas-de-controle-de-versao-centralizados.md)
+  * [2.1.2 Sistemas de controle de versão distribuídos](2.-fundamentos-de-controle-de-versao-e-git/2.1-introducao-a-sistemas-de-controle-de-versao/2.1.2-sistemas-de-controle-de-versao-distribuidos.md)
 * [2.2 Introdução ao Git](2.-fundamentos-de-controle-de-versao-e-git/2.2-introducao-ao-git.md)
 * [2.3 Conceitos Fundamentais do Git](2.-fundamentos-de-controle-de-versao-e-git/2.3-conceitos-fundamentais-do-git/README.md)
   * [2.3.1 Repositório](2.-fundamentos-de-controle-de-versao-e-git/2.3-conceitos-fundamentais-do-git/2.3.1-repositorio.md)
@@ -201,7 +201,7 @@
 ## 12. O Caminho Continua
 
 * [12.1 Conhecendo Ferramentas Adicionais](12.-o-caminho-continua/12.1-conhecendo-ferramentas-adicionais/README.md)
-  * [💡 Indicação: Jogo Oh My Git](12.-o-caminho-continua/12.1-conhecendo-ferramentas-adicionais/indicacao-jogo-oh-my-git.md)
+  * [12.1.1 Indicação: Jogo Oh My Git](12.-o-caminho-continua/12.1-conhecendo-ferramentas-adicionais/indicacao-jogo-oh-my-git.md)
 * [12.2 Explorando Projetos Open Source](12.-o-caminho-continua/12.2-explorando-projetos-open-source.md)
 * [12.3 Crescendo e Colaborando em Comunidades](12.-o-caminho-continua/12.3-crescendo-e-colaborando-em-comunidades.md)
 * [12.4 Desafio: GitCaos 🔥](12.-o-caminho-continua/12.4-desafio-gitcaos.md)
